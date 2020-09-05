@@ -1,0 +1,132 @@
+﻿Objekt,Cleaning1,Cleaning1Frequency,Cleaning1LastDate,Cleaning1NextDate,Cleaning2,Cleaning2Frequency,Cleaning2LastDate,Cleaning2NextDate,Area,Typ
+303 Vattentank,Syradisk,60,2018-09-16,2019-01-12,Lutdisk,60,2018-09-17,2018-11-18,Filtrering,Vanlig
+BBT 304,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 305,Syradisk,7,2018-10-30,2019-01-12,Lutdisk,21,2018-10-12,2018-11-02,Filtrering,Vanlig
+BBT 306,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-21,2018-11-11,Filtrering,Vanlig
+BBT 307,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 308,Syradisk,7,2018-11-01,2018-11-08,Lutdisk,21,2018-10-15,2018-11-05,Filtrering,Vanlig
+301 Vattentank,Syradisk,60,2018-09-14,2018-11-13,Lutdisk,60,2018-09-14,2018-11-13,Filtrering,Vanlig
+BBT 310,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 309,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-29,2018-11-19,Filtrering,Vanlig
+BBT 311,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 312,Syradisk,7,2018-10-31,2019-01-12,Lutdisk,21,2018-10-31,2018-11-21,Filtrering,Vanlig
+BBT 313,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 314,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 315,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-31,2018-11-21,Filtrering,Vanlig
+BBT 317,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-02,2018-11-23,Filtrering,Vanlig
+BBT 318,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-07,2018-10-28,Filtrering,Vanlig
+BBT 319,Syradisk,7,2018-10-31,2018-11-07,Lutdisk,21,2018-10-18,2018-11-08,Filtrering,Vanlig
+BBT 320,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+BBT 321,Syradisk,7,2018-11-04,2018-11-11,Lutdisk,21,2018-10-17,2018-11-07,Filtrering,Vanlig
+BBT 322,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-18,2018-11-08,Filtrering,Vanlig
+BBT 323,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-25,2018-11-15,Filtrering,Vanlig
+302 Vattentank,Syradisk,60,2018-11-13,2019-01-12,Lutdisk,60,2018-09-14,2018-11-13,Filtrering,Vanlig
+BBT 324,Syradisk,7,2018-10-26,2018-11-02,Lutdisk,21,2018-10-26,2018-11-16,Filtrering,Vanlig
+Filtret Sterilning,Genomförd,7,2018-11-13,2018-11-20,,,,,Filtrering,Vanlig
+BBT 325,Syradisk,7,2018-11-04,2018-11-11,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+T34,Syradisk,7,2018-10-26,2018-11-02,Lutdisk,21,2018-10-26,2018-11-16,Filtrering,Veckoavslut
+T45,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-10-26,2018-11-16,Filtrering,Veckoavslut
+Maltax,Rengjord,7,2018-10-26,2018-11-02,,,,,Filtrering,Veckoavslut
+Filtret-Veckoavslut,Lutsterilning,7,2018-11-13,2018-11-20,,,,,Filtrering,Veckoavslut
+Kontrollera BBT:er i Citect,Genomförd,7,2018-10-27,2018-11-03,,,,,Filtrering,Veckoavslut
+Gurtank T66,Syradisk,90,2018-09-07,2018-12-06,,,,,Filtrering,Sällan
+Aldox,Syradisk,7,2018-09-28,2018-10-05,,,,,Filtrering,Veckoavslut
+Gurtank T67,Syradisk,90,2018-08-26,2018-11-24,,,,,Filtrering,Sällan
+Gurtank T68,Syradisk,90,2018-09-07,2018-12-06,,,,,Filtrering,Sällan
+Rengör avloppsrännor jäskällaren,Rengjord,7,2017-01-27,2017-02-03,,,,,Jäskällaren,Sällan
+Vattenfilter,Genomförd,7,2018-10-27,2018-11-03,,,,,Filtrering,Veckoavslut
+Lilla balanssystemet (2),Lutdisk,90,2018-09-14,2018-12-13,,,,,Filtrering,Sällan
+Balanssystemet jäskällaren,Lutdisk,90,2017-01-27,2017-04-27,,,,,Jäskällaren,Sällan
+Kolsyraledning,Rengjord,90,2018-04-27,2018-07-26,,,,,Filtrering,Sällan
+Byt ut gula rengöringsverktyg (Filtrering),Genomförd,720,2017-01-27,2019-01-17,,,,,Filtrering,Sällan
+Stora balanssystemet (1),Lutdisk,90,2018-09-14,2018-12-13,,,,,Filtrering,Sällan
+BBT 316,Syradisk,7,2018-11-13,2018-11-20,Lutdisk,21,2018-11-13,2018-12-04,Filtrering,Vanlig
+Byt ut blåa rengöringsverktyg (Filtrering),Genomförd,1440,2017-01-27,2021-01-06,,,,,Filtrering,Sällan
+Byt ut blåa rengöringsverktyg (Brygghuset),Genomförd,1440,2017-01-27,2021-01-06,,,,,Brygghuset,Sällan
+Byt ut gula rengöringsverktyg (Brygghuset),Genomförd,720,2017-01-27,2019-01-17,,,,,Brygghuset,Sällan
+CIP av 321 & 45 Tillsammans,Lutdisk,30,2018-11-13,2018-12-13,,,,,Filtrering,Vanlig
+Byte av filterpatroner,Genomförd,180,2018-09-10,2019-03-09,,,,,Filtrering,Sällan
+LT 1,Syradisk,14,2018-10-18,2018-11-01,Lutdisk,180,2018-10-01,2019-03-30,Lagerkällaren,Vanlig
+LT 3,Syradisk,14,2018-10-11,2018-10-25,Lutdisk,180,2018-07-22,2019-01-18,Lagerkällaren,Vanlig
+LT 2,Lutdisk,90,2018-09-21,2018-12-20,,,,,Lagerkällaren,Vanlig
+LT 5,Syradisk,14,2018-10-28,2018-11-11,Lutdisk,180,2018-09-29,2019-03-28,Lagerkällaren,Vanlig
+LT 6,Syradisk,14,2018-10-28,2018-11-11,Lutdisk,180,2018-04-22,2018-10-19,Lagerkällaren,Vanlig
+LT 4,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-10-22,2019-04-20,Lagerkällaren,Vanlig
+LT 7,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-09-18,2019-03-17,Lagerkällaren,Vanlig
+Byt ut gula rengöringsverktyg (Jäskällaren),Genomförd,720,2017-01-27,2019-01-17,,,,,Jäskällaren,Sällan
+LT 9,Syradisk,14,2018-08-24,2018-09-07,Lutdisk,180,2018-08-24,2019-02-20,Lagerkällaren,Vanlig
+LT 8,Syradisk,14,2018-10-01,2018-10-15,Lutdisk,180,2018-10-01,2019-03-30,Lagerkällaren,Vanlig
+LT 10,Syradisk,14,2018-08-12,2018-08-26,Lutdisk,180,2018-08-12,2019-02-08,Lagerkällaren,Vanlig
+Byt ut blåa rengöringsverktyg (Jäskällaren),Genomförd,1440,2017-01-27,2021-01-06,,,,,Jäskällaren,Sällan
+LT 12,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-08-14,2019-02-10,Lagerkällaren,Vanlig
+LT 13,Syradisk,14,2018-10-09,2018-10-23,Lutdisk,180,2018-10-09,2019-04-07,Lagerkällaren,Vanlig
+LT 14,Syradisk,14,2017-07-10,2017-07-24,Lutdisk,180,2017-07-10,2018-01-06,Lagerkällaren,Vanlig
+LT 15,Lutdisk,90,2017-06-18,2017-09-16,,,,,Lagerkällaren,Vanlig
+LT 16,Syradisk,14,2017-06-18,2017-07-02,Lutdisk,180,2017-06-18,2017-12-15,Lagerkällaren,Vanlig
+LT 21,Syradisk,14,2018-10-23,2018-11-06,Lutdisk,180,2018-07-16,2019-01-12,Lagerkällaren,Vanlig
+LT 11,Syradisk,14,2018-08-30,2018-09-13,Lutdisk,180,2018-08-30,2019-02-26,Lagerkällaren,Vanlig
+LT 25,Syradisk,14,2018-05-19,2018-06-02,Lutdisk,180,2018-05-19,2018-11-15,Lagerkällaren,Vanlig
+LT 22,Syradisk,14,2018-09-29,2018-10-13,Lutdisk,180,2018-09-29,2019-03-28,Lagerkällaren,Vanlig
+LT 26,Syradisk,14,2018-10-28,2018-11-11,Lutdisk,180,2018-08-31,2019-02-27,Lagerkällaren,Vanlig
+LT 27,Syradisk,14,2018-10-14,2018-10-28,Lutdisk,180,2018-10-14,2019-04-12,Lagerkällaren,Vanlig
+LT 28,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-08-24,2019-02-20,Lagerkällaren,Vanlig
+LT 23,Syradisk,14,2018-10-16,2018-10-30,Lutdisk,180,2018-10-16,2019-04-14,Lagerkällaren,Vanlig
+LT 29,Syradisk,14,2018-10-23,2018-11-06,Lutdisk,180,2018-09-17,2019-03-16,Lagerkällaren,Vanlig
+LT 30,Syradisk,14,2018-11-01,2018-11-15,Lutdisk,180,2018-08-10,2019-02-06,Lagerkällaren,Vanlig
+LT 24,Syradisk,14,2018-08-21,2018-09-04,Lutdisk,180,2018-08-21,2019-02-17,Lagerkällaren,Vanlig
+LT 32,Syradisk,14,2018-10-23,2018-11-06,Lutdisk,180,2018-08-14,2019-02-10,Lagerkällaren,Vanlig
+LT 33,Syradisk,14,2018-10-10,2018-10-24,Lutdisk,180,2018-08-07,2019-02-03,Lagerkällaren,Vanlig
+LT 34,Syradisk,14,2018-10-07,2018-10-21,Lutdisk,180,2018-10-07,2019-04-05,Lagerkällaren,Vanlig
+Byt ut gula rengöringsverktyg (Jäskällaren),Genomförd,720,2017-05-07,2019-04-27,,,,,Jäskällaren,Sällan
+JT 51,Lutdisk,14,2018-08-01,2018-08-15,,,,,Jäskällaren,Vanlig
+Byt ut blåa rengöringsverktyg (Jäskällaren),Genomförd,1440,2017-05-07,2021-04-16,,,,,Jäskällaren,Sällan
+LT 31,Syradisk,14,2018-05-08,2018-05-22,Lutdisk,180,2018-05-08,2018-11-04,Lagerkällaren,Vanlig
+JT 53,Lutdisk,14,2018-10-23,2018-11-06,,,,,Jäskällaren,Vanlig
+JT 52,Lutdisk,14,2018-10-24,2018-11-07,,,,,Jäskällaren,Vanlig
+JT 57,Lutdisk,14,2018-08-17,2018-08-31,,,,,Jäskällaren,Vanlig
+JT 56,Lutdisk,14,2018-11-13,2018-11-27,,,,,Jäskällaren,Vanlig
+JT 58,Lutdisk,14,2018-08-20,2018-09-03,,,,,Jäskällaren,Vanlig
+JT 54,Lutdisk,14,2018-10-10,2018-10-24,,,,,Jäskällaren,Vanlig
+JT 59,Lutdisk,14,2018-08-07,2018-08-21,,,,,Jäskällaren,Vanlig
+JT 61,Lutdisk,14,2018-10-07,2018-10-21,,,,,Jäskällaren,Vanlig
+JT 60,Lutdisk,14,2018-09-21,2018-10-05,,,,,Jäskällaren,Vanlig
+JT 62,Lutdisk,14,2018-10-11,2018-10-25,,,,,Jäskällaren,Vanlig
+JT 63,Lutdisk,14,2018-08-29,2018-09-12,,,,,Jäskällaren,Vanlig
+JT 64,Lutdisk,14,2018-10-22,2018-11-05,,,,,Jäskällaren,Vanlig
+JT 55,Lutdisk,14,2018-08-29,2018-09-12,,,,,Jäskällaren,Vanlig
+JT 65,Lutdisk,14,2018-08-03,2018-08-17,,,,,Jäskällaren,Vanlig
+JT 67,Lutdisk,14,2018-10-09,2018-10-23,,,,,Jäskällaren,Vanlig
+JT 66,Lutdisk,14,2018-09-29,2018-10-13,,,,,Jäskällaren,Vanlig
+JT 68,Lutdisk,14,2018-11-02,2018-11-16,,,,,Jäskällaren,Vanlig
+JT 69,Lutdisk,14,2018-10-15,2018-10-29,,,,,Jäskällaren,Vanlig
+JT 70,Lutdisk,14,2018-09-24,2018-10-08,,,,,Jäskällaren,Vanlig
+JT 71,Lutdisk,14,2018-08-12,2018-08-26,,,,,Jäskällaren,Vanlig
+JT 73,Lutdisk,14,2018-10-22,2018-11-05,,,,,Jäskällaren,Vanlig
+JT 72,Lutdisk,14,2018-10-26,2018-11-09,,,,,Jäskällaren,Vanlig
+JT 74,Lutdisk,14,2018-10-08,2018-10-22,,,,,Jäskällaren,Vanlig
+JT 75,Lutdisk,14,2018-09-13,2018-09-27,,,,,Jäskällaren,Vanlig
+JT 76,Lutdisk,14,2018-06-27,2018-07-11,,,,,Jäskällaren,Vanlig
+JT 77,Lutdisk,14,2018-10-22,2018-11-05,,,,,Jäskällaren,Vanlig
+JT 79,Lutdisk,14,2018-07-30,2018-08-13,,,,,Jäskällaren,Vanlig
+JT 82,Lutdisk,14,2018-10-09,2018-10-23,,,,,Jäskällaren,Vanlig
+JT 84,Lutdisk,14,2018-08-24,2018-09-07,,,,,Jäskällaren,Vanlig
+Balanssystemet,Lutdisk,90,2018-09-02,2018-12-01,,,,,Jäskällaren,Sällan
+JT 78,Lutdisk,14,2018-08-22,2018-09-05,,,,,Jäskällaren,Vanlig
+Disk av sockermottagningen,Genomför,31,2018-04-27,2018-05-28,,,,,Jäskällaren,Sällan
+JT 83,Lutdisk,14,2018-07-26,2018-08-09,,,,,Jäskällaren,Vanlig
+Nya rundkörningen,Genomför,7,2018-11-02,2018-11-09,,,,,Jäskällaren,Veckoavslut
+Rundkörningen jästledning,Genomför,31,2018-09-21,2018-10-22,,,,,Jäskällaren,Veckoavslut
+Rengöring av Lundin,Genomför,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut
+Silar i sockermottagningen (2st),Genomför,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut
+Nybered balja gång 2 & mellangång,Genomför,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut
+Rensa gångar på pumpar & slangar,Genomför,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut
+Rengör pumpar & slangar,Genomför,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut
+Kalibrera & Rengör Anton Paar,Veckorengöring,7,2018-11-04,2018-11-11,Månadsrengöring,28,2018-11-04,2018-12-02,Jäskällaren,Veckoavslut
+Byta luftfilter försörjningsluft JB,Genomför,100,2017-11-05,2018-02-13,,,,,Jäskällaren,Sällan
+Byta luftfilter jästbehållare,Genomför,100,2017-11-06,2018-02-14,,,,,Jäskällaren,Sällan
+Rengöring Maltgropen,Genomför,200,2017-09-05,2018-03-24,,,,,Jäskällaren,Sällan
+Rengöring Maltsilo 1,Rengjord,390,2017-02-05,2018-03-02,,,,,Brygghuset,Sällan
+Rengöring Maltsilo 2,Rengjord,390,2018-03-08,2019-04-02,,,,,Brygghuset,Sällan
+Rengöring Maltsilo 3,Rengjord,390,2017-02-05,2018-03-02,,,,,Brygghuset,Sällan
+Gamla rundkörningen,Genomför,7,2018-10-19,2018-10-26,,,,,Jäskällaren,Veckoavslut
+Rengöring Maltsilo 4,Rengjord,390,2017-02-05,2018-03-02,,,,,Brygghuset,Sällan

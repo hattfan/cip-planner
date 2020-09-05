@@ -1,0 +1,210 @@
+body {
+  background-image: url('img/qbkls.png');
+  font-size: 13px;
+}
+
+nav {
+  font-size: 16px;
+}
+
+.active, .email-ola{
+  cursor: pointer;
+}
+
+.active:hover, .email-ola:hover {
+  filter: brightness(110%);
+}
+
+.today {
+  background-color: rgba(203, 250, 203, 0.563);
+}
+
+/* Lutdisk */
+
+.Lutdisk {
+  background-color: #3ecdf8;
+}
+
+select option[value="Lutdisk"] {
+  background-color: #3ecdf8;
+}
+
+/* Syradisk */
+
+.Syradisk {
+  background-color: #f8f53e;
+}
+
+select option[value="Syradisk"] {
+  background-color: #f8f53e;
+}
+
+.Totaldisk {
+  background-color: darkkhaki;
+}
+
+select option[value="Totaldisk"] {
+  background-color: darkkhaki;
+}
+
+.Lutsterilning {
+  background-color: rgb(255, 146, 57);
+}
+
+select option[value="Lutsterilning"] {
+  background-color: rgb(255, 146, 57);
+}
+
+.Rengjord {
+  background-color: firebrick;
+  color: white;
+}
+
+select option[value="Veckorengöring"] {
+  background-color: indigo;
+  color: white;
+}
+
+.Veckorengöring {
+  background-color: indigo;
+  color: white;
+}
+
+.Månadsrengöring {
+  background-color: maroon;
+  color: white;
+}
+
+select option[value="Månadsrengöring"] {
+  background-color: maroon;
+  color: white;
+}
+
+select option[value="Rengjord"] {
+  background-color: firebrick;
+}
+
+.CIP {
+  background-color: indianred
+}
+
+select option[value="CIP"] {
+  background-color: indianred;
+}
+
+.Genomförd {
+  background-color: purple;
+  color: white;
+}
+
+select option[value="Genomförd"] {
+  background-color: purple;
+  color: white;
+}
+
+.delay {
+  background-color: red;
+  font-weight: bold;
+  color: black;
+}
+
+.done {
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  padding: 0px;
+  line-height: 1.1;
+  font-size: 0.75em;
+}
+
+.header-name {
+  font-size: 1.3em;
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  text-align: left;
+}
+
+.nav {
+  position: fixed;
+}
+
+.weekend {
+  background-color: #fdff91;
+}
+
+.main-content {
+  width: 99%;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.area-type {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 4px;
+}
+
+/*=============================================
+=            Håll fälten samma width            =
+=============================================*/
+
+.table {
+  background-color: white;
+  table-layout: fixed;
+}
+
+table th, table td {
+  overflow: hidden;
+  height: 10px;
+}
+
+.table td, .table th {
+  padding: .2rem .5rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+.first-column {
+  width: 300px;
+}
+
+/*=====  End of Håll fälten samma width  ======*/
+
+td {
+  text-align: center;
+}
+
+thead td {
+  text-align: left;
+  font-weight: bold;
+}
+
+/* .cleaning-popup-message {
+  font-size: 14px;
+  border-radius: 10px;
+  background-color: lightgreen;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid green;
+  margin-bottom: 5px;
+} */
+
+.cleaning-popup-message {
+  font-size: 14px;
+  border-radius: 10px;
+  background-color: lightgreen;
+  padding: 40px;
+  text-align: center;
+  border: 2px solid green;
+  margin: auto;
+  position: fixed;
+  right: 30px;
+}
+
+/* tr {
+   line-height: 25px;
+   min-height: 25px;
+   height: 25px;
+} */

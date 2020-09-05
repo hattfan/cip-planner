@@ -1,0 +1,2903 @@
+Objekt	Date	CleaningType
+BBT 304	2016-12-01	Lutdisk
+BBT 305	2016-12-05	Lutdisk
+BBT 306	2016-12-05	Syradisk
+BBT 307	2016-12-05	Lutdisk
+BBT 308	2016-12-05	Syradisk
+BBT 309	2016-12-05	Lutdisk
+BBT 310	2016-12-05	Syradisk
+BBT 311	2016-12-05	Lutdisk
+BBT 312	2016-12-05	Syradisk
+BBT 313	2016-12-05	Lutdisk
+BBT 314	2016-12-05	Syradisk
+BBT 315	2016-12-05	Lutdisk
+BBT 316	2016-12-05	Syradisk
+BBT 317	2016-12-05	Lutdisk
+BBT 318	2016-12-05	Syradisk
+BBT 319	2016-12-05	Lutdisk
+BBT 320	2016-12-05	Syradisk
+BBT 321	2016-12-05	Lutdisk
+BBT 322	2016-12-05	Syradisk
+BBT 323	2016-12-05	Lutdisk
+BBT 324	2016-12-05	Syradisk
+BBT 325	2016-12-05	Lutdisk
+T34	2016-12-05	Syradisk
+T45	2016-12-05	Lutdisk
+Aldox	2016-12-05	Syradisk
+Rengör balanssystem	2016-12-05	Syradisk
+BBT 304	2016-12-05	Syradisk
+BBT 304	2016-12-05	Dubbeldisk
+BBT 304	2016-12-05	Lutdisk
+BBT 304	2016-12-06	Lutdisk
+BBT 310	2016-12-06	Lutdisk
+BBT 314	2016-12-06	Lutdisk
+BBT 322	2016-12-06	Syradisk
+BBT 312	2016-12-06	Dubbeldisk
+BBT 305	2016-12-06	Lutdisk
+BBT 307	2016-12-06	Lutdisk
+BBT 306	2016-12-07	Lutdisk
+BBT 308	2016-12-07	Lutdisk
+BBT 313	2016-12-07	Dubbeldisk
+BBT 318	2016-12-07	Rengjord
+BBT 325	2016-12-07	Lutdisk
+BBT 311	2016-12-08	Dubbeldisk
+BBT 310	2016-12-08	Lutdisk
+BBT 309	2016-12-08	Lutdisk
+BBT 315	2016-12-08	Dubbeldisk
+BBT 317	2016-12-08	Lutdisk
+BBT 319	2016-12-08	Lut
+BBT 307	2016-12-08	Lut
+BBT 308	2016-12-08	Lut
+BBT 312	2016-12-09	Lut
+Rengör avloppsrännor jäskällaren	2016-12-09	Lut
+BBT 310	2016-12-09	Lutdisk
+BBT 321	2016-12-12	Lutdisk
+BBT 306	2016-12-12	Lutdisk
+BBT 306	2016-12-12	Lutdisk
+BBT 324	2016-12-14	Lutdisk
+BBT 304	2016-12-14	Lutdisk
+BBT 319	2016-12-14	Lutdisk
+T45	2016-12-14	Lutdisk
+BBT 323	2016-12-15	Lutdisk
+BBT 305	2016-12-15	Lutdisk
+T34	2016-12-15	Lutdisk
+Aldox	2016-12-15	Lutdisk
+BBT 305	2016-12-15	Lutdisk
+BBT 306	2016-12-15	Lutdisk
+BBT 304	2016-12-15	Lutdisk
+BBT 318	2016-12-15	Lutdisk
+BBT 313	2016-12-15	Lutdisk
+BBT 304	2016-12-15	Lutdisk
+BBT 325	2016-12-15	Lutdisk
+BBT 322	2016-12-15	Lutdisk
+BBT 315	2016-12-15	Rengjord
+BBT 321	2016-12-15	Rengjord
+Rengör avloppsrännor jäskällaren	2016-12-15	Rengjord
+Rengör avloppsrännor jäskällaren	2016-12-15	Rengjord
+Rengör avloppsrännor jäskällaren	2016-12-15	Rengjord
+Rengör avloppsrännor jäskällaren	2016-12-15	Rengjord
+BBT 308	2016-12-15	Rengjord
+BBT 308	2016-12-15	Lutdisk
+BBT 314	2016-12-15	Lutdisk
+BBT 307	2016-12-15	Lutdisk
+BBT 312	2016-12-19	Lutdisk
+BBT 307	2016-12-19	Lutdisk
+BBT 321	2016-12-19	Lutdisk
+BBT 315	2016-12-19	Lutdisk
+BBT 310	2016-12-19	Lutdisk
+BBT 319	2016-12-19	Lutdisk
+BBT 324	2016-12-19	Lutdisk
+BBT 313	2016-12-19	Dubbeldisk
+BBT 314	2016-12-19	Lutdisk
+BBT 317	2016-12-19	Lutdisk
+BBT 308	2016-12-19	Lutdisk
+T45	2016-12-19	Lutdisk
+Rengör balanssystem	2016-12-19	Rengjord
+Rengör balanssystem	2016-12-19	Rengjord
+BBT 306	2016-12-20	Lutdisk
+BBT 311	2016-12-20	Lutdisk
+BBT 309	2016-12-21	Lutdisk
+BBT 312	2016-12-21	Lutdisk
+BBT 305	2016-12-21	Lutdisk
+BBT 304	2016-12-21	Lutdisk
+BBT 313	2016-12-21	Lutdisk
+BBT 314	2016-12-21	Lutdisk  
+BBT 317	2016-12-21	Lutdisk
+BBT 313	2016-12-21	Lutdisk
+BBT 315	2016-12-21	Lutdisk
+BBT 322	2016-12-22	Lutdisk
+BBT 318	2016-12-22	Lutdisk
+BBT 323	2016-12-22	Lutdisk
+BBT 320	2016-12-22	Lutdisk
+BBT 314	2016-12-22	Lutdisk
+BBT 325	2016-12-22	Lutdisk
+BBT 316	2016-12-28	Lutdisk
+BBT 320	2016-12-28	Lutdisk
+BBT 314	2016-12-29	Lutdisk
+BBT 322	2016-12-29	Lutdisk
+BBT 318	2016-12-29	Lutdisk
+BBT 313	2016-12-29	Lutdisk
+BBT 323	2016-12-29	Lutdisk
+BBT 325	2016-12-29	Lutdisk
+BBT 319	2016-12-30	Lutdisk
+BBT 319	2016-12-30	Lutdisk
+T45	2016-12-30	Lutdisk
+T45	2016-12-30	Lutdisk
+T34	2016-12-30	Lutdisk
+T34	2016-12-30	Lutdisk
+BBT 305	2016-12-30	Lutdisk
+Rengör balanssystem	2016-12-30	Rengjord
+T45	2016-12-30	Lutdisk
+Aldox	2016-12-30	Lutdisk
+BBT 311	2016-12-30	Lutdisk
+BBT 304	2017-01-03	Lutdisk
+BBT 312	2017-01-03	Lutdisk
+BBT 310	2017-01-05	Lutdisk
+BBT 309	2017-01-05	Lutdisk
+BBT 320	2017-02-03	Syradisk
+BBT 318	2017-02-03	Syradisk
+T45	2017-02-07	Lutdisk
+T45	2017-02-07	Syradisk
+BBT 318	2017-02-07	Syradisk
+BBT 320	2017-02-07	Syradisk
+BBT 325	2017-02-08	Totaldisk
+RAW-ledningen	2017-02-08	Totaldisk
+BBT 314	2017-02-09	Lutdisk
+BBT 307	2017-02-09	Totaldisk
+BBT 317	2017-02-09	Lutdisk
+Filtret	2017-02-09	Syradisk
+Filtret	2017-02-09	Lutdisk
+BBT 323	2017-02-09	Lutdisk
+BBT 310	2017-02-09	Lutdisk
+BBT 321	2017-02-09	Lutdisk
+BBT 322	2017-02-12	Lutdisk
+BBT 320	2017-02-14	Lutdisk
+BBT 318	2017-02-14	Syradisk
+BBT 325	2017-02-14	Syradisk
+T45	2017-02-14	Totaldisk
+BBT 311	2017-02-16	Totaldisk
+BBT 315	2017-02-16	Totaldisk
+BBT 317	2017-02-16	Totaldisk
+BBT 314	2017-02-16	Syradisk
+T34	2017-02-16	Totaldisk
+BBT 323	2017-02-16	Totaldisk
+BBT 321	2017-02-16	Totaldisk
+Filtret	2017-02-16	Totaldisk
+BBT 322	2017-02-16	Totaldisk
+BBT 304	2017-02-16	Totaldisk
+BBT 304	2017-02-16	Lutdisk
+Byt ut gula rengöringsverktyg (Filtrering)	2017-02-16	Rengjord
+Byt ut gula rengöringsverktyg (Filtrering)	2017-02-17	Rengjord
+BBT 307	2017-02-22	Syradisk
+BBT 308	2017-02-22	Syradisk
+BBT 311	2017-02-23	Syradisk
+BBT 311	2017-02-23	Syradisk
+BBT 311	2017-02-23	Syradisk
+BBT 311	2017-02-23	Syradisk
+BBT 310	2017-02-23	Syradisk
+BBT 314	2017-02-23	Syradisk
+BBT 311	2017-02-23	Syradisk
+BBT 325	2017-02-24	Syradisk
+Maltax	2017-02-24	Rengjord
+T45	2017-02-25	Lutdisk
+T34	2017-02-25	Lutdisk
+BBT 321	2017-02-25	Syradisk
+Gamla runtkörningen	2017-02-25	Totaldisk
+BBT 317	2017-02-26	Syradisk
+BBT 320	2017-02-26	Syradisk
+Filtret-Veckoavslut	2017-02-26	Lutsterilning
+BBT 304	2017-03-02	Dubbeldisk
+Stora balanssystemet (1)	2017-03-03	Lutdisk
+Lilla balanssystemet (2)	2017-03-03	Lutdisk
+Aldox	2017-03-03	Syradisk
+Filtret-Veckoavslut	2017-03-03	Lutsterilning
+T34	2017-03-03	Lutdisk
+T45	2017-03-03	Lutdisk
+Gamla runtkörningen	2017-03-03	Totaldisk
+BBT 306	2017-03-03	Lutdisk
+BBT 305	2017-03-03	Lutdisk
+BBT 310	2017-03-03	Lutdisk
+BBT 314	2017-03-03	Lutdisk
+BBT 316	2017-03-04	Lutdisk
+BBT 306	2017-03-05	Lutdisk
+BBT 307	2017-03-05	Lutdisk
+BBT 322	2017-03-05	Lutdisk
+BBT 317	2017-03-05	Lutdisk
+BBT 313	2017-03-05	Lutdisk
+BBT 308	2017-03-05	Lutdisk
+BBT 309	2017-03-05	Lutdisk
+BBT 319	2017-03-07	Lutdisk
+BBT 324	2017-03-07	Lutdisk
+BBT 311	2017-03-07	Lutdisk
+BBT 312	2017-03-07	Lutdisk
+BBT 319	2017-03-09	Syradisk
+BBT 313	2017-03-12	Syradisk
+BBT 312	2017-03-12	Syradisk
+BBT 305	2017-03-13	Syradisk
+BBT 306	2017-03-13	Syradisk
+BBT 309	2017-03-13	Syradisk
+BBT 322	2017-03-13	Syradisk
+BBT 325	2017-03-13	Lutdisk
+BBT 318	2017-03-13	Lutdisk
+BBT 308	2017-03-13	Lutdisk
+BBT 307	2017-03-13	Lutdisk
+BBT 314	2017-03-13	Lutdisk
+BBT 304	2017-03-13	Syradisk
+BBT 323	2017-03-14	Lutdisk
+BBT 310	2017-03-14	Lutdisk
+BBT 311	2017-03-14	Syradisk
+BBT 306	2017-03-14	Syradisk
+BBT 316	2017-03-15	Syradisk
+BBT 324	2017-03-16	Lutdisk
+BBT 306	2017-03-16	Syradisk
+Maltax	2017-03-17	Rengjord
+T34	2017-03-17	Lutdisk
+Filtret-Veckoavslut	2017-03-17	Lutsterilning
+Stora balanssystemet (1)	2017-03-17	Lutdisk
+T45	2017-03-17	Syradisk
+Lilla balanssystemet (2)	2017-03-17	Lutdisk
+BBT 320	2017-03-17	Lutdisk
+Gur-köket	2017-03-17	Syradisk
+Aldox	2017-03-17	Lutdisk
+BBT 319	2017-03-19	Syradisk
+BBT 305	2017-03-19	Syradisk
+BBT 317	2017-03-20	Syradisk
+BBT 312	2017-03-20	Syradisk
+BBT 310	2017-03-20	Syradisk
+BBT 325	2017-03-20	Syradisk
+BBT 313	2017-03-20	Syradisk
+BBT 316	2017-03-21	Syradisk
+BBT 304	2017-03-21	Syradisk
+BBT 308	2017-03-21	Syradisk
+BBT 321	2017-03-21	Lutdisk
+BBT 309	2017-03-22	Syradisk
+BBT 323	2017-03-23	Syradisk
+BBT 306	2017-03-23	Syradisk
+BBT 318	2017-03-23	Syradisk
+T34	2017-03-23	Syradisk
+BBT 312	2017-03-23	Syradisk
+BBT 307	2017-03-23	Syradisk
+BBT 304	2017-03-24	Lutdisk
+BBT 324	2017-03-24	Syradisk
+BBT 320	2017-03-24	Syradisk
+BBT 314	2017-03-24	Syradisk
+T34	2017-03-25	Syradisk
+T45	2017-03-25	Lutdisk
+BBT 305	2017-03-26	Syradisk
+Filtret-Veckoavslut	2017-03-26	Lutsterilning
+Gamla runtkörningen	2017-03-26	Totaldisk
+BBT 308	2017-03-26	Syradisk
+BBT 319	2017-03-26	Syradisk
+BBT 318	2017-03-27	Syradisk
+BBT 325	2017-03-28	Syradisk
+BBT 313	2017-03-28	Lutdisk
+BBT 314	2017-03-28	Syradisk
+Filtret	2017-03-28	Rengjord
+301 Vattentank	2017-03-29	Lutdisk
+BBT 320	2017-03-29	Lutdisk
+BBT 310	2017-03-29	Syradisk
+BBT 311	2017-03-29	Lutdisk
+BBT 321	2017-03-29	Syradisk
+T34	2017-03-30	Syradisk
+Maltax	2017-03-30	Rengjord
+Gamla runtkörningen	2017-03-30	Totaldisk
+Vattenfilter	2017-03-31	Syradisk
+BBT 305	2017-04-02	Lutdisk
+BBT 307	2017-04-02	Syradisk
+BBT 323	2017-04-02	Syradisk
+BBT 313	2017-04-03	Syradisk
+BBT 324	2017-04-03	Syradisk
+BBT 314	2017-04-03	Lutdisk
+BBT 309	2017-04-03	Lutdisk
+BBT 312	2017-04-03	Lutdisk
+BBT 320	2017-04-03	Syradisk
+BBT 306	2017-04-04	Syradisk
+BBT 325	2017-04-04	Lutdisk
+BBT 318	2017-04-05	Lutdisk
+BBT 308	2017-04-05	Lutdisk
+BBT 316	2017-04-05	Lutdisk
+BBT 311	2017-04-05	Syradisk
+BBT 304	2017-04-07	Syradisk
+BBT 321	2017-04-07	Syradisk
+BBT 310	2017-04-07	Lutdisk
+T45	2017-04-07	Lutdisk
+BBT 325	2017-04-09	Syradisk
+BBT 307	2017-04-09	Lutdisk
+T34	2017-04-09	Lutdisk
+BBT 305	2017-04-09	Syradisk
+BBT 322	2017-04-09	Lutdisk
+BBT 323	2017-04-10	Lutdisk
+BBT 320	2017-04-10	Syradisk
+BBT 324	2017-04-10	Lutdisk
+BBT 317	2017-04-11	Syradisk
+BBT 310	2017-04-11	Syradisk
+BBT 311	2017-04-11	Syradisk
+BBT 312	2017-04-12	Syradisk
+Filtret	2017-04-12	Rengjord
+T34	2017-04-12	Syradisk
+BBT 315	2017-04-12	Lutdisk
+BBT 313	2017-04-12	Syradisk
+BBT 309	2017-04-13	Syradisk
+BBT 318	2017-04-13	Syradisk
+BBT 321	2017-04-13	Lutdisk
+T45	2017-04-13	Lutdisk
+Aldox	2017-04-14	Syradisk
+Maltax	2017-04-14	Rengjord
+Filtret-Veckoavslut	2017-04-14	Lutsterilning
+Vattenfilter	2017-04-14	Syradisk
+T34	2017-04-14	Lutdisk
+T45	2017-04-14	Lutdisk
+Gamla runtkörningen	2017-04-14	Totaldisk
+BBT 321	2017-04-14	Lutdisk
+T34	2017-04-16	Lutdisk
+T45	2017-04-16	Lutdisk
+Filtret-Veckoavslut	2017-04-16	Lutsterilning
+BBT 304	2017-04-16	Lutdisk
+BBT 322	2017-04-16	Syradisk
+BBT 325	2017-04-16	Syradisk
+BBT 307	2017-04-16	Syradisk
+BBT 314	2017-04-17	Syradisk
+BBT 317	2017-04-17	Lutdisk
+BBT 323	2017-04-17	Syradisk
+BBT 319	2017-04-17	Lutdisk
+BBT 311	2017-04-17	Lutdisk
+BBT 308	2017-04-17	Syradisk
+BBT 321	2017-04-18	Syradisk
+BBT 312	2017-04-18	Syradisk
+BBT 318	2017-04-18	Syradisk
+BBT 310	2017-04-19	Syradisk
+BBT 306	2017-04-19	Lutdisk
+BBT 315	2017-04-19	Syradisk
+BBT 309	2017-04-20	Syradisk
+BBT 313	2017-04-20	Lutdisk
+BBT 305	2017-04-20	Syradisk
+T34	2017-04-21	Syradisk
+T45	2017-04-21	Lutdisk
+Filtret-Veckoavslut	2017-04-23	Lutsterilning
+Maltax	2017-04-23	Rengjord
+BBT 310	2017-04-23	Syradisk
+BBT 324	2017-04-23	Syradisk
+Aldox	2017-04-23	Syradisk
+BBT 304	2017-04-23	Syradisk
+BBT 305	2017-04-23	Lutdisk
+BBT 307	2017-04-23	Syradisk
+BBT 313	2017-04-23	Lutdisk
+BBT 322	2017-04-23	Syradisk
+BBT 319	2017-04-24	Syradisk
+BBT 316	2017-04-24	Syradisk
+BBT 311	2017-04-24	Syradisk
+BBT 323	2017-04-25	Syradisk
+BBT 314	2017-04-25	Lutdisk
+BBT 315	2017-04-26	Syradisk
+BBT 304	2017-04-26	Lutdisk
+BBT 318	2017-04-27	Lutdisk
+BBT 312	2017-04-27	Lutdisk
+BBT 308	2017-04-27	Lutdisk
+BBT 321	2017-04-27	Lutdisk
+Gurtank T66	2017-04-27	Syradisk
+Gurtank T67	2017-04-28	Syradisk
+Gurtank T66	2017-04-28	Syradisk
+302 Vattentank	2017-04-28	Lutdisk
+301 Vattentank	2017-04-28	Lutdisk
+BBT 311	2017-04-28	Syradisk
+303 Vattentank	2017-04-28	Lutdisk
+Aldox	2017-04-28	Syradisk
+Maltax	2017-04-28	Rengjord
+Vattenfilter	2017-04-28	Syradisk
+Filtret-Veckoavslut	2017-04-28	Lutsterilning
+T34	2017-04-28	Syradisk
+T45	2017-04-28	Syradisk
+BBT 306	2017-04-28	Lutdisk
+BBT 322	2017-04-30	Lutdisk
+BBT 310	2017-04-30	Lutdisk
+BBT 313	2017-04-30	Syradisk
+BBT 317	2017-04-30	Syradisk
+BBT 307	2017-04-30	Lutdisk
+BBT 309	2017-05-01	Lutdisk
+BBT 316	2017-05-01	Lutdisk
+BBT 321	2017-05-01	Syradisk
+BBT 314	2017-05-01	Syradisk
+BBT 325	2017-05-02	Lutdisk
+BBT 304	2017-05-02	Syradisk
+BBT 323	2017-05-02	Lutdisk
+BBT 308	2017-05-02	Syradisk
+BBT 315	2017-05-03	Lutdisk
+BBT 305	2017-05-03	Syradisk
+BBT 312	2017-05-04	Syradisk
+BBT 318	2017-05-05	Syradisk
+BBT 306	2017-05-05	Syradisk
+BBT 311	2017-05-05	Syradisk
+BBT 315	2017-05-05	Syradisk
+BBT 317	2017-05-05	Syradisk
+T45	2017-05-07	Syradisk
+Filtret-Veckoavslut	2017-05-07	Lutsterilning
+T34	2017-05-07	Syradisk
+BBT 310	2017-05-07	Syradisk
+BBT 313	2017-05-07	Syradisk
+BBT 309	2017-05-08	Syradisk
+BBT 314	2017-05-08	Syradisk
+BBT 324	2017-05-08	Lutdisk
+BBT 325	2017-05-09	Syradisk
+BBT 308	2017-05-09	Syradisk
+BBT 304	2017-05-09	Syradisk
+BBT 316	2017-05-09	Syradisk
+BBT 318	2017-05-09	Syradisk
+BBT 307	2017-05-09	Syradisk
+BBT 306	2017-05-10	Syradisk
+BBT 309	2017-05-11	Syradisk
+BBT 322	2017-05-11	Syradisk
+BBT 304	2017-05-11	Syradisk
+BBT 305	2017-05-12	Syradisk
+Stora balanssystemet (1)	2017-05-12	Lutdisk
+Filtret	2017-05-12	Rengjord
+T34	2017-05-12	Syradisk
+T45	2017-05-12	Lutdisk
+Filtret-Veckoavslut	2017-05-12	Lutsterilning
+Maltax	2017-05-12	Rengjord
+Aldox	2017-05-12	Syradisk
+T34	2017-05-12	Lutdisk
+301 Vattentank	2017-05-12	Lutdisk
+302 Vattentank	2017-05-12	Lutdisk
+303 Vattentank	2017-05-12	Lutdisk
+BBT 309	2017-05-12	Syradisk
+BBT 315	2017-05-15	Syradisk
+BBT 311	2017-05-15	Lutdisk
+BBT 318	2017-05-15	Syradisk
+BBT 320	2017-05-16	Lutdisk
+BBT 321	2017-05-16	Syradisk
+BBT 317	2017-05-16	Lutdisk
+BBT 304	2017-05-16	Lutdisk
+BBT 324	2017-05-17	Syradisk
+BBT 325	2017-05-17	Syradisk
+BBT 322	2017-05-17	Syradisk
+T34	2017-05-17	Lutdisk
+Filtret	2017-05-17	Rengjord
+BBT 307	2017-05-18	Syradisk
+BBT 306	2017-05-18	Syradisk
+BBT 309	2017-05-18	Syradisk
+BBT 316	2017-05-19	Syradisk
+BBT 320	2017-05-19	Syradisk
+BBT 305	2017-05-19	Lutdisk
+BBT 308	2017-05-19	Lutdisk
+T34	2017-05-19	Syradisk
+T45	2017-05-19	Syradisk
+Maltax	2017-05-19	Rengjord
+Aldox	2017-05-20	Syradisk
+BBT 312	2017-05-21	Lutdisk
+BBT 313	2017-05-21	Lutdisk
+BBT 317	2017-05-22	Syradisk
+T34	2017-05-22	Syradisk
+BBT 322	2017-05-22	Syradisk
+BBT 323	2017-05-23	Syradisk
+BBT 311	2017-05-23	Syradisk
+BBT 314	2017-05-23	Lutdisk
+BBT 320	2017-05-23	Syradisk
+Aldox	2017-05-23	Syradisk
+T34	2017-05-23	Syradisk
+BBT 304	2017-05-24	Syradisk
+BBT 318	2017-05-24	Lutdisk
+BBT 306	2017-05-25	Lutdisk
+BBT 315	2017-05-26	Lutdisk
+BBT 312	2017-05-28	Syradisk
+BBT 309	2017-05-28	Lutdisk
+BBT 307	2017-05-28	Lutdisk
+BBT 304	2017-05-28	Syradisk
+BBT 318	2017-05-29	Syradisk
+BBT 310	2017-05-29	Lutdisk
+BBT 323	2017-05-29	Lutdisk
+BBT 308	2017-05-29	Syradisk
+BBT 315	2017-05-29	Syradisk
+BBT 312	2017-05-30	Syradisk
+BBT 314	2017-05-30	Syradisk
+BBT 311	2017-05-30	Syradisk
+BBT 317	2017-05-30	Syradisk
+BBT 316	2017-05-30	Lutdisk
+BBT 310	2017-05-31	Syradisk
+BBT 325	2017-06-01	Lutdisk
+BBT 321	2017-06-01	Lutdisk
+BBT 322	2017-06-01	Lutdisk
+303 Vattentank	2017-06-02	Lutdisk
+BBT 324	2017-06-02	Lutdisk
+BBT 315	2017-06-02	Syradisk
+Filtret-Veckoavslut	2017-06-04	Lutsterilning
+BBT 313	2017-06-04	Syradisk
+T34	2017-06-04	Syradisk
+T45	2017-06-04	Syradisk
+BBT 316	2017-06-05	Syradisk
+T34	2017-06-05	Syradisk
+Filtret	2017-06-05	Rengjord
+BBT 323	2017-06-05	Syradisk
+BBT 309	2017-06-05	Syradisk
+BBT 307	2017-06-06	Syradisk
+BBT 305	2017-06-07	Syradisk
+BBT 314	2017-06-07	Syradisk
+BBT 308	2017-06-07	Syradisk
+BBT 311	2017-06-07	Lutdisk
+BBT 312	2017-06-07	Lutdisk
+BBT 304	2017-06-07	Lutdisk
+BBT 306	2017-06-07	Lutdisk
+BBT 310	2017-06-08	Syradisk
+BBT 322	2017-06-08	Syradisk
+BBT 315	2017-06-08	Lutdisk
+Filtret-Veckoavslut	2017-06-09	Lutsterilning
+Maltax	2017-06-09	Rengjord
+Vattenfilter	2017-06-09	Syradisk
+T45	2017-06-09	Dubbeldisk
+T34	2017-06-09	Lutdisk
+Filtret-Veckoavslut	2017-06-09	Lutsterilning
+Aldox	2017-06-09	Syradisk
+BBT 309	2017-06-11	Syradisk
+BBT 307	2017-06-11	Syradisk
+BBT 304	2017-06-11	Syradisk
+BBT 308	2017-06-11	Lutdisk
+BBT 318	2017-06-11	Lutdisk
+BBT 325	2017-06-11	Syradisk
+BBT 324	2017-06-11	Syradisk
+BBT 315	2017-06-12	Syradisk
+Filtret	2017-06-12	Rengjord
+BBT 324	2017-06-12	Syradisk
+BBT 313	2017-06-12	Lutdisk
+BBT 319	2017-06-13	Lutdisk
+BBT 305	2017-06-13	Lutdisk
+BBT 317	2017-06-13	Lutdisk
+BBT 314	2017-06-14	Lutdisk
+BBT 314	2017-06-14	Syradisk
+BBT 316	2017-06-14	Syradisk
+BBT 312	2017-06-14	Syradisk
+BBT 315	2017-06-14	Syradisk
+BBT 307	2017-06-15	Lutdisk
+BBT 321	2017-06-16	Syradisk
+T34	2017-06-18	Syradisk
+Filtret-Veckoavslut	2017-06-18	Lutsterilning
+Gamla runtkörningen	2017-06-18	Totaldisk
+T45	2017-06-18	Syradisk
+BBT 309	2017-06-18	Lutdisk
+BBT 311	2017-06-18	Syradisk
+BBT 318	2017-06-19	Syradisk
+BBT 322	2017-06-19	Syradisk
+BBT 313	2017-06-19	Syradisk
+BBT 308	2017-06-19	Syradisk
+BBT 311	2017-06-19	Syradisk
+BBT 307	2017-06-19	Syradisk
+BBT 319	2017-06-19	Syradisk
+BBT 317	2017-06-20	Syradisk
+BBT 325	2017-06-21	Syradisk
+BBT 325	2017-06-21	Lutdisk
+BBT 324	2017-06-21	Syradisk
+BBT 318	2017-06-21	Syradisk
+BBT 308	2017-06-22	Syradisk
+BBT 306	2017-06-22	Syradisk
+BBT 321	2017-06-22	Lutdisk
+Stora balanssystemet (1)	2017-06-22	Lutdisk
+T34	2017-06-22	Syradisk
+Maltax	2017-06-22	Rengjord
+Vattenfilter	2017-06-22	Syradisk
+Lilla balanssystemet (2)	2017-06-22	Lutdisk
+Filtret-Veckoavslut	2017-06-22	Lutsterilning
+BBT 317	2017-06-25	Syradisk
+BBT 304	2017-06-26	Lutdisk
+BBT 314	2017-06-26	Lutdisk
+BBT 315	2017-06-26	Lutdisk
+BBT 305	2017-06-26	Syradisk
+BBT 322	2017-06-26	Lutdisk
+BBT 311	2017-06-26	Syradisk
+BBT 318	2017-06-26	Syradisk
+BBT 323	2017-06-27	Lutdisk
+BBT 324	2017-06-27	Lutdisk
+BBT 306	2017-06-27	Lutdisk
+BBT 307	2017-06-27	Syradisk
+BBT 312	2017-06-27	Syradisk
+BBT 309	2017-06-28	Syradisk
+BBT 316	2017-06-28	Lutdisk
+BBT 325	2017-06-28	Syradisk
+BBT 310	2017-06-28	Lutdisk
+BBT 321	2017-06-29	Lutdisk
+T34	2017-06-29	Lutdisk
+T45	2017-06-29	Lutdisk
+BBT 322	2017-06-29	Syradisk
+BBT 319	2017-06-29	Syradisk
+BBT 313	2017-06-29	Syradisk
+BBT 308	2017-06-30	Syradisk
+BBT 321	2017-06-30	Syradisk
+BBT 314	2017-07-02	Syradisk
+BBT 317	2017-07-02	Syradisk
+BBT 325	2017-07-02	Syradisk
+BBT 305	2017-07-02	Syradisk
+BBT 318	2017-07-02	Lutdisk
+BBT 304	2017-07-03	Syradisk
+BBT 316	2017-07-03	Syradisk
+BBT 306	2017-07-03	Syradisk
+BBT 320	2017-07-04	Lutdisk
+BBT 323	2017-07-04	Syradisk
+BBT 324	2017-07-04	Syradisk
+BBT 315	2017-07-04	Syradisk
+BBT 309	2017-07-04	Syradisk
+BBT 310	2017-07-04	Syradisk
+BBT 311	2017-07-04	Lutdisk
+BBT 322	2017-07-04	Syradisk
+BBT 307	2017-07-05	Syradisk
+BBT 309	2017-07-05	Lutdisk
+BBT 313	2017-07-06	Lutdisk
+BBT 314	2017-07-06	Syradisk
+Stora balanssystemet (1)	2017-07-07	Lutdisk
+Kolsyraledning	2017-07-07	Rengjord
+Lilla balanssystemet (2)	2017-07-07	Lutdisk
+T34	2017-07-07	Syradisk
+T45	2017-07-07	Syradisk
+BBT 314	2017-07-09	Syradisk
+BBT 304	2017-07-10	Syradisk
+BBT 312	2017-07-10	Lutdisk
+BBT 305	2017-07-10	Lutdisk
+BBT 308	2017-07-10	Lutdisk
+BBT 306	2017-07-11	Syradisk
+BBT 316	2017-07-11	Syradisk
+BBT 315	2017-07-12	Syradisk
+BBT 320	2017-07-12	Syradisk
+BBT 322	2017-07-12	Syradisk
+BBT 312	2017-07-12	Syradisk
+BBT 319	2017-07-12	Lutdisk
+BBT 324	2017-07-13	Syradisk
+BBT 317	2017-07-13	Lutdisk
+BBT 314	2017-07-13	Syradisk
+BBT 304	2017-07-13	Lutdisk
+BBT 309	2017-07-14	Syradisk
+Filtret-Veckoavslut	2017-07-14	Lutsterilning
+Filtret	2017-07-14	Rengjord
+BBT 307	2017-07-14	Lutdisk
+Aldox	2017-07-14	Syradisk
+T34	2017-07-15	Syradisk
+T45	2017-07-15	Syradisk
+BBT 317	2017-07-16	Syradisk
+BBT 323	2017-07-16	Lutdisk
+BBT 308	2017-07-16	Syradisk
+BBT 320	2017-07-17	Syradisk
+BBT 306	2017-07-17	Syradisk
+BBT 317	2017-07-17	Syradisk
+BBT 311	2017-07-17	Syradisk
+BBT 305	2017-07-18	Syradisk
+BBT 324	2017-07-18	Lutdisk
+BBT 325	2017-07-18	Lutdisk
+BBT 315	2017-07-19	Lutdisk
+BBT 304	2017-07-19	Syradisk
+T34	2017-07-19	Lutdisk
+BBT 310	2017-07-19	Syradisk
+BBT 322	2017-07-19	Lutdisk
+BBT 314	2017-07-20	Lutdisk
+BBT 319	2017-07-20	Syradisk
+BBT 321	2017-07-20	Lutdisk
+301 Vattentank	2017-07-21	Lutdisk
+Aldox	2017-07-21	Syradisk
+Glaskontroll (vecka)	2017-07-21	Genomförd
+Glaskontroll (månad)	2017-07-21	Genomförd
+303 Vattentank	2017-07-21	Lutdisk
+302 Vattentank	2017-07-21	Lutdisk
+Vattenfilter	2017-07-21	Syradisk
+Filtret-Veckoavslut	2017-07-21	Lutsterilning
+Maltax	2017-07-21	Rengjord
+T45	2017-07-21	Syradisk
+Lilla balanssystemet (2)	2017-07-21	Lutdisk
+Stora balanssystemet (1)	2017-07-21	Lutdisk
+BBT 321	2017-07-23	Syradisk
+BBT 304	2017-07-23	Syradisk
+BBT 311	2017-07-24	Syradisk
+BBT 308	2017-07-24	Syradisk
+BBT 316	2017-07-24	Lutdisk
+BBT 306	2017-07-24	Lutdisk
+BBT 317	2017-07-24	Syradisk
+BBT 320	2017-07-25	Lutdisk
+BBT 305	2017-07-25	Syradisk
+BBT 324	2017-07-25	Syradisk
+BBT 311	2017-07-26	Lutdisk
+BBT 317	2017-07-26	Syradisk
+BBT 313	2017-07-27	Lutdisk
+BBT 310	2017-07-27	Lutdisk
+BBT 304	2017-07-27	Syradisk
+BBT 314	2017-07-27	Syradisk
+BBT 307	2017-07-28	Syradisk
+BBT 311	2017-07-30	Syradisk
+BBT 323	2017-07-30	Syradisk
+BBT 310	2017-07-31	Syradisk
+BBT 320	2017-07-31	Syradisk
+Filtret-Veckoavslut	2017-07-31	Lutsterilning
+BBT 314	2017-07-31	Syradisk
+BBT 308	2017-07-31	Lutdisk
+BBT 313	2017-07-31	Syradisk
+BBT 316	2017-07-31	Syradisk
+BBT 305	2017-07-31	Lutdisk
+BBT 315	2017-08-01	Syradisk
+BBT 322	2017-08-01	Syradisk
+BBT 306	2017-08-01	Syradisk
+BBT 324	2017-08-01	Syradisk
+BBT 309	2017-08-01	Lutdisk
+BBT 312	2017-08-02	Lutdisk
+BBT 325	2017-08-02	Lutdisk
+BBT 317	2017-08-02	Lutdisk
+BBT 304	2017-08-02	Lutdisk
+BBT 314	2017-08-03	Syradisk
+BBT 310	2017-08-03	Lutdisk
+T34	2017-08-04	Syradisk
+T45	2017-08-04	Lutdisk
+Gurtank T67	2017-08-04	Syradisk
+Gurtank T68	2017-08-04	Syradisk
+Gurtank T66	2017-08-04	Syradisk
+Gamla runtkörningen	2017-08-04	Totaldisk
+Vattenfilter	2017-08-04	Syradisk
+BBT 316	2017-08-06	Lutdisk
+BBT 315	2017-08-07	Lutdisk
+BBT 307	2017-08-07	Lutdisk
+BBT 305	2017-08-07	Syradisk
+BBT 306	2017-08-08	Syradisk
+BBT 317	2017-08-08	Syradisk
+BBT 318	2017-08-08	Lutdisk
+BBT 312	2017-08-08	Syradisk
+BBT 311	2017-08-08	Syradisk
+BBT 308	2017-08-08	Syradisk
+BBT 316	2017-08-09	Syradisk
+BBT 324	2017-08-09	Lutdisk
+BBT 320	2017-08-09	Syradisk
+BBT 323	2017-08-09	Lutdisk
+BBT 309	2017-08-09	Syradisk
+BBT 314	2017-08-10	Lutdisk
+BBT 304	2017-08-10	Syradisk
+BBT 325	2017-08-10	Syradisk
+BBT 321	2017-08-11	Lutdisk
+T45	2017-08-13	Syradisk
+T34	2017-08-13	Syradisk
+Filtret-Veckoavslut	2017-08-13	Lutsterilning
+Maltax	2017-08-13	Rengjord
+BBT 307	2017-08-13	Syradisk
+BBT 313	2017-08-13	Syradisk
+BBT 317	2017-08-14	Syradisk
+BBT 312	2017-08-14	Syradisk
+BBT 311	2017-08-14	Lutdisk
+BBT 315	2017-08-14	Syradisk
+BBT 318	2017-08-14	Syradisk
+BBT 322	2017-08-15	Lutdisk
+BBT 306	2017-08-15	Lutdisk
+BBT 310	2017-08-15	Syradisk
+BBT 316	2017-08-15	Syradisk
+BBT 324	2017-08-15	Syradisk
+BBT 323	2017-08-16	Lutdisk
+BBT 314	2017-08-16	Syradisk
+BBT 325	2017-08-16	Syradisk
+BBT 320	2017-08-16	Lutdisk
+BBT 321	2017-08-16	Lutdisk
+BBT 305	2017-08-17	Syradisk
+T34	2017-08-18	Lutdisk
+T45	2017-08-18	Syradisk
+Stora balanssystemet (1)	2017-08-18	Lutdisk
+T34	2017-08-18	Lutdisk
+T45	2017-08-18	Lutdisk
+Maltax	2017-08-18	Rengjord
+Filtret-Veckoavslut	2017-08-18	Lutsterilning
+Lilla balanssystemet (2)	2017-08-18	Lutdisk
+301 Vattentank	2017-08-18	Lutdisk
+302 Vattentank	2017-08-18	Lutdisk
+Vattenfilter	2017-08-18	Syradisk
+BBT 304	2017-08-20	Syradisk
+BBT 313	2017-08-20	Lutdisk
+BBT 321	2017-08-20	Syradisk
+BBT 306	2017-08-20	Syradisk
+BBT 309	2017-08-21	Lutdisk
+BBT 322	2017-08-22	Syradisk
+BBT 308	2017-08-22	Lutdisk
+BBT 317	2017-08-23	Syradisk
+BBT 324	2017-08-24	Syradisk
+BBT 307	2017-08-24	Syradisk
+BBT 323	2017-08-24	Syradisk
+BBT 318	2017-08-24	Syradisk
+BBT 325	2017-08-24	Lutdisk
+BBT 312	2017-08-25	Lutdisk
+BBT 309	2017-08-25	Lutdisk
+BBT 314	2017-08-25	Syradisk
+BBT 320	2017-08-25	Syradisk
+BBT 305	2017-08-25	Lutdisk
+T45	2017-08-26	Syradisk
+Filtret-Veckoavslut	2017-08-27	Lutsterilning
+BBT 308	2017-08-27	Syradisk
+BBT 316	2017-08-27	Syradisk
+BBT 306	2017-08-28	Syradisk
+BBT 320	2017-08-28	Syradisk
+BBT 311	2017-08-28	Syradisk
+BBT 310	2017-08-28	Lutdisk
+BBT 317	2017-08-29	Lutdisk
+BBT 313	2017-08-30	Syradisk
+BBT 312	2017-08-31	Syradisk
+BBT 307	2017-08-31	Syradisk
+BBT 323	2017-08-31	Syradisk
+Maltax	2017-08-31	Rengjord
+Filtret	2017-08-31	Rengjord
+Filtret-Veckoavslut	2017-08-31	Lutsterilning
+Filtret Sterilning	2017-08-31	Genomförd
+T34	2017-08-31	Syradisk
+BBT 304	2017-08-31	Lutdisk
+T45	2017-08-31	Syradisk
+Aldox	2017-09-01	Syradisk
+BBT 308	2017-09-03	Syradisk
+BBT 314	2017-09-03	Lutdisk
+BBT 321	2017-09-03	Syradisk
+BBT 309	2017-09-03	Syradisk
+BBT 318	2017-09-04	Lutdisk
+BBT 322	2017-09-04	Syradisk
+BBT 324	2017-09-04	Lutdisk
+Filtret Sterilning	2017-09-04	Genomförd
+BBT 317	2017-09-04	Lutdisk
+BBT 306	2017-09-04	Syradisk
+Vattenfilter	2017-09-05	Syradisk
+BBT 313	2017-09-05	Syradisk
+BBT 305	2017-09-05	Syradisk
+BBT 310	2017-09-05	Syradisk
+BBT 306	2017-09-06	Lutdisk
+BBT 307	2017-09-06	Lutdisk
+BBT 308	2017-09-06	Syradisk
+BBT 315	2017-09-07	Lutdisk
+BBT 323	2017-09-07	Lutdisk
+BBT 304	2017-09-07	Syradisk
+T34	2017-09-08	Syradisk
+T34	2017-09-08	Lutdisk
+Maltax	2017-09-08	Rengjord
+T45	2017-09-08	Lutdisk
+Aldox	2017-09-09	Syradisk
+Filtret-Veckoavslut	2017-09-09	Lutsterilning
+BBT 325	2017-09-10	Syradisk
+BBT 322	2017-09-10	Lutdisk
+BBT 312	2017-09-10	Syradisk
+BBT 314	2017-09-10	Syradisk
+BBT 304	2017-09-11	Syradisk
+BBT 309	2017-09-11	Syradisk
+BBT 316	2017-09-11	Lutdisk
+BBT 310	2017-09-12	Syradisk
+BBT 318	2017-09-12	Syradisk
+Filtret Sterilning	2017-09-12	Genomförd
+BBT 313	2017-09-12	Lutdisk
+BBT 311	2017-09-12	Lutdisk
+BBT 305	2017-09-13	Syradisk
+BBT 306	2017-09-13	Syradisk
+BBT 323	2017-09-13	Syradisk
+BBT 318	2017-09-13	Syradisk
+BBT 317	2017-09-13	Syradisk
+BBT 307	2017-09-14	Syradisk
+Lilla balanssystemet (2)	2017-09-14	Lutdisk
+Stora balanssystemet (1)	2017-09-14	Lutdisk
+BBT 315	2017-09-14	Syradisk
+BBT 324	2017-09-14	Syradisk
+BBT 321	2017-09-15	Lutdisk
+301 Vattentank	2017-09-15	Lutdisk
+302 Vattentank	2017-09-15	Lutdisk
+303 Vattentank	2017-09-15	Lutdisk
+Aldox	2017-09-15	Syradisk
+Maltax	2017-09-15	Rengjord
+T45	2017-09-15	Lutdisk
+T34	2017-09-16	Lutdisk
+BBT 309	2017-09-17	Lutdisk
+BBT 317	2017-09-17	Syradisk
+BBT 311	2017-09-17	Syradisk
+BBT 322	2017-09-17	Syradisk
+BBT 316	2017-09-17	Syradisk
+BBT 325	2017-09-18	Lutdisk
+BBT 320	2017-09-18	Lutdisk
+BBT 309	2017-09-18	Syradisk
+BBT 308	2017-09-18	Lutdisk
+BBT 305	2017-09-19	Lutdisk
+BBT 304	2017-09-19	Syradisk
+BBT 312	2017-09-19	Lutdisk
+BBT 323	2017-09-20	Syradisk
+Filtret Sterilning	2017-09-20	Genomförd
+BBT 314	2017-09-20	Syradisk
+BBT 317	2017-09-20	Lutdisk
+BBT 306	2017-09-21	Syradisk
+BBT 307	2017-09-21	Syradisk
+BBT 318	2017-09-21	Syradisk
+BBT 324	2017-09-21	Syradisk
+T34	2017-09-22	Lutdisk
+Maltax	2017-09-22	Rengjord
+Filtret-Veckoavslut	2017-09-22	Lutsterilning
+BBT 322	2017-09-24	Syradisk
+BBT 311	2017-09-25	Syradisk
+BBT 320	2017-09-25	Syradisk
+BBT 325	2017-09-25	Syradisk
+BBT 316	2017-09-25	Syradisk
+BBT 312	2017-09-25	Syradisk
+BBT 305	2017-09-26	Syradisk
+BBT 310	2017-09-26	Lutdisk
+BBT 309	2017-09-27	Syradisk
+BBT 323	2017-09-27	Syradisk
+BBT 313	2017-09-28	Syradisk
+BBT 312	2017-09-28	Syradisk
+BBT 304	2017-09-28	Lutdisk
+BBT 324	2017-09-28	Lutdisk
+BBT 306	2017-10-01	Lutdisk
+BBT 312	2017-10-02	Syradisk
+BBT 318	2017-10-02	Lutdisk
+BBT 308	2017-10-02	Syradisk
+BBT 322	2017-10-03	Lutdisk
+BBT 314	2017-10-03	Lutdisk
+BBT 317	2017-10-03	Syradisk
+BBT 311	2017-10-03	Syradisk
+BBT 305	2017-10-03	Syradisk
+BBT 323	2017-10-04	Lutdisk
+BBT 304	2017-10-04	Syradisk
+BBT 316	2017-10-04	Lutdisk
+BBT 310	2017-10-04	Syradisk
+BBT 313	2017-10-05	Lutdisk
+BBT 309	2017-10-05	Syradisk
+BBT 307	2017-10-05	Lutdisk
+BBT 311	2017-10-06	Lutdisk
+T34	2017-10-06	Syradisk
+Maltax	2017-10-06	Rengjord
+Filtret-Veckoavslut	2017-10-06	Lutsterilning
+Aldox	2017-10-06	Syradisk
+T45	2017-10-06	Lutdisk
+Kolsyraledning	2017-10-06	Rengjord
+Aldox	2017-10-06	Syradisk
+BBT 314	2017-10-08	Syradisk
+BBT 318	2017-10-08	Syradisk
+BBT 323	2017-10-08	Syradisk
+BBT 325	2017-10-08	Lutdisk
+BBT 308	2017-10-08	Lutdisk
+BBT 305	2017-10-09	Lutdisk
+BBT 304	2017-10-09	Lutdisk
+BBT 316	2017-10-09	Syradisk
+BBT 324	2017-10-10	Syradisk
+BBT 320	2017-10-11	Lutdisk
+BBT 310	2017-10-12	Syradisk
+BBT 306	2017-10-12	Syradisk
+BBT 311	2017-10-12	Syradisk
+BBT 314	2017-10-12	Syradisk
+BBT 311	2017-10-12	Syradisk
+BBT 311	2017-10-12	Syradisk
+BBT 312	2017-10-12	Lutdisk
+BBT 308	2017-10-12	Syradisk
+T34	2017-10-13	Lutdisk
+T45	2017-10-13	Lutdisk
+Maltax	2017-10-13	Rengjord
+Gamla runtkörningen	2017-10-13	Totaldisk
+BBT 304	2017-10-13	Syradisk
+BBT 305	2017-10-13	Syradisk
+Aldox	2017-10-13	Syradisk
+Filtret-Veckoavslut	2017-10-13	Lutsterilning
+BBT 309	2017-10-15	Lutdisk
+BBT 323	2017-10-15	Syradisk
+BBT 321	2017-10-15	Lutdisk
+BBT 318	2017-10-15	Syradisk
+BBT 316	2017-10-15	Syradisk
+BBT 317	2017-10-16	Lutdisk
+BBT 322	2017-10-16	Syradisk
+BBT 325	2017-10-17	Lutdisk
+BBT 305	2017-10-17	Lutdisk
+BBT 313	2017-10-17	Syradisk
+BBT 310	2017-10-17	Lutdisk
+BBT 320	2017-10-18	Syradisk
+BBT 314	2017-10-19	Syradisk
+BBT 314	2017-10-19	Syradisk
+BBT 314	2017-10-19	Syradisk
+BBT 305	2017-10-19	Syradisk
+BBT 304	2017-10-19	Syradisk
+BBT 308	2017-10-20	Syradisk
+BBT 323	2017-10-20	Syradisk
+T34	2017-10-20	Syradisk
+BBT 306	2017-10-22	Syradisk
+BBT 322	2017-10-22	Syradisk
+BBT 319	2017-10-23	Lutdisk
+BBT 324	2017-10-23	Lutdisk
+BBT 314	2017-10-23	Lutdisk
+Filtret Sterilning	2017-10-23	Genomförd
+BBT 307	2017-10-23	Syradisk
+BBT 317	2017-10-24	Syradisk
+BBT 321	2017-10-24	Syradisk
+BBT 305	2017-10-25	Syradisk
+BBT 309	2017-10-25	Syradisk
+BBT 309	2017-10-25	Syradisk
+BBT 316	2017-10-26	Lutdisk
+BBT 304	2017-10-26	Syradisk
+BBT 311	2017-10-26	Syradisk
+BBT 307	2017-10-26	Lutdisk
+BBT 323	2017-10-26	Lutdisk
+BBT 313	2017-10-26	Lutdisk
+BBT 306	2017-10-26	Lutdisk
+T34	2017-10-27	Syradisk
+Maltax	2017-10-27	Rengjord
+Filtret-Veckoavslut	2017-10-27	Lutsterilning
+T45	2017-10-27	Syradisk
+BBT 319	2017-10-29	Syradisk
+BBT 312	2017-10-29	Syradisk
+BBT 314	2017-10-29	Syradisk
+BBT 308	2017-10-29	Lutdisk
+BBT 324	2017-10-30	Syradisk
+BBT 305	2017-10-31	Syradisk
+BBT 321	2017-10-31	Syradisk
+BBT 317	2017-11-01	Syradisk
+BBT 320	2017-11-01	Syradisk
+BBT 316	2017-11-01	Syradisk
+BBT 310	2017-11-02	Lutdisk
+BBT 319	2017-11-03	Syradisk
+BBT 304	2017-11-03	Lutdisk
+BBT 305	2017-11-03	Lutdisk
+BBT 306	2017-11-03	Syradisk
+Filtret Sterilning	2017-11-04	Genomförd
+T45	2017-11-04	Lutdisk
+T34	2017-11-04	Lutdisk
+BBT 311	2017-11-05	Lutdisk
+BBT 309	2017-11-05	Lutdisk
+BBT 322	2017-11-05	Lutdisk
+BBT 323	2017-11-05	Syradisk
+BBT 312	2017-11-05	Lutdisk
+BBT 324	2017-11-06	Syradisk
+BBT 325	2017-11-07	Lutdisk
+BBT 321	2017-11-07	Lutdisk
+BBT 318	2017-11-08	Lutdisk
+BBT 316	2017-11-08	Syradisk
+BBT 306	2017-11-08	Syradisk
+T34	2017-11-09	Lutdisk
+T45	2017-11-09	Lutdisk
+Aldox	2017-11-09	Syradisk
+Maltax	2017-11-09	Rengjord
+BBT 317	2017-11-09	Syradisk
+BBT 308	2017-11-09	Syradisk
+BBT 306	2017-11-10	Syradisk
+T45	2017-11-10	Syradisk
+Filtret-Veckoavslut	2017-11-10	Lutsterilning
+T34	2017-11-10	Syradisk
+Vattenfilter	2017-11-10	Lutdisk
+BBT 321	2017-11-10	Syradisk
+BBT 304	2017-11-12	Syradisk
+BBT 305	2017-11-12	Syradisk
+BBT 320	2017-11-12	Lutdisk
+BBT 309	2017-11-12	Syradisk
+BBT 317	2017-11-09	Lutdisk
+Gamla runtkörningen	2017-11-09	Totaldisk
+BBT 319	2017-11-13	Lutdisk
+BBT 324	2017-11-13	Lutdisk
+BBT 310	2017-11-14	Syradisk
+BBT 314	2017-11-15	Lutdisk
+BBT 311	2017-11-15	Syradisk
+BBT 318	2017-11-15	Syradisk
+BBT 325	2017-11-15	Syradisk
+BBT 311	2017-11-16	Syradisk
+BBT 316	2017-11-16	Lutdisk
+BBT 308	2017-11-16	Lutdisk
+BBT 307	2017-11-17	Lutdisk
+BBT 319	2017-11-17	Syradisk
+BBT 307	2017-11-19	Syradisk
+BBT 304	2017-11-19	Syradisk
+BBT 305	2017-11-19	Syradisk
+BBT 320	2017-11-19	Syradisk
+BBT 323	2017-11-19	Lutdisk
+T34	2017-11-20	Syradisk
+Filtret Sterilning	2017-11-22	Genomförd
+BBT 310	2017-11-22	Syradisk
+BBT 318	2017-11-23	Syradisk
+BBT 317	2017-11-23	Syradisk
+BBT 314	2017-11-23	Syradisk
+BBT 318	2017-11-23	Lutdisk
+BBT 310	2017-11-23	Syradisk
+BBT 309	2017-11-23	Lutdisk
+BBT 316	2017-11-23	Syradisk
+BBT 322	2017-11-24	Lutdisk
+BBT 306	2017-11-24	Lutdisk
+BBT 325	2017-11-24	Syradisk
+BBT 315	2017-11-24	Lutdisk
+Gamla runtkörningen	2017-11-25	Totaldisk
+Maltax	2017-11-25	Rengjord
+T34	2017-11-26	Lutdisk
+BBT 304	2017-11-26	Lutdisk
+T45	2017-11-26	Syradisk
+Filtret-Veckoavslut	2017-11-26	Lutsterilning
+BBT 305	2017-11-26	Lutdisk
+BBT 324	2017-11-26	Syradisk
+BBT 316	2017-11-26	Syradisk
+BBT 321	2017-11-27	Lutdisk
+BBT 323	2017-11-27	Syradisk
+BBT 319	2017-11-27	Syradisk
+BBT 311	2017-11-27	Lutdisk
+BBT 312	2017-11-28	Lutdisk
+BBT 307	2017-11-29	Syradisk
+BBT 320	2017-11-30	Syradisk
+BBT 312	2017-11-30	Syradisk
+BBT 308	2017-11-30	Syradisk
+BBT 305	2017-11-30	Syradisk
+BBT 314	2017-11-30	Syradisk
+BBT 315	2017-11-30	Syradisk
+BBT 310	2017-11-30	Lutdisk
+BBT 309	2017-12-01	Syradisk
+BBT 318	2017-12-01	Syradisk
+Gamla runtkörningen	2017-12-03	Totaldisk
+Filtret-Veckoavslut	2017-12-03	Lutsterilning
+Maltax	2017-12-03	Rengjord
+Aldox	2017-12-03	Syradisk
+T34	2017-12-03	Syradisk
+BBT 319	2017-12-03	Lutdisk
+T45	2017-12-03	Lutdisk
+BBT 324	2017-12-03	Lutdisk
+BBT 304	2017-12-03	Syradisk
+BBT 306	2017-12-03	Syradisk
+BBT 325	2017-12-04	Lutdisk
+BBT 316	2017-12-04	Lutdisk
+BBT 311	2017-12-04	Syradisk
+BBT 320	2017-12-04	Lutdisk
+BBT 324	2017-12-05	Syradisk
+BBT 305	2017-12-06	Syradisk
+BBT 323	2017-12-05	Syradisk
+BBT 319	2017-12-06	Syradisk
+BBT 324	2017-12-06	Syradisk
+BBT 322	2017-12-07	Lutdisk
+BBT 312	2017-12-05	Lutdisk
+BBT 304	2017-12-07	Syradisk
+302 Vattentank	2017-12-07	Lutdisk
+301 Vattentank	2017-12-08	Lutdisk
+303 Vattentank	2017-12-08	Lutdisk
+Aldox	2017-12-08	Syradisk
+BBT 318	2017-12-08	Syradisk
+T45	2017-12-08	Syradisk
+BBT 306	2017-12-10	Syradisk
+BBT 315	2017-12-10	Syradisk
+BBT 312	2017-12-10	Syradisk
+BBT 309	2017-12-10	Syradisk
+BBT 317	2017-12-11	Lutdisk
+BBT 310	2017-12-11	Syradisk
+BBT 320	2017-12-11	Syradisk
+BBT 308	2017-12-11	Lutdisk
+BBT 316	2017-12-12	Syradisk
+BBT 323	2017-12-12	Lutdisk
+Filtret-Veckoavslut	2017-12-10	Lutsterilning
+T34	2017-12-10	Syradisk
+BBT 325	2017-12-12	Syradisk
+BBT 311	2017-12-13	Syradisk
+BBT 307	2017-12-13	Lutdisk
+BBT 314	2017-12-14	Lutdisk
+BBT 304	2017-12-14	Syradisk
+BBT 310	2017-12-14	Syradisk
+BBT 316	2017-12-14	Syradisk
+BBT 325	2017-12-15	Syradisk
+BBT 321	2017-12-16	Lutdisk
+Maltax	2017-12-16	Rengjord
+T34	2017-12-17	Lutdisk
+T45	2017-12-17	Lutdisk
+BBT 315	2017-12-17	Lutdisk
+Vattenfilter	2017-12-17	Dubbeldisk
+Filtret Sterilning	2017-12-17	Genomförd
+BBT 308	2017-12-17	Syradisk
+BBT 318	2017-12-17	Lutdisk
+BBT 309	2017-12-17	Lutdisk
+BBT 320	2017-12-17	Syradisk
+BBT 317	2017-12-17	Syradisk
+BBT 325	2017-12-18	Syradisk
+BBT 323	2017-12-18	Syradisk
+BBT 314	2017-12-18	Syradisk
+BBT 311	2017-12-18	Lutdisk
+BBT 324	2017-12-19	Lutdisk
+BBT 305	2017-12-19	Lutdisk
+BBT 316	2017-12-20	Lutdisk
+BBT 315	2017-12-20	Lutdisk
+BBT 307	2017-12-20	Lutdisk
+BBT 309	2017-12-21	Lutdisk
+BBT 312	2017-12-21	Lutdisk
+BBT 304	2017-12-22	Lutdisk
+BBT 321	2017-12-22	Lutdisk
+T45	2017-12-22	Lutdisk
+BBT 305	2017-12-22	Lutdisk
+T45	2017-12-22	Lutdisk
+BBT 321	2017-12-22	Lutdisk
+T34	2017-12-22	Lutdisk
+BBT 320	2017-12-26	Lutdisk
+BBT 322	2017-12-26	Lutdisk
+BBT 318	2017-12-26	Lutdisk
+BBT 315	2017-12-26	Lutdisk
+BBT 324	2017-12-27	Lutdisk
+BBT 313	2017-12-27	Lutdisk
+BBT 316	2017-12-27	Lutdisk
+BBT 308	2017-12-27	Lutdisk
+BBT 314	2017-12-27	Lutdisk
+BBT 317	2017-12-27	Lutdisk
+BBT 306	2017-12-28	Lutdisk
+BBT 320	2017-12-28	Lutdisk
+T34	2017-12-29	Syradisk
+T45	2017-12-29	Syradisk
+Filtret-Veckoavslut	2017-12-29	Lutsterilning
+Maltax	2017-12-29	Rengjord
+Gamla runtkörningen	2017-12-29	Totaldisk
+BBT 320	2018-01-01	Syradisk
+BBT 312	2018-01-01	Syradisk
+BBT 304	2018-01-01	Syradisk
+BBT 310	2018-01-01	Lutdisk
+BBT 325	2018-01-01	Lutdisk
+BBT 309	2018-01-01	Syradisk
+BBT 315	2018-01-02	Syradisk
+BBT 308	2018-01-03	Syradisk
+BBT 322	2018-01-04	Syradisk
+BBT 307	2018-01-04	Syradisk
+BBT 317	2018-01-04	Syradisk
+BBT 316	2018-01-05	Syradisk
+T45	2018-01-05	Syradisk
+Gamla runtkörningen	2018-01-05	Totaldisk
+Maltax	2018-01-05	Rengjord
+Filtret-Veckoavslut	2018-01-05	Lutsterilning
+T34	2018-01-05	Syradisk
+BBT 323	2018-01-07	Lutdisk
+Vattenfilter	2018-01-07	Syradisk
+BBT 304	2018-01-07	Syradisk
+BBT 307	2018-01-08	Lutdisk
+BBT 324	2018-01-09	Syradisk
+BBT 310	2018-01-09	Syradisk
+BBT 311	2018-01-09	Lutdisk
+BBT 308	2018-01-09	Syradisk
+BBT 313	2018-01-10	Syradisk
+BBT 314	2018-01-10	Syradisk
+BBT 323	2018-01-11	Syradisk
+BBT 321	2018-01-11	Lutdisk
+T45	2018-01-11	Lutdisk
+Stora balanssystemet (1)	2018-01-11	Lutdisk
+Lilla balanssystemet (2)	2018-01-11	Lutdisk
+BBT 312	2018-01-11	Syradisk
+BBT 318	2018-01-11	Syradisk
+BBT 309	2018-01-12	Lutdisk
+BBT 305	2018-01-12	Syradisk
+BBT 315	2018-01-12	Syradisk
+Gamla runtkörningen	2018-01-12	Totaldisk
+T34	2018-01-12	Lutdisk
+BBT 310	2018-01-14	Syradisk
+BBT 317	2018-01-14	Syradisk
+BBT 322	2018-01-14	Lutdisk
+BBT 304	2018-01-15	Lutdisk
+Filtret-Veckoavslut	2018-01-15	Lutsterilning
+BBT 308	2018-01-15	Lutdisk
+BBT 311	2018-01-15	Syradisk
+BBT 306	2018-01-16	Syradisk
+BBT 324	2018-01-16	Syradisk
+BBT 316	2018-01-16	Lutdisk
+BBT 313	2018-01-17	Lutdisk
+BBT 314	2018-01-17	Lutdisk
+Aldox	2018-01-18	Syradisk
+Filtret Sterilning	2018-01-18	Genomförd
+BBT 312	2018-01-18	Lutdisk
+BBT 315	2018-01-19	Lutdisk
+BBT 320	2018-01-19	Lutdisk
+BBT 305	2018-01-19	Lutdisk
+BBT 304	2018-01-19	Syradisk
+Gurtank T67	2018-01-19	Syradisk
+Gurtank T68	2018-01-19	Syradisk
+T34	2018-01-19	Syradisk
+Filtret-Veckoavslut	2018-01-19	Lutsterilning
+Maltax	2018-01-19	Rengjord
+T34	2018-01-19	Lutdisk
+T45	2018-01-19	Lutdisk
+Filtret-Veckoavslut	2018-01-19	Lutsterilning
+Aldox	2018-01-19	Syradisk
+301 Vattentank	2018-01-19	Lutdisk
+302 Vattentank	2018-01-19	Lutdisk
+303 Vattentank	2018-01-19	Lutdisk
+BBT 325	2018-01-21	Lutdisk
+BBT 305	2018-01-22	Syradisk
+BBT 310	2018-01-22	Syradisk
+BBT 313	2018-01-22	Syradisk
+BBT 317	2018-01-22	Lutdisk
+BBT 311	2018-01-23	Syradisk
+BBT 306	2018-01-23	Lutdisk
+BBT 321	2018-01-23	Syradisk
+BBT 307	2018-01-23	Syradisk
+BBT 323	2018-01-23	Syradisk
+BBT 314	2018-01-23	Syradisk
+BBT 305	2018-01-23	Syradisk
+BBT 308	2018-01-23	Syradisk
+BBT 309	2018-01-25	Syradisk
+BBT 316	2018-01-25	Syradisk
+T34	2018-01-26	Syradisk
+T45	2018-01-26	Lutdisk
+BBT 321	2018-01-26	Lutdisk
+BBT 306	2018-01-26	Syradisk
+Filtret-Veckoavslut	2018-01-26	Lutsterilning
+Maltax	2018-01-26	Rengjord
+BBT 314	2018-01-26	Syradisk
+BBT 305	2018-01-26	Syradisk
+Kolsyraledning	2018-01-28	Rengjord
+BBT 320	2018-01-28	Syradisk
+BBT 304	2018-01-28	Syradisk
+BBT 312	2018-01-28	Syradisk
+BBT 307	2018-01-28	Lutdisk
+Aldox	2018-01-28	Syradisk
+BBT 325	2018-01-28	Syradisk
+BBT 315	2018-01-28	Syradisk
+Filtret Sterilning	2018-01-29	Genomförd
+BBT 310	2018-01-29	Lutdisk
+T34	2018-01-29	Syradisk
+BBT 316	2018-01-29	Syradisk
+BBT 313	2018-01-29	Syradisk
+BBT 308	2018-01-30	Syradisk
+BBT 323	2018-01-30	Lutdisk
+BBT 311	2018-01-30	Lutdisk
+BBT 309	2018-01-30	Syradisk
+BBT 324	2018-02-01	Lutdisk
+T34	2018-02-01	Lutdisk
+BBT 309	2018-02-01	Lutdisk
+BBT 322	2018-02-01	Syradisk
+BBT 321	2018-02-02	Syradisk
+Maltax	2018-02-03	Rengjord
+T34	2018-02-03	Syradisk
+T45	2018-02-03	Syradisk
+Filtret-Veckoavslut	2018-02-03	Lutsterilning
+Gurtank T66	2018-02-04	Syradisk
+BBT 315	2018-02-04	Syradisk
+BBT 313	2018-02-05	Lutdisk
+BBT 322	2018-02-05	Lutdisk
+BBT 308	2018-02-05	Lutdisk
+BBT 307	2018-02-05	Syradisk
+BBT 304	2018-02-05	Lutdisk
+BBT 316	2018-02-05	Lutdisk
+BBT 314	2018-02-05	Syradisk
+BBT 317	2018-02-06	Syradisk
+BBT 323	2018-02-06	Syradisk
+BBT 325	2018-02-06	Syradisk
+BBT 320	2018-02-07	Lutdisk
+Filtret Sterilning	2018-02-07	Genomförd
+BBT 305	2018-02-07	Lutdisk
+BBT 321	2018-02-08	Syradisk
+BBT 310	2018-02-08	Syradisk
+BBT 304	2018-02-08	Syradisk
+BBT 312	2018-02-08	Lutdisk
+BBT 322	2018-02-09	Syradisk
+Filtret Sterilning	2018-02-09	Genomförd
+BBT 309	2018-02-09	Syradisk
+T34	2018-02-11	Syradisk
+T45	2018-02-11	Syradisk
+BBT 307	2018-02-12	Syradisk
+BBT 316	2018-02-12	Syradisk
+BBT 317	2018-02-12	Lutdisk
+BBT 325	2018-02-12	Lutdisk
+BBT 323	2018-02-12	Syradisk
+BBT 321	2018-02-13	Syradisk
+BBT 314	2018-02-13	Lutdisk
+BBT 312	2018-02-13	Syradisk
+BBT 313	2018-02-14	Syradisk
+BBT 304	2018-02-15	Syradisk
+BBT 310	2018-02-15	Syradisk
+BBT 306	2018-02-16	Lutdisk
+BBT 309	2018-02-16	Syradisk
+BBT 315	2018-02-16	Lutdisk
+BBT 305	2018-02-16	Syradisk
+T34	2018-02-16	Syradisk
+T45	2018-02-16	Lutdisk
+Filtret-Veckoavslut	2018-02-16	Lutsterilning
+Vattenfilter	2018-02-16	Genomförd
+Kontrollera BBT:er i Citect	2018-02-16	Genomförd
+Maltax	2018-02-16	Rengjord
+Aldox	2018-02-17	Syradisk
+BBT 307	2018-02-18	Lutdisk
+BBT 314	2018-02-18	Syradisk
+BBT 308	2018-02-18	Syradisk
+BBT 311	2018-02-19	Syradisk
+BBT 316	2018-02-19	Syradisk
+BBT 317	2018-02-19	Syradisk
+BBT 319	2018-02-19	Lutdisk
+BBT 324	2018-02-20	Syradisk
+BBT 323	2018-02-20	Syradisk
+BBT 312	2018-02-21	Syradisk
+BBT 320	2018-02-21	Syradisk
+BBT 322	2018-02-21	Syradisk
+BBT 310	2018-02-21	Lutdisk
+BBT 316	2018-02-22	Lutdisk
+BBT 311	2018-02-22	Lutdisk
+BBT 306	2018-02-23	Syradisk
+BBT 307	2018-02-23	Syradisk
+BBT 309	2018-02-24	Lutdisk
+Filtret Sterilning	2018-02-25	Genomförd
+Kontrollera BBT:er i Citect	2018-02-25	Genomförd
+T45	2018-02-25	Syradisk
+BBT 304	2018-02-25	Syradisk
+T34	2018-02-25	Lutdisk
+BBT 319	2018-02-25	Lutdisk
+BBT 314	2018-02-26	Syradisk
+BBT 308	2018-02-26	Lutdisk
+BBT 316	2018-02-26	Syradisk
+BBT 325	2018-02-26	Syradisk
+BBT 313	2018-02-27	Lutdisk
+BBT 316	2018-02-27	Syradisk
+BBT 315	2018-02-27	Syradisk
+BBT 320	2018-02-27	Lutdisk
+BBT 323	2018-02-27	Lutdisk
+BBT 305	2018-02-27	Lutdisk
+BBT 304	2018-02-27	Lutdisk
+BBT 324	2018-02-28	Lutdisk
+BBT 307	2018-02-28	Syradisk
+BBT 310	2018-03-01	Syradisk
+BBT 315	2018-03-01	Syradisk
+BBT 321	2018-03-01	Lutdisk
+BBT 317	2018-03-02	Syradisk
+BBT 325	2018-03-02	Lutdisk
+T45	2018-03-02	Syradisk
+T34	2018-03-02	Syradisk
+Vattenfilter	2018-03-02	Genomförd
+Maltax	2018-03-02	Rengjord
+Kontrollera BBT:er i Citect	2018-03-02	Genomförd
+Filtret-Veckoavslut	2018-03-02	Lutsterilning
+BBT 322	2018-03-04	Lutdisk
+BBT 306	2018-03-04	Syradisk
+BBT 316	2018-03-04	Syradisk
+BBT 311	2018-03-05	Syradisk
+301 Vattentank	2018-03-08	Lutdisk
+302 Vattentank	2018-03-08	Lutdisk
+Lilla balanssystemet (2)	2018-03-08	Lutdisk
+Stora balanssystemet (1)	2018-03-08	Lutdisk
+Aldox	2018-03-08	Syradisk
+303 Vattentank	2018-03-08	Lutdisk
+BBT 304	2018-03-08	Lutdisk
+BBT 305	2018-03-08	Lutdisk
+BBT 306	2018-03-08	Lutdisk
+T34	2018-03-08	Lutdisk
+T45	2018-03-08	Lutdisk
+Filtret-Veckoavslut	2018-03-08	Lutsterilning
+BBT 307	2018-03-08	Lutdisk
+BBT 307	2018-03-08	Lutdisk
+BBT 308	2018-03-08	Lutdisk
+BBT 310	2018-03-09	Lutdisk
+BBT 312	2018-03-09	Lutdisk
+BBT 309	2018-03-09	Lutdisk
+BBT 311	2018-03-09	Lutdisk
+Maltax	2018-03-09	Rengjord
+Kontrollera BBT:er i Citect	2018-03-09	Genomförd
+T34	2018-03-09	Syradisk
+Vattenfilter	2018-03-09	Genomförd
+T45	2018-03-10	Syradisk
+BBT 310	2018-03-11	Syradisk
+BBT 309	2018-03-11	Syradisk
+BBT 312	2018-03-11	Syradisk
+BBT 316	2018-03-11	Syradisk
+BBT 320	2018-03-12	Lutdisk
+BBT 322	2018-03-12	Syradisk
+BBT 325	2018-03-13	Syradisk
+BBT 314	2018-03-13	Lutdisk
+Filtret Sterilning	2018-03-14	Genomförd
+BBT 322	2018-03-14	Syradisk
+BBT 307	2018-03-14	Syradisk
+BBT 311	2018-03-15	Syradisk
+Filtret Sterilning	2018-03-15	Genomförd
+BBT 309	2018-03-15	Syradisk
+BBT 305	2018-03-15	Syradisk
+BBT 323	2018-03-15	Lutdisk
+BBT 313	2018-03-16	Syradisk
+Filtret-Veckoavslut	2018-03-16	Lutsterilning
+Vattenfilter	2018-03-16	Genomförd
+Aldox	2018-03-16	Syradisk
+Maltax	2018-03-16	Rengjord
+T34	2018-03-16	Syradisk
+T45	2018-03-16	Lutdisk
+Kontrollera BBT:er i Citect	2018-03-16	Genomförd
+BBT 318	2018-03-18	Lutdisk
+BBT 314	2018-03-18	Syradisk
+BBT 322	2018-03-18	Syradisk
+BBT 305	2018-03-18	Lutdisk
+BBT 324	2018-03-19	Syradisk
+BBT 319	2018-03-19	Lutdisk
+BBT 306	2018-03-19	Syradisk
+BBT 312	2018-03-19	Syradisk
+BBT 315	2018-03-19	Lutdisk
+BBT 310	2018-03-19	Syradisk
+BBT 316	2018-03-20	Lutdisk
+BBT 325	2018-03-21	Syradisk
+BBT 317	2018-03-21	Lutdisk
+BBT 309	2018-03-21	Syradisk
+BBT 313	2018-03-22	Lutdisk
+BBT 308	2018-03-22	Syradisk
+BBT 304	2018-03-22	Syradisk
+BBT 321	2018-03-22	Syradisk
+Aldox	2018-03-23	Syradisk
+T34	2018-03-23	Syradisk
+Filtret-Veckoavslut	2018-03-23	Lutsterilning
+T45	2018-03-23	Syradisk
+Kontrollera BBT:er i Citect	2018-03-23	Genomförd
+BBT 315	2018-03-23	Syradisk
+Maltax	2018-03-23	Rengjord
+BBT 307	2018-03-25	Syradisk
+BBT 323	2018-03-25	Syradisk
+BBT 305	2018-03-25	Syradisk
+BBT 311	2018-03-25	Syradisk
+BBT 318	2018-03-25	Syradisk
+BBT 314	2018-03-25	Syradisk
+BBT 322	2018-03-25	Lutdisk
+BBT 316	2018-03-26	Syradisk
+BBT 312	2018-03-26	Syradisk
+BBT 305	2018-03-26	Syradisk
+BBT 309	2018-03-27	Syradisk
+BBT 304	2018-03-27	Syradisk
+T45	2018-03-27	Lutdisk
+BBT 308	2018-03-29	Lutdisk
+Kontrollera BBT:er i Citect	2018-03-29	Genomförd
+T45	2018-03-29	Syradisk
+Filtret-Veckoavslut	2018-03-29	Lutsterilning
+Vattenfilter	2018-03-29	Genomförd
+Maltax	2018-03-29	Rengjord
+T34	2018-03-29	Lutdisk
+BBT 325	2018-04-01	Lutdisk
+BBT 313	2018-04-01	Syradisk
+BBT 312	2018-04-02	Lutdisk
+BBT 309	2018-04-02	Lutdisk
+BBT 318	2018-04-02	Syradisk
+BBT 311	2018-04-02	Lutdisk
+BBT 314	2018-04-02	Syradisk
+BBT 315	2018-04-02	Syradisk
+BBT 306	2018-04-02	Lutdisk
+BBT 310	2018-04-03	Lutdisk
+BBT 304	2018-04-03	Lutdisk
+BBT 317	2018-04-03	Syradisk
+Filtret Sterilning	2018-04-03	Genomförd
+BBT 323	2018-04-03	Lutdisk
+BBT 318	2018-04-04	Lutdisk
+BBT 308	2018-04-04	Syradisk
+BBT 322	2018-04-04	Syradisk
+BBT 307	2018-04-05	Lutdisk
+BBT 316	2018-04-05	Syradisk
+BBT 305	2018-04-05	Syradisk
+BBT 315	2018-04-05	Syradisk
+BBT 304	2018-04-06	Syradisk
+BBT 308	2018-04-06	Syradisk
+BBT 315	2018-04-06	Lutdisk
+BBT 318	2018-04-08	Syradisk
+BBT 325	2018-04-08	Syradisk
+T34	2018-04-08	Syradisk
+T45	2018-04-08	Syradisk
+BBT 314	2018-04-08	Lutdisk
+BBT 318	2018-04-09	Syradisk
+BBT 323	2018-04-09	Syradisk
+BBT 317	2018-04-09	Lutdisk
+T34	2018-04-10	Lutdisk
+T45	2018-04-10	Lutdisk
+Filtret-Veckoavslut	2018-04-10	Lutsterilning
+BBT 309	2018-04-11	Syradisk
+BBT 312	2018-04-11	Syradisk
+BBT 310	2018-04-12	Syradisk
+BBT 306	2018-04-12	Syradisk
+BBT 322	2018-04-12	Syradisk
+Filtret Sterilning	2018-04-12	Genomförd
+T34	2018-04-12	Lutdisk
+BBT 315	2018-04-12	Syradisk
+BBT 318	2018-04-12	Syradisk
+BBT 304	2018-04-13	Syradisk
+BBT 307	2018-04-13	Syradisk
+Maltax	2018-04-14	Rengjord
+Kontrollera BBT:er i Citect	2018-04-14	Genomförd
+Filtret-Veckoavslut	2018-04-15	Lutsterilning
+BBT 314	2018-04-15	Lutdisk
+BBT 309	2018-04-15	Lutdisk
+T34	2018-04-15	Lutdisk
+T45	2018-04-15	Lutdisk
+Vattenfilter	2018-04-15	Genomförd
+BBT 313	2018-04-15	Lutdisk
+BBT 312	2018-04-15	Syradisk
+BBT 315	2018-04-17	Syradisk
+BBT 312	2018-04-17	Syradisk
+BBT 310	2018-04-17	Syradisk
+BBT 316	2018-04-18	Lutdisk
+BBT 316	2018-04-18	Syradisk
+BBT 316	2018-04-18	Syradisk
+BBT 323	2018-04-18	Syradisk
+BBT 321	2018-04-19	Lutdisk
+BBT 304	2018-04-19	Syradisk
+BBT 325	2018-04-19	Syradisk
+BBT 314	2018-04-19	Syradisk
+BBT 317	2018-04-20	Syradisk
+BBT 308	2018-04-20	Lutdisk
+BBT 307	2018-04-20	Syradisk
+BBT 318	2018-04-20	Syradisk
+Kontrollera BBT:er i Citect	2018-04-21	Genomförd
+Filtret-Veckoavslut	2018-04-22	Lutsterilning
+T34	2018-04-22	Syradisk
+BBT 313	2018-04-22	Syradisk
+BBT 305	2018-04-22	Lutdisk
+T45	2018-04-22	Lutdisk
+BBT 306	2018-04-23	Syradisk
+BBT 309	2018-04-23	Syradisk
+Filtret Sterilning	2018-04-24	Genomförd
+T34	2018-04-24	Lutdisk
+Maltax	2018-04-24	Rengjord
+BBT 323	2018-04-24	Lutdisk
+BBT 312	2018-04-24	Lutdisk
+BBT 317	2018-04-25	Lutdisk
+BBT 322	2018-04-25	Lutdisk
+BBT 308	2018-04-25	Syradisk
+BBT 324	2018-04-26	Lutdisk
+BBT 311	2018-04-26	Lutdisk
+T34	2018-04-26	Syradisk
+T45	2018-04-26	Syradisk
+301 Vattentank	2018-04-27	Lutdisk
+Vattenfilter	2018-04-27	Genomförd
+Aldox	2018-04-27	Syradisk
+303 Vattentank	2018-04-27	Lutdisk
+Filtret-Veckoavslut	2018-04-27	Lutsterilning
+302 Vattentank	2018-04-27	Lutdisk
+Kolsyraledning	2018-04-27	Rengjord
+Stora balanssystemet (1)	2018-04-27	Lutdisk
+Lilla balanssystemet (2)	2018-04-27	Lutdisk
+Kontrollera BBT:er i Citect	2018-04-27	Genomförd
+BBT 304	2018-04-27	Lutdisk
+BBT 311	2018-04-29	Syradisk
+BBT 306	2018-04-30	Lutdisk
+BBT 316	2018-04-30	Syradisk
+BBT 318	2018-04-30	Lutdisk
+BBT 310	2018-04-30	Lutdisk
+BBT 312	2018-05-01	Syradisk
+BBT 305	2018-05-01	Syradisk
+BBT 308	2018-05-01	Syradisk
+BBT 307	2018-05-02	Lutdisk
+BBT 320	2018-05-02	Lutdisk
+BBT 309	2018-05-02	Syradisk
+BBT 324	2018-05-03	Syradisk
+BBT 317	2018-05-03	Syradisk
+BBT 325	2018-05-03	Lutdisk
+BBT 304	2018-05-04	Syradisk
+BBT 313	2018-05-04	Syradisk
+T34	2018-05-06	Syradisk
+Filtret Sterilning	2018-05-06	Genomförd
+T45	2018-05-06	Lutdisk
+BBT 315	2018-05-06	Lutdisk
+BBT 323	2018-05-06	Syradisk
+BBT 311	2018-05-06	Syradisk
+BBT 314	2018-05-06	Syradisk
+BBT 306	2018-05-06	Syradisk
+BBT 322	2018-05-06	Syradisk
+BBT 318	2018-05-07	Syradisk
+BBT 304	2018-05-07	Syradisk
+BBT 321	2018-05-07	Lutdisk
+BBT 305	2018-05-08	Syradisk
+BBT 324	2018-05-08	Syradisk
+BBT 310	2018-05-08	Syradisk
+BBT 308	2018-05-09	Lutdisk
+BBT 307	2018-05-09	Syradisk
+BBT 312	2018-05-09	Syradisk
+BBT 317	2018-05-10	Syradisk
+Filtret Sterilning	2018-05-10	Genomförd
+BBT 309	2018-05-10	Lutdisk
+BBT 316	2018-05-10	Lutdisk
+BBT 317	2018-05-10	Lutdisk
+T34	2018-05-10	Syradisk
+Maltax	2018-05-11	Rengjord
+T45	2018-05-11	Lutdisk
+T34	2018-05-11	Lutdisk
+Filtret-Veckoavslut	2018-05-11	Lutsterilning
+Aldox	2018-05-11	Syradisk
+Vattenfilter	2018-05-11	Genomförd
+Kontrollera BBT:er i Citect	2018-05-11	Genomförd
+BBT 323	2018-05-13	Lutdisk
+BBT 310	2018-05-13	Syradisk
+BBT 309	2018-05-13	Syradisk
+BBT 313	2018-05-13	Lutdisk
+BBT 315	2018-05-13	Syradisk
+BBT 311	2018-05-13	Syradisk
+BBT 314	2018-05-14	Lutdisk
+BBT 321	2018-05-14	Lutdisk
+BBT 307	2018-05-14	Syradisk
+BBT 304	2018-05-15	Syradisk
+BBT 305	2018-05-15	Lutdisk
+BBT 324	2018-05-15	Syradisk
+BBT 306	2018-05-15	Syradisk
+BBT 317	2018-05-15	Syradisk
+BBT 316	2018-05-16	Syradisk
+BBT 325	2018-05-16	Syradisk
+BBT 322	2018-05-17	Lutdisk
+BBT 314	2018-05-17	Syradisk
+BBT 312	2018-05-17	Lutdisk
+BBT 313	2018-05-18	Syradisk
+BBT 310	2018-05-18	Syradisk
+T34	2018-05-20	Syradisk
+T45	2018-05-20	Lutdisk
+BBT 323	2018-05-20	Syradisk
+BBT 318	2018-05-20	Syradisk
+BBT 309	2018-05-21	Syradisk
+BBT 316	2018-05-21	Syradisk
+BBT 315	2018-05-21	Syradisk
+BBT 308	2018-05-21	Syradisk
+BBT 325	2018-05-22	Lutdisk
+BBT 307	2018-05-22	Lutdisk
+BBT 304	2018-05-22	Lutdisk
+BBT 306	2018-05-22	Lutdisk
+BBT 317	2018-05-22	Syradisk
+BBT 314	2018-05-24	Syradisk
+BBT 305	2018-05-24	Syradisk
+BBT 305	2018-05-24	Syradisk
+Filtret Sterilning	2018-05-24	Genomförd
+Gurtank T67	2018-05-24	Syradisk
+T34	2018-05-24	Syradisk
+BBT 310	2018-05-24	Lutdisk
+BBT 316	2018-05-24	Syradisk
+BBT 319	2018-05-25	Lutdisk
+BBT 313	2018-05-25	Syradisk
+BBT 304	2018-05-25	Syradisk
+BBT 315	2018-05-25	Syradisk
+Kontrollera BBT:er i Citect	2018-05-25	Genomförd
+Filtret-Veckoavslut	2018-05-25	Lutsterilning
+Maltax	2018-05-25	Rengjord
+T34	2018-05-26	Syradisk
+BBT 322	2018-05-27	Syradisk
+BBT 312	2018-05-27	Syradisk
+BBT 309	2018-05-28	Lutdisk
+BBT 317	2018-05-28	Lutdisk
+BBT 323	2018-05-28	Syradisk
+BBT 324	2018-05-29	Lutdisk
+BBT 325	2018-05-29	Syradisk
+BBT 311	2018-05-29	Lutdisk
+BBT 312	2018-05-30	Syradisk
+BBT 305	2018-05-30	Syradisk
+BBT 310	2018-05-30	Syradisk
+BBT 307	2018-05-30	Syradisk
+BBT 315	2018-05-31	Lutdisk
+BBT 321	2018-06-01	Lutdisk
+T45	2018-06-01	Lutdisk
+CIP av 321 & 45 Tillsammans	2018-06-01	Lutdisk
+Filtret Sterilning	2018-06-01	Genomförd
+T34	2018-06-01	Lutdisk
+BBT 316	2018-06-01	Lutdisk
+BBT 306	2018-06-01	Syradisk
+BBT 304	2018-06-01	Syradisk
+303 Vattentank	2018-06-02	Lutdisk
+Filtret-Veckoavslut	2018-06-03	Lutsterilning
+BBT 314	2018-06-03	Syradisk
+Gurtank T66	2018-06-03	Syradisk
+Gurtank T68	2018-06-03	Syradisk
+BBT 307	2018-06-03	Syradisk
+BBT 313	2018-06-03	Syradisk
+BBT 312	2018-06-03	Syradisk
+BBT 314	2018-06-04	Lutdisk
+BBT 317	2018-06-04	Syradisk
+T34	2018-06-05	Syradisk
+BBT 315	2018-06-05	Syradisk
+BBT 311	2018-06-06	Syradisk
+Filtret Sterilning	2018-06-06	Genomförd
+BBT 310	2018-06-06	Syradisk
+BBT 316	2018-06-07	Syradisk
+Filtret Sterilning	2018-06-07	Genomförd
+BBT 325	2018-06-07	Syradisk
+BBT 309	2018-06-08	Syradisk
+BBT 315	2018-06-08	Syradisk
+T34	2018-06-08	Syradisk
+T45	2018-06-09	Syradisk
+Kontrollera BBT:er i Citect	2018-06-09	Genomförd
+Maltax	2018-06-09	Rengjord
+Filtret Sterilning	2018-06-09	Genomförd
+Vattenfilter	2018-06-09	Genomförd
+Filtret-Veckoavslut	2018-06-09	Lutsterilning
+BBT 313	2018-06-10	Syradisk
+BBT 307	2018-06-10	Syradisk
+BBT 310	2018-06-10	Syradisk
+BBT 325	2018-06-11	Syradisk
+BBT 317	2018-06-11	Syradisk
+BBT 319	2018-06-11	Syradisk
+BBT 321	2018-06-11	Syradisk
+BBT 324	2018-06-12	Syradisk
+BBT 307	2018-06-12	Syradisk
+BBT 311	2018-06-13	Syradisk
+BBT 305	2018-06-13	Syradisk
+BBT 316	2018-06-13	Syradisk
+BBT 306	2018-06-13	Syradisk
+BBT 315	2018-06-13	Syradisk
+BBT 304	2018-06-14	Syradisk
+Filtret Sterilning	2018-06-14	Genomförd
+BBT 322	2018-06-15	Syradisk
+BBT 308	2018-06-15	Syradisk
+Filtret-Veckoavslut	2018-06-15	Lutsterilning
+T34	2018-06-16	Syradisk
+BBT 307	2018-06-17	Syradisk
+BBT 308	2018-06-17	Syradisk
+T45	2018-06-17	Syradisk
+BBT 312	2018-06-17	Syradisk
+BBT 314	2018-06-17	Syradisk
+BBT 320	2018-06-17	Syradisk
+BBT 305	2018-06-17	Syradisk
+BBT 307	2018-06-17	Syradisk
+BBT 319	2018-06-17	Syradisk
+BBT 304	2018-06-18	Syradisk
+BBT 325	2018-06-19	Syradisk
+BBT 323	2018-06-19	Syradisk
+BBT 304	2018-06-19	Syradisk
+BBT 320	2018-06-19	Syradisk
+BBT 316	2018-06-19	Syradisk
+BBT 313	2018-06-20	Syradisk
+BBT 319	2018-06-20	Syradisk
+BBT 306	2018-06-20	Syradisk
+BBT 321	2018-06-20	Syradisk
+CIP av 321 & 45 Tillsammans	2018-06-20	Syradisk
+BBT 315	2018-06-21	Syradisk
+BBT 322	2018-06-21	Syradisk
+BBT 311	2018-06-21	Syradisk
+Maltax	2018-06-21	Rengjord
+Kontrollera BBT:er i Citect	2018-06-21	Genomförd
+T34	2018-06-21	Syradisk
+T45	2018-06-21	Syradisk
+Filtret-Veckoavslut	2018-06-21	Lutsterilning
+BBT 306	2018-06-24	Syradisk
+BBT 309	2018-06-24	Syradisk
+BBT 323	2018-06-24	Syradisk
+BBT 316	2018-06-25	Syradisk
+BBT 305	2018-06-25	Syradisk
+Filtret Sterilning	2018-06-26	Genomförd
+BBT 308	2018-06-26	Syradisk
+BBT 304	2018-06-26	Syradisk
+BBT 316	2018-06-27	Syradisk
+BBT 320	2018-06-27	Syradisk
+BBT 312	2018-06-27	Syradisk
+BBT 322	2018-06-28	Syradisk
+BBT 311	2018-06-28	Syradisk
+BBT 314	2018-06-28	Syradisk
+BBT 308	2018-06-28	Syradisk
+Filtret Sterilning	2018-06-28	Genomförd
+T34	2018-06-28	Syradisk
+BBT 304	2018-06-29	Syradisk
+BBT 324	2018-06-29	Syradisk
+BBT 317	2018-07-01	Syradisk
+BBT 306	2018-07-01	Syradisk
+BBT 307	2018-07-01	Syradisk
+BBT 321	2018-07-01	Syradisk
+T45	2018-07-02	Syradisk
+CIP av 321 & 45 Tillsammans	2018-07-02	Syradisk
+T34	2018-07-02	Syradisk
+Filtret Sterilning	2018-07-02	Genomförd
+BBT 323	2018-07-03	Syradisk
+BBT 322	2018-07-03	Syradisk
+BBT 315	2018-07-03	Syradisk
+BBT 318	2018-07-03	Lutdisk
+BBT 313	2018-07-03	Syradisk
+BBT 305	2018-07-03	Syradisk
+BBT 309	2018-07-03	Syradisk
+BBT 310	2018-07-03	Syradisk
+BBT 311	2018-07-03	Syradisk
+BBT 308	2018-07-03	Syradisk
+BBT 325	2018-07-04	Syradisk
+BBT 316	2018-07-04	Syradisk
+BBT 324	2018-07-04	Syradisk
+BBT 306	2018-07-05	Syradisk
+BBT 314	2018-07-05	Syradisk
+BBT 317	2018-07-05	Syradisk
+BBT 309	2018-07-05	Syradisk
+BBT 311	2018-07-05	Syradisk
+BBT 325	2018-07-06	Syradisk
+Maltax	2018-07-06	Rengjord
+T45	2018-07-06	Syradisk
+T34	2018-07-06	Lutdisk
+T45	2018-07-06	Lutdisk
+Filtret-Veckoavslut	2018-07-06	Lutsterilning
+BBT 313	2018-07-08	Syradisk
+BBT 305	2018-07-08	Syradisk
+BBT 318	2018-07-09	Syradisk
+BBT 323	2018-07-11	Syradisk
+BBT 315	2018-07-11	Syradisk
+BBT 318	2018-07-11	Syradisk
+BBT 316	2018-07-12	Syradisk
+BBT 322	2018-07-12	Syradisk
+BBT 325	2018-07-13	Syradisk
+BBT 311	2018-07-13	Syradisk
+BBT 306	2018-07-13	Syradisk
+BBT 321	2018-07-13	Lutdisk
+CIP av 321 & 45 Tillsammans	2018-07-13	Lutdisk
+Filtret Sterilning	2018-07-13	Genomförd
+BBT 304	2018-07-14	Syradisk
+BBT 320	2018-07-16	Syradisk
+BBT 310	2018-07-17	Syradisk
+BBT 308	2018-07-17	Syradisk
+BBT 323	2018-07-18	Syradisk
+BBT 305	2018-07-18	Syradisk
+BBT 312	2018-07-18	Syradisk
+BBT 317	2018-07-18	Syradisk
+BBT 309	2018-07-19	Syradisk
+BBT 318	2018-07-19	Syradisk
+BBT 315	2018-07-19	Syradisk
+BBT 318	2018-07-20	Syradisk
+BBT 315	2018-07-20	Syradisk
+Kontrollera BBT:er i Citect	2018-07-21	Genomförd
+T34	2018-07-22	Syradisk
+Filtret-Veckoavslut	2018-07-22	Lutsterilning
+Maltax	2018-07-22	Rengjord
+BBT 304	2018-07-22	Syradisk
+BBT 308	2018-07-22	Syradisk
+BBT 325	2018-07-23	Syradisk
+BBT 316	2018-07-24	Syradisk
+BBT 310	2018-07-25	Syradisk
+BBT 323	2018-07-25	Syradisk
+BBT 309	2018-07-25	Syradisk
+BBT 317	2018-07-26	Syradisk
+BBT 311	2018-07-26	Lutdisk
+Filtret Sterilning	2018-07-26	Genomförd
+T34	2018-07-26	Syradisk
+BBT 307	2018-07-26	Syradisk
+BBT 323	2018-07-27	Syradisk
+BBT 309	2018-07-27	Lutdisk
+BBT 312	2018-07-29	Syradisk
+Filtret Sterilning	2018-07-29	Genomförd
+T34	2018-07-29	Syradisk
+BBT 322	2018-07-29	Syradisk
+BBT 304	2018-07-29	Syradisk
+BBT 306	2018-07-29	Syradisk
+BBT 314	2018-07-30	Lutdisk
+BBT 313	2018-07-30	Lutdisk
+BBT 315	2018-07-30	Lutdisk
+BBT 324	2018-07-30	Syradisk
+BBT 317	2018-07-30	Syradisk
+T34	2018-07-30	Syradisk
+Filtret Sterilning	2018-07-30	Genomförd
+BBT 309	2018-07-31	Syradisk
+T34	2018-07-31	Lutdisk
+T45	2018-07-31	Lutdisk
+Filtret Sterilning	2018-07-31	Genomförd
+BBT 311	2018-07-31	Syradisk
+BBT 307	2018-08-01	Lutdisk
+BBT 322	2018-08-01	Lutdisk
+BBT 319	2018-08-01	Lutdisk
+BBT 306	2018-08-01	Lutdisk
+BBT 310	2018-08-01	Lutdisk
+CIP av 321 & 45 Tillsammans	2018-08-02	Syradisk
+CIP av 321 & 45 Tillsammans	2018-08-02	Lutdisk
+BBT 321	2018-08-02	Lutdisk
+T45	2018-08-02	Syradisk
+Aldox	2018-08-02	Syradisk
+301 Vattentank	2018-08-02	Lutdisk
+T34	2018-08-02	Lutdisk
+Filtret Sterilning	2018-08-02	Genomförd
+303 Vattentank	2018-08-02	Lutdisk
+302 Vattentank	2018-08-02	Lutdisk
+BBT 318	2018-08-03	Lutdisk
+BBT 317	2018-08-03	Lutdisk
+Filtret-Veckoavslut	2018-08-04	Lutsterilning
+Kontrollera BBT:er i Citect	2018-08-04	Genomförd
+Maltax	2018-08-04	Rengjord
+Vattenfilter	2018-08-04	Genomförd
+T34	2018-08-04	Lutdisk
+T45	2018-08-05	Syradisk
+BBT 305	2018-08-05	Lutdisk
+BBT 312	2018-08-06	Lutdisk
+BBT 304	2018-08-06	Lutdisk
+BBT 315	2018-08-07	Syradisk
+BBT 323	2018-08-07	Lutdisk
+BBT 314	2018-08-07	Syradisk
+BBT 324	2018-08-08	Lutdisk
+BBT 313	2018-08-08	Syradisk
+BBT 309	2018-08-08	Syradisk
+BBT 307	2018-08-10	Syradisk
+BBT 323	2018-08-10	Syradisk
+BBT 304	2018-08-10	Syradisk
+BBT 322	2018-08-10	Syradisk
+T45	2018-08-11	Syradisk
+Kontrollera BBT:er i Citect	2018-08-11	Genomförd
+Filtret Sterilning	2018-08-12	Genomförd
+T34	2018-08-12	Lutdisk
+BBT 308	2018-08-12	Lutdisk
+BBT 305	2018-08-12	Syradisk
+BBT 311	2018-08-13	Syradisk
+BBT 316	2018-08-13	Lutdisk
+BBT 310	2018-08-13	Syradisk
+BBT 319	2018-08-13	Syradisk
+BBT 321	2018-08-14	Syradisk
+BBT 314	2018-08-14	Syradisk
+BBT 325	2018-08-14	Lutdisk
+BBT 315	2018-08-14	Syradisk
+BBT 322	2018-08-15	Syradisk
+BBT 310	2018-08-15	Syradisk
+BBT 313	2018-08-15	Syradisk
+Filtret-Veckoavslut	2018-08-16	Lutsterilning
+T34	2018-08-16	Syradisk
+BBT 318	2018-08-16	Syradisk
+BBT 324	2018-08-16	Syradisk
+BBT 309	2018-08-16	Syradisk
+BBT 316	2018-08-17	Syradisk
+Filtret-Veckoavslut	2018-08-17	Lutsterilning
+T45	2018-08-17	Syradisk
+T34	2018-08-17	Syradisk
+BBT 312	2018-08-19	Syradisk
+BBT 311	2018-08-20	Lutdisk
+BBT 315	2018-08-20	Lutdisk
+BBT 319	2018-08-20	Syradisk
+BBT 308	2018-08-20	Syradisk
+BBT 306	2018-08-20	Syradisk
+BBT 318	2018-08-21	Lutdisk
+BBT 321	2018-08-21	Syradisk
+BBT 317	2018-08-21	Syradisk
+BBT 313	2018-08-21	Lutdisk
+Filtret Sterilning	2018-08-21	Genomförd
+T45	2018-08-21	Lutdisk
+BBT 310	2018-08-22	Lutdisk
+BBT 324	2018-08-22	Syradisk
+BBT 307	2018-08-22	Syradisk
+BBT 322	2018-08-23	Lutdisk
+BBT 319	2018-08-23	Lutdisk
+BBT 309	2018-08-23	Lutdisk
+Maltax	2018-08-24	Rengjord
+T34	2018-08-25	Syradisk
+Gurtank T67	2018-08-26	Syradisk
+T45	2018-08-26	Syradisk
+Kontrollera BBT:er i Citect	2018-08-26	Genomförd
+Filtret-Veckoavslut	2018-08-26	Lutsterilning
+BBT 305	2018-08-26	Syradisk
+BBT 316	2018-08-26	Syradisk
+Vattenfilter	2018-08-26	Genomförd
+BBT 314	2018-08-26	Lutdisk
+BBT 306	2018-08-26	Lutdisk
+Aldox	2018-08-26	Syradisk
+BBT 317	2018-08-27	Lutdisk
+BBT 312	2018-08-27	Syradisk
+BBT 311	2018-08-27	Syradisk
+BBT 315	2018-08-27	Syradisk
+BBT 320	2018-08-27	Lutdisk
+BBT 322	2018-08-27	Syradisk
+BBT 310	2018-08-28	Syradisk
+BBT 307	2018-08-28	Lutdisk
+BBT 323	2018-08-28	Lutdisk
+T34	2018-08-28	Syradisk
+BBT 304	2018-08-28	Lutdisk
+BBT 325	2018-08-29	Syradisk
+BBT 315	2018-08-30	Syradisk
+BBT 308	2018-08-30	Syradisk
+BBT 313	2018-08-31	Syradisk
+BBT 309	2018-08-31	Syradisk
+BBT 308	2018-08-31	Lutdisk
+BBT 320	2018-08-31	Lutdisk
+Maltax	2018-08-31	Rengjord
+T45	2018-09-01	Syradisk
+T34	2018-09-01	Lutdisk
+Filtret-Veckoavslut	2018-09-02	Lutsterilning
+BBT 318	2018-09-02	Syradisk
+BBT 307	2018-09-02	Syradisk
+BBT 312	2018-09-02	Lutdisk
+BBT 310	2018-09-02	Syradisk
+BBT 316	2018-09-02	Lutdisk
+BBT 320	2018-09-03	Syradisk
+BBT 311	2018-09-03	Syradisk
+BBT 314	2018-09-03	Syradisk
+BBT 321	2018-09-03	Syradisk
+CIP av 321 & 45 Tillsammans	2018-09-04	Syradisk
+BBT 305	2018-09-04	Lutdisk
+BBT 306	2018-09-04	Syradisk
+BBT 313	2018-09-07	Syradisk
+BBT 304	2018-09-07	Syradisk
+BBT 315	2018-09-07	Syradisk
+BBT 325	2018-09-07	Lutdisk
+BBT 323	2018-09-07	Syradisk
+BBT 314	2018-09-11	Syradisk
+BBT 315	2018-09-11	Syradisk
+CIP av 321 & 45 Tillsammans	2018-09-11	Lutdisk
+BBT 321	2018-09-11	Lutdisk
+T45	2018-09-11	Lutdisk
+BBT 317	2018-09-11	Syradisk
+BBT 315	2018-09-11	Lutdisk
+BBT 312	2018-09-11	Syradisk
+BBT 322	2018-09-11	Syradisk
+BBT 320	2018-09-11	Syradisk
+BBT 324	2018-09-11	Lutdisk
+BBT 307	2018-09-11	Syradisk
+BBT 304	2018-09-11	Syradisk
+BBT 310	2018-09-11	Lutdisk
+BBT 309	2018-09-12	Lutdisk
+BBT 325	2018-09-12	Syradisk
+Maltax	2018-09-13	Rengjord
+BBT 306	2018-09-14	Syradisk
+T34	2018-09-14	Syradisk
+Aldox	2018-09-14	Syradisk
+301 Vattentank	2018-09-14	Lutdisk
+302 Vattentank	2018-09-14	Lutdisk
+Filtret-Veckoavslut	2018-09-14	Lutsterilning
+T45	2018-09-14	Lutdisk
+Kontrollera BBT:er i Citect	2018-09-14	Genomförd
+Lilla balanssystemet (2)	2018-09-14	Lutdisk
+Stora balanssystemet (1)	2018-09-14	Lutdisk
+303 Vattentank	2018-09-14	Lutdisk
+BBT 318	2018-09-16	Syradisk
+BBT 305	2018-09-16	Syradisk
+BBT 316	2018-09-16	Syradisk
+BBT 317	2018-09-16	Lutdisk
+BBT 320	2018-09-16	Syradisk
+BBT 308	2018-09-17	Syradisk
+BBT 323	2018-09-17	Syradisk
+BBT 307	2018-09-17	Lutdisk
+BBT 314	2018-09-17	Lutdisk
+BBT 309	2018-09-17	Syradisk
+BBT 324	2018-09-18	Syradisk
+BBT 308	2018-09-18	Lutdisk
+BBT 321	2018-09-18	Syradisk
+BBT 315	2018-09-18	Syradisk
+BBT 318	2018-09-18	Lutdisk
+BBT 304	2018-09-18	Lutdisk
+BBT 313	2018-09-19	Lutdisk
+BBT 315	2018-09-19	Syradisk
+BBT 322	2018-09-20	Lutdisk
+BBT 320	2018-09-20	Lutdisk
+BBT 308	2018-09-20	Syradisk
+Gurtank T68	2018-09-07	Syradisk
+Gurtank T66	2018-09-07	Syradisk
+Filtret Sterilning	2018-09-20	Genomförd
+BBT 309	2018-09-20	Syradisk
+BBT 306	2018-09-20	Lutdisk
+T34	2018-09-21	Syradisk
+T45	2018-09-21	Syradisk
+Maltax	2018-09-21	Rengjord
+BBT 316	2018-09-24	Lutdisk
+BBT 317	2018-09-24	Syradisk
+Filtret Sterilning	2018-09-24	Genomförd
+T34	2018-09-24	Lutdisk
+BBT 318	2018-09-25	Syradisk
+BBT 313	2018-09-25	Syradisk
+BBT 315	2018-09-25	Syradisk
+BBT 310	2018-09-25	Syradisk
+T34	2018-09-25	Lutdisk
+Filtret Sterilning	2018-09-25	Genomförd
+BBT 308	2018-09-25	Syradisk
+BBT 322	2018-09-25	Syradisk
+BBT 311	2018-09-26	Lutdisk
+BBT 307	2018-09-26	Syradisk
+BBT 318	2018-09-26	Syradisk
+BBT 309	2018-09-26	Syradisk
+BBT 320	2018-09-26	Lutdisk
+Filtret Sterilning	2018-09-26	Genomförd
+BBT 314	2018-09-27	Syradisk
+BBT 324	2018-09-27	Syradisk
+BBT 306	2018-09-27	Syradisk
+Filtret Sterilning	2018-09-27	Genomförd
+T34	2018-09-27	Lutdisk
+T34	2018-09-28	Lutdisk
+Filtret-Veckoavslut	2018-09-28	Lutsterilning
+T45	2018-09-28	Lutdisk
+Filtret-Veckoavslut	2018-09-28	Lutsterilning
+Vattenfilter	2018-09-28	Genomförd
+Kontrollera BBT:er i Citect	2018-09-28	Genomförd
+Maltax	2018-09-28	Rengjord
+Aldox	2018-09-28	Syradisk
+BBT 304	2018-09-30	Syradisk
+BBT 323	2018-10-01	Lutdisk
+BBT 309	2018-10-01	Lutdisk
+BBT 305	2018-10-02	Lutdisk
+BBT 318	2018-10-02	Syradisk
+BBT 315	2018-10-02	Lutdisk
+BBT 311	2018-10-02	Syradisk
+BBT 322	2018-10-02	Syradisk
+BBT 313	2018-10-02	Syradisk
+BBT 307	2018-10-03	Syradisk
+BBT 320	2018-10-03	Syradisk
+BBT 312	2018-10-03	Lutdisk
+BBT 306	2018-10-03	Syradisk
+BBT 315	2018-10-04	Syradisk
+BBT 320	2018-10-04	Syradisk
+BBT 324	2018-10-04	Lutdisk
+BBT 310	2018-10-05	Lutdisk
+Maltax	2018-10-05	Rengjord
+T45	2018-10-05	Syradisk
+Filtret-Veckoavslut	2018-10-06	Lutsterilning
+Kontrollera BBT:er i Citect	2018-10-06	Genomförd
+T34	2018-10-06	Syradisk
+BBT 314	2018-10-07	Syradisk
+BBT 312	2018-10-07	Syradisk
+BBT 318	2018-10-07	Lutdisk
+BBT 308	2018-10-07	Syradisk
+BBT 304	2018-10-07	Syradisk
+BBT 316	2018-10-08	Syradisk
+BBT 306	2018-10-09	Syradisk
+BBT 315	2018-10-09	Lutdisk
+BBT 311	2018-10-09	Syradisk
+BBT 313	2018-10-09	Syradisk
+BBT 325	2018-10-09	Lutdisk
+BBT 309	2018-10-10	Syradisk
+BBT 305	2018-10-10	Syradisk
+BBT 317	2018-10-10	Lutdisk
+BBT 305	2018-10-12	Lutdisk
+T34	2018-10-12	Syradisk
+T45	2018-10-12	Syradisk
+Maltax	2018-10-12	Rengjord
+Kontrollera BBT:er i Citect	2018-10-12	Genomförd
+Filtret-Veckoavslut	2018-10-12	Lutsterilning
+BBT 311	2018-10-14	Syradisk
+BBT 323	2018-10-14	Syradisk
+BBT 314	2018-10-14	Lutdisk
+BBT 318	2018-10-15	Syradisk
+BBT 308	2018-10-15	Lutdisk
+BBT 305	2018-10-15	Syradisk
+BBT 324	2018-10-16	Syradisk
+BBT 310	2018-10-16	Syradisk
+BBT 325	2018-10-16	Syradisk
+Filtret Sterilning	2018-10-17	Genomförd
+T34	2018-10-17	Lutdisk
+CIP av 321 & 45 Tillsammans	2018-10-17	Lutdisk
+T45	2018-10-17	Lutdisk
+BBT 321	2018-10-17	Lutdisk
+BBT 316	2018-10-17	Lutdisk
+BBT 313	2018-10-18	Lutdisk
+BBT 304	2018-10-18	Lutdisk
+BBT 322	2018-10-18	Lutdisk
+BBT 320	2018-10-18	Lutdisk
+BBT 319	2018-10-18	Lutdisk
+BBT 309	2018-10-19	Syradisk
+BBT 315	2018-10-19	Syradisk
+Maltax	2018-10-19	Rengjord
+T34	2018-10-19	Syradisk
+Kontrollera BBT:er i Citect	2018-10-19	Genomförd
+Vattenfilter	2018-10-19	Genomförd
+T45	2018-10-19	Syradisk
+Filtret-Veckoavslut	2018-10-19	Lutsterilning
+BBT 311	2018-10-21	Lutdisk
+BBT 317	2018-10-21	Syradisk
+BBT 306	2018-10-21	Lutdisk
+BBT 324	2018-10-22	Syradisk
+BBT 323	2018-10-22	Syradisk
+BBT 307	2018-10-23	Lutdisk
+BBT 305	2018-10-23	Syradisk
+BBT 313	2018-10-23	Syradisk
+BBT 320	2018-10-23	Syradisk
+Filtret Sterilning	2018-10-24	Genomförd
+BBT 319	2018-10-24	Syradisk
+BBT 312	2018-10-24	Syradisk
+BBT 304	2018-10-25	Syradisk
+BBT 308	2018-10-25	Syradisk
+BBT 306	2018-10-25	Syradisk
+Filtret Sterilning	2018-10-25	Genomförd
+T34	2018-10-25	Syradisk
+BBT 323	2018-10-25	Lutdisk
+BBT 315	2018-10-26	Syradisk
+BBT 324	2018-10-26	Lutdisk
+Maltax	2018-10-26	Rengjord
+Filtret-Veckoavslut	2018-10-26	Lutsterilning
+T34	2018-10-26	Lutdisk
+T45	2018-10-26	Lutdisk
+Vattenfilter	2018-10-27	Genomförd
+Kontrollera BBT:er i Citect	2018-10-27	Genomförd
+BBT 310	2018-10-28	Lutdisk
+BBT 311	2018-10-29	Syradisk
+BBT 309	2018-10-29	Lutdisk
+BBT 316	2018-10-29	Syradisk
+BBT 305	2018-10-30	Syradisk
+BBT 313	2018-10-30	Syradisk
+BBT 325	2018-10-30	Syradisk
+BBT 314	2018-10-30	Syradisk
+Filtret Sterilning	2018-10-31	Genomförd
+BBT 315	2018-10-31	Lutdisk
+BBT 319	2018-10-31	Syradisk
+BBT 312	2018-10-31	Lutdisk
+BBT 322	2018-11-01	Syradisk
+BBT 308	2018-11-01	Syradisk
+BBT 304	2018-11-01	Syradisk
+BBT 307	2018-11-02	Syradisk
+BBT 306	2018-11-02	Syradisk
+BBT 317	2018-11-02	Lutdisk
+BBT 323	2018-11-02	Syradisk
+Filtret-Veckoavslut	2018-11-03	Lutsterilning
+T45	2018-11-03	Syradisk
+BBT 311	2018-11-04	Syradisk
+BBT 310	2018-11-04	Syradisk
+BBT 325	2018-11-04	Syradisk
+BBT 321	2018-11-04	Syradisk
+Filtret Sterilning	2018-11-05	Genomförd
+BBT 313	2018-11-06	Syradisk
+BBT 315	2018-11-06	Syradisk
+BBT 309	2018-11-06	Syradisk
+BBT 316	2018-11-07	Syradisk
+BBT 319	2018-11-07	Syradisk
+BBT 314	2018-11-07	Lutdisk
+BBT 324	2018-11-08	Syradisk
+BBT 315	2018-11-09	Lutdisk
+T45	2018-11-09	Syradisk
+Vattenfilter	2018-11-09	Genomförd
+T34	2018-11-09	Syradisk
+Kontrollera BBT:er i Citect	2018-11-09	Genomförd
+Filtret-Veckoavslut	2018-11-09	Lutsterilning
+Maltax	2018-11-09	Rengjord
+BBT 325	2018-11-11	Lutdisk
+BBT 304	2018-11-11	Lutdisk
+BBT 307	2018-11-12	Lutdisk
+BBT 320	2018-11-12	Lutdisk
+BBT 308	2018-11-12	Lutdisk
+BBT 311	2018-11-12	Lutdisk
+BBT 306	2018-11-12	Lutdisk
+BBT 322	2018-11-13	Lutdisk
+BBT 323	2018-11-13	Syradisk
+BBT 309	2018-11-13	Syradisk
+BBT 319	2018-11-14	Lutdisk
+BBT 310	2018-11-14	Syradisk
+BBT 313	2018-11-14	Lutdisk
+BBT 305	2018-11-15	Lutdisk
+BBT 317	2018-11-15	Syradisk
+BBT 312	2018-11-15	Syradisk
+BBT 316	2018-11-16	Lutdisk
+BBT 315	2018-11-16	Syradisk
+T45	2018-11-16	Lutdisk
+Vattenfilter	2018-11-16	Genomförd
+T34	2018-11-16	Lutdisk
+Aldox	2018-11-16	Syradisk
+Maltax	2018-11-16	Rengjord
+Vattenfilter	2018-11-16	Genomförd
+Kontrollera BBT:er i Citect	2018-11-16	Genomförd
+Kolsyraledning	2018-11-16	Rengjord
+Filtret-Veckoavslut	2018-11-16	Lutsterilning
+BBT 310	2018-11-18	Lutdisk
+BBT 311	2018-11-18	Syradisk
+BBT 325	2018-11-18	Syradisk
+BBT 307	2018-11-19	Syradisk
+T34	2018-11-19	Syradisk
+BBT 322	2018-11-19	Syradisk
+BBT 306	2018-11-19	Syradisk
+BBT 323	2018-11-19	Lutdisk
+BBT 314	2018-11-20	Syradisk
+Filtret Sterilning	2018-11-20	Genomförd
+BBT 304	2018-11-22	Syradisk
+BBT 317	2018-11-22	Syradisk
+BBT 308	2018-11-22	Syradisk
+BBT 312	2018-11-22	Syradisk
+BBT 309	2018-11-22	Lutdisk
+BBT 316	2018-11-22	Syradisk
+BBT 305	2018-11-23	Syradisk
+Filtret-Veckoavslut	2018-11-24	Lutsterilning
+T45	2018-11-24	Syradisk
+T34	2018-11-24	Syradisk
+BBT 313	2018-11-24	Syradisk
+BBT 306	2018-11-25	Syradisk
+BBT 322	2018-11-26	Syradisk
+T45	2018-11-26	Lutdisk
+T34	2018-11-26	Syradisk
+CIP av 321 & 45 Tillsammans	2018-11-26	Lutdisk
+BBT 306	2018-11-26	Syradisk
+BBT 321	2018-11-26	Lutdisk
+BBT 320	2018-11-26	Syradisk
+BBT 323	2018-11-27	Syradisk
+BBT 307	2018-11-27	Syradisk
+BBT 311	2018-11-28	Syradisk
+BBT 308	2018-11-29	Syradisk
+BBT 324	2018-11-29	Lutdisk
+BBT 309	2018-11-29	Syradisk
+BBT 312	2018-11-29	Lutdisk
+BBT 317	2018-11-30	Lutdisk
+BBT 304	2018-11-30	Syradisk
+BBT 308	2018-11-30	Lutdisk
+BBT 305	2018-11-30	Syradisk
+Kontrollera BBT:er i Citect	2018-12-01	Genomförd
+Filtret Sterilning	2018-12-01	Genomförd
+Maltax	2018-12-01	Rengjord
+T34	2018-12-01	Syradisk
+T45	2018-12-02	Syradisk
+BBT 315	2018-12-02	Lutdisk
+BBT 316	2018-12-02	Syradisk
+BBT 310	2018-12-03	Syradisk
+BBT 304	2018-12-03	Lutdisk
+BBT 312	2018-12-03	Syradisk
+BBT 317	2018-12-03	Syradisk
+BBT 323	2018-12-03	Syradisk
+BBT 324	2018-12-03	Syradisk
+BBT 314	2018-12-04	Lutdisk
+BBT 322	2018-12-04	Syradisk
+BBT 322	2018-12-04	Lutdisk
+BBT 305	2018-12-04	Lutdisk
+Filtret-Veckoavslut	2018-12-04	Lutsterilning
+BBT 320	2018-12-05	Lutdisk
+BBT 304	2018-12-05	Syradisk
+BBT 325	2018-12-05	Lutdisk
+BBT 308	2018-12-05	Syradisk
+BBT 313	2018-12-06	Lutdisk
+BBT 305	2018-12-06	Syradisk
+BBT 319	2018-12-06	Lutdisk
+BBT 314	2018-12-06	Lutdisk
+BBT 309	2018-12-06	Syradisk
+BBT 315	2018-12-07	Syradisk
+BBT 312	2018-12-07	Syradisk
+BBT 308	2018-12-07	Syradisk
+T34	2018-12-08	Syradisk
+T45	2018-12-08	Syradisk
+Maltax	2018-12-08	Rengjord
+Kontrollera BBT:er i Citect	2018-12-08	Genomförd
+BBT 305	2018-12-10	Syradisk
+BBT 317	2018-12-10	Syradisk
+BBT 324	2018-12-10	Syradisk
+BBT 306	2018-12-10	Lutdisk
+BBT 311	2018-12-11	Lutdisk
+BBT 310	2018-12-11	Lutdisk
+BBT 306	2018-12-12	Syradisk
+BBT 304	2018-12-12	Syradisk
+T34	2018-12-12	Syradisk
+Filtret Sterilning	2018-12-12	Genomförd
+BBT 305	2018-12-12	Syradisk
+BBT 317	2018-12-12	Syradisk
+BBT 312	2018-12-13	Syradisk
+BBT 325	2018-12-13	Syradisk
+BBT 320	2018-12-13	Syradisk
+BBT 316	2018-12-13	Lutdisk
+BBT 309	2018-12-13	Syradisk
+BBT 323	2018-12-13	Lutdisk
+BBT 311	2018-12-13	Syradisk
+BBT 314	2018-12-13	Syradisk
+BBT 312	2018-12-14	Lutdisk
+BBT 319	2018-12-14	Syradisk
+T34	2018-12-14	Lutdisk
+Kontrollera BBT:er i Citect	2018-12-14	Genomförd
+Filtret Sterilning	2018-12-14	Genomförd
+T45	2018-12-14	Syradisk
+Maltax	2018-12-14	Rengjord
+Gurtank T66	2018-12-15	Syradisk
+Gurtank T67	2018-12-15	Syradisk
+BBT 315	2018-12-16	Syradisk
+BBT 322	2018-12-16	Syradisk
+BBT 304	2018-12-16	Syradisk
+BBT 308	2018-12-17	Syradisk
+BBT 319	2018-12-17	Syradisk
+BBT 324	2018-12-17	Syradisk
+BBT 323	2018-12-19	Syradisk
+BBT 311	2018-12-19	Syradisk
+BBT 305	2018-12-20	Syradisk
+BBT 310	2018-12-20	Syradisk
+BBT 312	2018-12-20	Syradisk
+BBT 325	2018-12-21	Syradisk
+T34	2018-12-21	Syradisk
+T45	2018-12-21	Lutdisk
+Vattenfilter	2018-12-21	Genomförd
+CIP av 321 & 45 Tillsammans	2018-12-21	Lutdisk
+Kontrollera BBT:er i Citect	2018-12-21	Genomförd
+BBT 321	2018-12-21	Lutdisk
+Filtret Sterilning	2018-12-21	Genomförd
+Maltax	2018-12-21	Rengjord
+301 Vattentank	2018-12-21	Lutdisk
+Aldox	2018-12-21	Syradisk
+302 Vattentank	2018-12-21	Lutdisk
+303 Vattentank	2018-12-22	Lutdisk
+BBT 317	2018-12-22	Lutdisk
+Filtret-Veckoavslut	2018-12-23	Lutsterilning
+Lilla balanssystemet (2)	2018-12-26	Lutdisk
+Stora balanssystemet (1)	2018-12-26	Lutdisk
+BBT 310	2018-12-26	Syradisk
+BBT 304	2018-12-26	Lutdisk
+BBT 306	2018-12-26	Syradisk
+BBT 316	2018-12-26	Syradisk
+BBT 324	2018-12-26	Lutdisk
+BBT 319	2018-12-27	Syradisk
+BBT 325	2018-12-27	Lutdisk
+BBT 312	2018-12-27	Syradisk
+BBT 317	2018-12-27	Syradisk
+T34	2018-12-28	Syradisk
+T45	2018-12-28	Syradisk
+BBT 305	2018-12-28	Lutdisk
+Aldox	2018-12-28	Syradisk
+Maltax	2018-12-28	Rengjord
+Kontrollera BBT:er i Citect	2018-12-28	Genomförd
+BBT 320	2018-12-28	Lutdisk
+Filtret-Veckoavslut	2018-12-28	Lutsterilning
+BBT 315	2018-12-28	Lutdisk
+BBT 309	2019-01-01	Lutdisk
+BBT 312	2019-01-02	Syradisk
+BBT 309	2019-01-02	Syradisk
+BBT 304	2019-01-02	Syradisk
+BBT 305	2019-01-02	Syradisk
+BBT 318	2019-01-03	Lutdisk
+BBT 315	2019-01-03	Syradisk
+BBT 320	2019-01-03	Syradisk
+BBT 309	2019-01-04	Syradisk
+BBT 323	2019-01-04	Lutdisk
+BBT 319	2019-01-04	Syradisk
+BBT 317	2019-01-04	Syradisk
+Kontrollera BBT:er i Citect	2019-01-04	Genomförd
+T45	2019-01-04	Syradisk
+Maltax	2019-01-04	Rengjord
+Filtret-Veckoavslut	2019-01-05	Lutsterilning
+T34	2019-01-05	Syradisk
+BBT 314	2019-01-06	Lutdisk
+BBT 306	2019-01-06	Lutdisk
+BBT 316	2019-01-06	Lutdisk
+BBT 310	2019-01-07	Lutdisk
+BBT 311	2019-01-07	Lutdisk
+BBT 321	2019-01-07	Syradisk
+BBT 308	2019-01-08	Lutdisk
+BBT 322	2019-01-09	Lutdisk
+BBT 318	2019-01-10	Syradisk
+BBT 320	2019-01-10	Syradisk
+BBT 305	2019-01-10	Syradisk
+BBT 324	2019-01-10	Syradisk
+BBT 313	2019-01-10	Lutdisk
+Filtret Sterilning	2019-01-12	Genomförd
+Maltax	2019-01-12	Rengjord
+Vattenfilter	2019-01-12	Genomförd
+Kontrollera BBT:er i Citect	2019-01-12	Genomförd
+T34	2019-01-12	Lutdisk
+T45	2019-01-12	Lutdisk
+BBT 312	2019-01-13	Lutdisk
+BBT 322	2019-01-13	Syradisk
+BBT 313	2019-01-13	Syradisk
+BBT 309	2019-01-13	Syradisk
+BBT 325	2019-01-14	Syradisk
+BBT 317	2019-01-14	Lutdisk
+BBT 316	2019-01-14	Syradisk
+BBT 314	2019-01-14	Syradisk
+BBT 311	2019-01-14	Syradisk
+BBT 304	2019-01-15	Lutdisk
+BBT 310	2019-01-16	Syradisk
+BBT 315	2019-01-16	Syradisk
+BBT 308	2019-01-16	Syradisk
+Filtret Sterilning	2019-01-16	Genomförd
+BBT 304	2019-01-16	Syradisk
+BBT 313	2019-01-17	Syradisk
+BBT 310	2019-01-17	Syradisk
+BBT 324	2019-01-17	Lutdisk
+BBT 323	2019-01-17	Syradisk
+BBT 318	2019-01-18	Syradisk
+BBT 321	2019-01-21	Lutdisk
+CIP av 321 & 45 Tillsammans	2019-01-21	Lutdisk
+T45	2019-01-21	Lutdisk
+BBT 317	2019-01-21	Syradisk
+BBT 309	2019-01-21	Lutdisk
+BBT 319	2019-01-22	Lutdisk
+BBT 306	2019-01-22	Syradisk
+BBT 323	2019-01-23	Syradisk
+Filtret Sterilning	2019-01-24	Genomförd
+BBT 308	2019-01-24	Syradisk
+BBT 324	2019-01-24	Syradisk
+BBT 325	2019-01-24	Lutdisk
+BBT 305	2019-01-24	Lutdisk
+BBT 323	2019-01-25	Lutdisk
+BBT 310	2019-01-25	Syradisk
+Kontrollera BBT:er i Citect	2019-01-25	Genomförd
+T34	2019-01-26	Syradisk
+Maltax	2019-01-27	Rengjord
+Filtret-Veckoavslut	2019-01-27	Lutsterilning
+BBT 323	2019-01-27	Syradisk
+BBT 305	2019-01-27	Syradisk
+BBT 310	2019-01-27	Lutdisk
+BBT 314	2019-01-27	Lutdisk
+BBT 316	2019-01-28	Lutdisk
+BBT 312	2019-01-28	Syradisk
+BBT 309	2019-01-28	Syradisk
+BBT 318	2019-01-29	Lutdisk
+T34	2019-01-29	Syradisk
+BBT 304	2019-01-30	Syradisk
+BBT 317	2019-01-30	Syradisk
+BBT 308	2019-01-30	Lutdisk
+BBT 314	2019-01-30	Syradisk
+BBT 324	2019-01-31	Syradisk
+BBT 313	2019-02-01	Lutdisk
+BBT 322	2019-02-01	Lutdisk
+BBT 304	2019-02-01	Lutdisk
+T45	2019-02-02	Syradisk
+Maltax	2019-02-02	Rengjord
+Kontrollera BBT:er i Citect	2019-02-02	Genomförd
+Filtret-Veckoavslut	2019-02-02	Lutsterilning
+T34	2019-02-02	Lutdisk
+BBT 309	2019-02-03	Syradisk
+BBT 325	2019-02-03	Syradisk
+BBT 319	2019-02-03	Syradisk
+BBT 306	2019-02-03	Lutdisk
+Filtret Sterilning	2019-02-03	Genomförd
+T34	2019-02-03	Syradisk
+BBT 310	2019-02-04	Syradisk
+BBT 311	2019-02-04	Lutdisk
+BBT 312	2019-02-04	Lutdisk
+BBT 315	2019-02-04	Lutdisk
+BBT 317	2019-02-04	Lutdisk
+BBT 318	2019-02-05	Syradisk
+BBT 324	2019-02-05	Lutdisk
+BBT 314	2019-02-05	Syradisk
+BBT 305	2019-02-05	Syradisk
+BBT 308	2019-02-05	Syradisk
+BBT 307	2019-02-06	Lutdisk
+BBT 321	2019-02-06	Syradisk
+BBT 316	2019-02-06	Syradisk
+BBT 325	2019-02-08	Syradisk
+Filtret Sterilning	2019-02-08	Genomförd
+T34	2019-02-08	Syradisk
+BBT 313	2019-02-08	Syradisk
+BBT 311	2019-02-08	Syradisk
+T34	2019-02-08	Syradisk
+T45	2019-02-08	Syradisk
+Filtret-Veckoavslut	2019-02-08	Lutsterilning
+Vattenfilter	2019-02-08	Genomförd
+Aldox	2019-02-09	Syradisk
+BBT 322	2019-02-10	Syradisk
+BBT 309	2019-02-11	Lutdisk
+BBT 306	2019-02-11	Syradisk
+BBT 319	2019-02-11	Lutdisk
+Filtret Sterilning	2019-02-11	Genomförd
+T34	2019-02-11	Syradisk
+BBT 317	2019-02-11	Syradisk
+BBT 311	2019-02-12	Syradisk
+BBT 308	2019-02-12	Syradisk
+BBT 312	2019-02-12	Syradisk
+BBT 325	2019-02-12	Lutdisk
+BBT 324	2019-02-12	Syradisk
+BBT 313	2019-02-13	Syradisk
+T34	2019-02-13	Syradisk
+BBT 315	2019-02-13	Syradisk
+BBT 321	2019-02-14	Lutdisk
+BBT 307	2019-02-14	Syradisk
+BBT 304	2019-02-15	Syradisk
+BBT 320	2019-02-15	Lutdisk
+T45	2019-02-15	Syradisk
+Maltax	2019-02-15	Rengjord
+Filtret-Veckoavslut	2019-02-15	Lutsterilning
+T34	2019-02-15	Syradisk
+BBT 317	2019-02-15	Syradisk
+BBT 305	2019-02-15	Lutdisk
+Kontrollera BBT:er i Citect	2019-02-16	Genomförd
+BBT 310	2019-02-17	Syradisk
+BBT 310	2019-02-17	Lutdisk
+BBT 314	2019-02-17	Syradisk
+BBT 314	2019-02-17	Lutdisk
+BBT 323	2019-02-17	Lutdisk
+BBT 322	2019-02-17	Syradisk
+BBT 308	2019-02-17	Syradisk
+BBT 308	2019-02-17	Lutdisk
+BBT 304	2019-02-19	Lutdisk
+BBT 325	2019-02-19	Syradisk
+BBT 311	2019-02-20	Syradisk
+BBT 312	2019-02-20	Syradisk
+BBT 315	2019-02-20	Syradisk
+BBT 313	2019-02-20	Syradisk
+BBT 308	2019-02-21	Syradisk
+T34	2019-02-21	Lutdisk
+BBT 306	2019-02-21	Lutdisk
+BBT 310	2019-02-21	Syradisk
+BBT 323	2019-02-22	Syradisk
+T34	2019-02-22	Syradisk
+Kolsyraledning	2019-02-22	Rengjord
+T45	2019-02-22	Lutdisk
+Maltax	2019-02-22	Rengjord
+Filtret-Veckoavslut	2019-02-22	Lutsterilning
+Aldox	2019-02-22	Syradisk
+Kontrollera BBT:er i Citect	2019-02-22	Genomförd
+BBT 315	2019-02-24	Lutdisk
+BBT 306	2019-02-24	Syradisk
+BBT 309	2019-02-25	Syradisk
+BBT 316	2019-02-25	Syradisk
+BBT 317	2019-02-25	Syradisk
+BBT 320	2019-02-25	Syradisk
+BBT 322	2019-02-25	Lutdisk
+BBT 305	2019-02-25	Syradisk
+BBT 313	2019-02-25	Lutdisk
+BBT 314	2019-02-28	Syradisk
+BBT 316	2019-03-01	Lutdisk
+BBT 307	2019-03-01	Lutdisk
+BBT 318	2019-03-01	Lutdisk
+BBT 317	2019-03-01	Lutdisk
+BBT 319	2019-03-01	Syradisk
+BBT 319	2019-03-01	Lutdisk
+T34	2019-03-03	Lutdisk
+BBT 320	2019-03-04	Syradisk
+BBT 312	2019-03-04	Lutdisk
+BBT 310	2019-03-04	Syradisk
+BBT 323	2019-03-04	Syradisk
+BBT 324	2019-03-05	Lutdisk
+BBT 308	2019-03-05	Syradisk
+BBT 318	2019-03-05	Syradisk
+BBT 309	2019-03-05	Lutdisk
+BBT 304	2019-03-06	Syradisk
+BBT 311	2019-03-06	Lutdisk
+Filtret Sterilning	2019-03-06	Genomförd
+T34	2019-03-06	Syradisk
+BBT 321	2019-03-07	Syradisk
+T45	2019-03-07	Syradisk
+CIP av 321 & 45 Tillsammans	2019-03-07	Lutdisk
+BBT 304	2019-03-08	Lutdisk
+Kontrollera BBT:er i Citect	2019-03-08	Genomförd
+T34	2019-03-08	Syradisk
+Filtret-Veckoavslut	2019-03-08	Lutsterilning
+T45	2019-03-08	Syradisk
+Aldox	2019-03-10	Syradisk
+Vattenfilter	2019-03-10	Genomförd
+BBT 319	2019-03-10	Syradisk
+BBT 314	2019-03-10	Syradisk
+BBT 317	2019-03-10	Syradisk
+BBT 325	2019-03-11	Lutdisk
+BBT 307	2019-03-11	Lutdisk
+BBT 312	2019-03-11	Lutdisk
+BBT 323	2019-03-11	Lutdisk
+BBT 324	2019-03-12	Syradisk
+BBT 318	2019-03-12	Syradisk
+BBT 308	2019-03-12	Lutdisk
+T34	2019-03-13	Syradisk
+BBT 311	2019-03-13	Syradisk
+BBT 310	2019-03-14	Lutdisk
+BBT 311	2019-03-14	Syradisk
+BBT 307	2019-03-15	Syradisk
+BBT 323	2019-03-15	Syradisk
+T34	2019-03-16	Syradisk
+Filtret Sterilning	2019-03-16	Genomförd
+Maltax	2019-03-16	Rengjord
+T45	2019-03-16	Syradisk
+BBT 319	2019-03-17	Syradisk
+BBT 314	2019-03-18	Lutdisk
+BBT 304	2019-03-18	Syradisk
+BBT 321	2019-03-18	Syradisk
+BBT 317	2019-03-18	Syradisk
+BBT 316	2019-03-19	Syradisk
+BBT 306	2019-03-19	Lutdisk
+BBT 305	2019-03-19	Lutdisk
+BBT 306	2019-03-20	Syradisk
+BBT 311	2019-03-20	Syradisk
+T34	2019-03-20	Syradisk
+BBT 315	2019-03-20	Lutdisk
+BBT 313	2019-03-21	Lutdisk
+BBT 320	2019-03-21	Lutdisk
+BBT 305	2019-03-21	Syradisk
+BBT 318	2019-03-21	Syradisk
+BBT 325	2019-03-21	Syradisk
+BBT 310	2019-03-21	Syradisk
+BBT 311	2019-03-22	Lutdisk
+BBT 306	2019-03-22	Syradisk
+BBT 323	2019-03-22	Syradisk
+Maltax	2019-03-22	Rengjord
+Filtret-Veckoavslut	2019-03-22	Lutsterilning
+T34	2019-03-23	Lutdisk
+Kontrollera BBT:er i Citect	2019-03-23	Genomförd
+BBT 322	2019-03-24	Lutdisk
+BBT 312	2019-03-24	Syradisk
+BBT 317	2019-03-25	Lutdisk
+BBT 308	2019-03-25	Syradisk
+BBT 318	2019-03-25	Syradisk
+BBT 309	2019-03-25	Syradisk
+BBT 307	2019-03-26	Syradisk
+BBT 304	2019-03-26	Syradisk
+BBT 310	2019-03-26	Syradisk
+BBT 322	2019-03-26	Syradisk
+T34	2019-03-26	Syradisk
+Filtret Sterilning	2019-03-26	Genomförd
+BBT 315	2019-03-26	Syradisk
+BBT 320	2019-03-27	Syradisk
+BBT 312	2019-03-27	Syradisk
+BBT 323	2019-03-27	Syradisk
+BBT 324	2019-03-28	Lutdisk
+BBT 305	2019-03-28	Syradisk
+BBT 310	2019-03-28	Syradisk
+T45	2019-03-28	Lutdisk
+Filtret Sterilning	2019-03-28	Genomförd
+T34	2019-03-28	Syradisk
+Stora balanssystemet (1)	2019-03-29	Lutdisk
+Filtret-Veckoavslut	2019-03-29	Lutsterilning
+Lilla balanssystemet (2)	2019-03-29	Lutdisk
+BBT 313	2019-03-31	Lutdisk
+Gurtank T67	2019-03-31	Syradisk
+Kontrollera BBT:er i Citect	2019-03-31	Genomförd
+BBT 316	2019-04-01	Lutdisk
+BBT 322	2019-04-01	Syradisk
+BBT 314	2019-04-01	Syradisk
+BBT 307	2019-04-01	Lutdisk
+BBT 310	2019-04-02	Lutdisk
+BBT 315	2019-04-02	Syradisk
+BBT 304	2019-04-02	Lutdisk
+BBT 325	2019-04-02	Lutdisk
+BBT 312	2019-04-02	Lutdisk
+BBT 317	2019-04-03	Syradisk
+Filtret Sterilning	2019-04-04	Genomförd
+T34	2019-04-04	Syradisk
+BBT 314	2019-04-04	Lutdisk
+BBT 311	2019-04-04	Syradisk
+BBT 305	2019-04-04	Syradisk
+BBT 309	2019-04-04	Lutdisk
+BBT 323	2019-04-04	Lutdisk
+Filtret Sterilning	2019-04-05	Genomförd
+BBT 308	2019-04-05	Lutdisk
+BBT 312	2019-04-05	Syradisk
+T34	2019-04-06	Syradisk
+T45	2019-04-06	Syradisk
+Kontrollera BBT:er i Citect	2019-04-06	Genomförd
+BBT 324	2019-04-07	Syradisk
+BBT 320	2019-04-07	Syradisk
+BBT 312	2019-04-07	Syradisk
+BBT 321	2019-04-08	Lutdisk
+BBT 322	2019-04-08	Syradisk
+BBT 316	2019-04-08	Syradisk
+T45	2019-04-09	Syradisk
+BBT 310	2019-04-09	Syradisk
+BBT 321	2019-04-09	Lutdisk
+T45	2019-04-09	Lutdisk
+CIP av 321 & 45 Tillsammans	2019-04-09	Lutdisk
+Filtret Sterilning	2019-04-09	Genomförd
+BBT 325	2019-04-09	Lutdisk
+BBT 315	2019-04-09	Syradisk
+BBT 307	2019-04-10	Syradisk
+BBT 315	2019-04-10	Lutdisk
+BBT 314	2019-04-10	Syradisk
+T34	2019-04-10	Lutdisk
+Filtret Sterilning	2019-04-10	Genomförd
+BBT 304	2019-04-11	Syradisk
+BBT 305	2019-04-11	Lutdisk
+BBT 306	2019-04-11	Lutdisk
+Filtret Sterilning	2019-04-12	Genomförd
+T45	2019-04-12	Syradisk
+T34	2019-04-12	Syradisk
+BBT 315	2019-04-14	Syradisk
+BBT 320	2019-04-14	Lutdisk
+BBT 324	2019-04-15	Syradisk
+BBT 312	2019-04-15	Syradisk
+BBT 313	2019-04-15	Syradisk
+BBT 304	2019-04-15	Syradisk
+BBT 305	2019-04-15	Syradisk
+BBT 308	2019-04-15	Syradisk
+BBT 321	2019-04-16	Syradisk
+BBT 316	2019-04-16	Syradisk
+BBT 312	2019-04-16	Syradisk
+BBT 323	2019-04-16	Syradisk
+BBT 311	2019-04-16	Lutdisk
+T45	2019-04-17	Syradisk
+BBT 310	2019-04-17	Syradisk
+T34	2019-04-17	Syradisk
+BBT 314	2019-04-17	Syradisk
+Aldox	2019-04-18	Syradisk
+Maltax	2019-04-18	Rengjord
+Kontrollera BBT:er i Citect	2019-04-18	Genomförd
+Filtret-Veckoavslut	2019-04-18	Lutsterilning
+Vattenfilter	2019-04-18	Genomförd
+Gurtank T68	2019-04-19	Syradisk
+BBT 318	2019-04-22	Lutdisk
+BBT 317	2019-04-22	Lutdisk
+BBT 325	2019-04-23	Syradisk
+BBT 307	2019-04-23	Lutdisk
+BBT 308	2019-04-24	Syradisk
+BBT 304	2019-04-24	Lutdisk
+BBT 306	2019-04-24	Syradisk
+BBT 311	2019-04-24	Syradisk
+BBT 324	2019-04-24	Lutdisk
+BBT 309	2019-04-24	Syradisk
+BBT 320	2019-04-24	Syradisk
+BBT 314	2019-04-25	Syradisk
+BBT 310	2019-04-25	Lutdisk
+BBT 316	2019-04-25	Lutdisk
+BBT 323	2019-04-26	Lutdisk
+BBT 321	2019-04-26	Syradisk
+BBT 322	2019-04-28	Lutdisk
+BBT 305	2019-04-29	Syradisk
+BBT 323	2019-04-29	Syradisk
+BBT 318	2019-04-30	Syradisk
+BBT 309	2019-04-30	Lutdisk
+BBT 304	2019-04-30	Syradisk
+Filtret Sterilning	2019-04-30	Genomförd
+BBT 324	2019-05-01	Syradisk
+BBT 309	2019-05-01	Syradisk
+BBT 310	2019-05-01	Syradisk
+BBT 304	2019-05-01	Syradisk
+BBT 322	2019-05-01	Syradisk
+BBT 314	2019-05-02	Lutdisk
+BBT 315	2019-05-02	Lutdisk
+BBT 325	2019-05-02	Syradisk
+BBT 306	2019-05-02	Syradisk
+BBT 316	2019-05-02	Syradisk
+BBT 321	2019-05-02	Lutdisk
+BBT 322	2019-05-02	Syradisk
+BBT 308	2019-05-02	Lutdisk
+BBT 317	2019-05-03	Syradisk
+T34	2019-05-05	Syradisk
+Filtret-Veckoavslut	2019-05-05	Lutsterilning
+T45	2019-05-05	Lutdisk
+BBT 312	2019-05-05	Lutdisk
+BBT 313	2019-05-06	Lutdisk
+BBT 311	2019-05-06	Syradisk
+BBT 317	2019-05-06	Syradisk
+BBT 324	2019-05-06	Syradisk
+BBT 316	2019-05-06	Syradisk
+BBT 305	2019-05-06	Lutdisk
+BBT 323	2019-05-06	Syradisk
+BBT 318	2019-05-07	Syradisk
+BBT 307	2019-05-08	Syradisk
+BBT 310	2019-05-08	Syradisk
+BBT 325	2019-05-08	Lutdisk
+BBT 308	2019-05-09	Syradisk
+BBT 320	2019-05-09	Lutdisk
+BBT 315	2019-05-09	Syradisk
+BBT 304	2019-05-09	Syradisk
+BBT 322	2019-05-09	Syradisk
+BBT 310	2019-05-09	Syradisk
+BBT 317	2019-05-09	Syradisk
+BBT 305	2019-05-10	Syradisk
+BBT 306	2019-05-10	Lutdisk
+BBT 325	2019-05-10	Syradisk
+BBT 312	2019-05-10	Syradisk
+BBT 309	2019-05-13	Syradisk
+BBT 307	2019-05-14	Lutdisk
+BBT 314	2019-05-15	Syradisk
+BBT 310	2019-05-15	Lutdisk
+BBT 308	2019-05-15	Syradisk
+BBT 311	2019-05-15	Lutdisk
+BBT 320	2019-05-15	Syradisk
+BBT 305	2019-05-16	Lutdisk
+BBT 324	2019-05-16	Lutdisk
+BBT 325	2019-05-16	Syradisk
+BBT 318	2019-05-16	Lutdisk
+BBT 311	2019-05-17	Syradisk
+Kontrollera BBT:er i Citect	2019-05-17	Genomförd
+Aldox	2019-05-17	Syradisk
+Vattenfilter	2019-05-17	Genomförd
+Filtret-Veckoavslut	2019-05-17	Lutsterilning
+Maltax	2019-05-17	Rengjord
+Filtret Sterilning	2019-05-17	Genomförd
+Gurtank T66	2019-05-17	Syradisk
+T34	2019-05-18	Lutdisk
+T45	2019-05-18	Syradisk
+BBT 314	2019-05-18	Lutdisk
+BBT 315	2019-05-18	Syradisk
+InternCIP av TrycktanksCIP-tankar	2019-05-18	Genomförd
+BBT 324	2019-05-19	Syradisk
+BBT 306	2019-05-19	Syradisk
+BBT 325	2019-05-20	Syradisk
+BBT 311	2019-05-20	Syradisk
+BBT 310	2019-05-20	Syradisk
+BBT 312	2019-05-20	Syradisk
+BBT 322	2019-05-21	Lutdisk

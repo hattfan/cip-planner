@@ -1,0 +1,256 @@
+<%- include partials/header.ejs %>
+<%- include partials/navbar.ejs %>
+
+<div class="main-content">
+  <h2 class="area-type">Jäskällare & Brygghus</h2>
+  <table class="table table-hover table-bordered">
+    <thead>
+        <tr>
+          <td scope="col" class="bg-info first-column">Objekt</td>
+          <td scope="col" class="bg-info">Rengöringstyp</td>
+          <td scope="col" class="bg-info">Planerad</td>
+          <% if(moment().day() === 6 || moment().day() === 7){ %>
+            <td scope="col" class="bg-info today weekend">
+          <% } else {%>
+          <td scope="col" class="bg-info today">
+          <% } %>
+            Idag - <%= moment().format('D') %>/<%= moment().format('M') %>
+          </td> 
+          <td scope="col" class="bg-info">
+            <%= moment().add(1, 'days').format('D') %>/<%= moment().add(1, 'days').format('M') %> %>
+          </td>
+          <td scope="col" class="bg-info">
+            <%= moment().add(2, 'days').format('D') %>/<%= moment().add(2, 'days').format('M') %> %>
+          </td>
+          <td scope="col" class="bg-info">
+            <%= moment().add(3, 'days').format('D') %>/<%= moment().add(3, 'days').format('M') %> %>
+          </td>
+          <td scope="col" class="bg-info">
+            <%= moment().add(4, 'days').format('D') %>/<%= moment().add(4, 'days').format('M') %> %>
+          </td>
+          <td scope="col" class="bg-info">
+            <%= moment().add(5, 'days').format('D') %>/<%= moment().add(5, 'days').format('M') %> %>
+          </td>
+          <td scope="col" class="bg-info">
+            <%= moment().add(6, 'days').format('D') %>/<%= moment().add(6, 'days').format('M') %> %>
+          </td>
+          <td scope="col" class="bg-info">
+            <%= moment().add(7, 'days').format('D') %>/<%= moment().add(7, 'days').format('M') %> %>
+          </td>
+        </tr>
+      </thead>
+    <tbody>
+      <!-- Avgränsning för vilken typ normal/sällan/veckoavslut -->
+      <% for (let i = 0; i < uniqueVal.length; i++) { %>
+        <tr>
+          <td class="header-name first-column"><%= uniqueVal[i] %></td>
+      <% for (let j = 0; j < 10; j++) { %>
+        <td class="header-name"></td>
+      <% } %>  
+        </tr>
+          
+          <% dbObjects.forEach(dbObject => { %>
+            <% if(dbObject.Area !== "Filtrering"){ %>
+              <% if(dbObject.Typ === uniqueVal[i]){ %>
+              <tr>
+                <!--! ObjektNamn -->
+                <th id="<%= dbObject.Objekt %>" class="first-column"><a id="<%= dbObject.Objekt %>"></a><%= dbObject.Objekt %></th>
+                <!--! Rengöringstyp -->
+                <!-- IF nästa cleaning 1 är före cleaning 2 -->
+                <!-- TODO Detta måste ändras för att om Cleaning2 är försenad skall den ses, inte Cleaning -->
+                <% if (dbObject.Cleaning2.length > 0 && dbObject.Cleaning2NextDate < moment().format('YYYY-MM-DD')) { %>
+                  <td class="cleaning-type active delay <%= dbObject.Cleaning1 %> " data-key="<%= dbObject._id %>" 
+                    data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate < dbObject.Cleaning2NextDate) { %>
+                  <!-- IF datumet är efter dagens datum, sätt delay (rött) annars ok (ingen färg) -->        
+                  <% if (dbObject.Cleaning1NextDate < moment().format('YYYY-MM-DD')){ %>
+                    <td class="cleaning-type active delay <%= dbObject.Cleaning1 %> " data-key="<%= dbObject._id %>" 
+                    data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning1 %></td>
+                  <% } else { %>
+                    <td class="cleaning-type active ok <%= dbObject.Cleaning1 %> " data-key="<%= dbObject._id %>"
+                      data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning1 %></td>
+                  <% } %>
+                
+                <!-- IF nästa cleaning 2 finns -->
+                <% } else if(dbObject.Cleaning2.length > 0){ %>
+                  <!-- IF datumet är efter dagens datum, sätt delay (rött) annars ok (ingen färg) -->        
+                  <% if (dbObject.Cleaning2NextDate < moment().format('YYYY-MM-DD')){ %>
+                    <td class="cleaning-type active delay <%= dbObject.Cleaning2 %> " data-key="<%= dbObject._id %>"
+                      data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning2 %></td>
+                  <% } else { %>
+                    <td class="cleaning-type active ok <%= dbObject.Cleaning2 %> " data-key="<%= dbObject._id %>"
+                      data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning2 %></td>
+                  <% } %>
+                <!-- ELSE visa cleaning 1 -->        
+                <% } else { %>
+                  <!-- IF datumet är efter dagens datum, sätt delay (rött) annars ok (ingen färg) -->        
+                  <% if (dbObject.Cleaning1NextDate < moment().format('YYYY-MM-DD')){ %>
+                    <td class="cleaning-type active delay <%= dbObject.Cleaning1 %> " data-key="<%= dbObject._id %>"
+                      data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning1 %></td>
+                  <% } else { %>
+                    <td class="cleaning-type active ok <%= dbObject.Cleaning1 %> " data-key="<%= dbObject._id %>"
+                      data-cleaning1="<%= dbObject.Cleaning1 %>" data-cleaning2="<%= dbObject.Cleaning2 %>"><%= dbObject.Cleaning1 %></td>
+                  <% } %>
+                <% } %>
+                <!--END RENGÖRINGSTYP  -->
+        
+        
+                <!-- Planerat datum -->
+                <%if (dbObject.Cleaning1NextDate < dbObject.Cleaning2NextDate || dbObject.Cleaning2NextDate.length === 0) { %> 
+                  <% if (dbObject.Cleaning1NextDate < moment().format('YYYY-MM-DD')){ %>
+                    <td class="delay"><%= dbObject.Cleaning1NextDate %></td>
+                  <% } else { %>
+                    <td class="ok"><%= dbObject.Cleaning1NextDate %></td>
+                  <% } %>
+                <% } else { %>
+                  <% if (dbObject.Cleaning2NextDate < moment().format('YYYY-MM-DD')){ %>
+                    <td class="delay"><%= dbObject.Cleaning2NextDate %></td>
+                  <% } else { %>
+                    <td class="ok"><%= dbObject.Cleaning2NextDate %></td>
+                  <% } %>
+                <% } %>
+                <!-- END PLANERAT DATUM -->
+        
+                <!-- Datum-rubriker -->
+                <!-- IF idag -->
+                <% var cleaningTodayFlag = false %>
+                <% for(let i = 0; i < dbRegisteredCleaning.length; i++) { %>
+                  <!-- IF rengöringsobjektet finns med i dagens rengöringar -->
+                  <% if (Object.values(dbRegisteredCleaning[i]).indexOf(dbObject.Objekt) > -1 && cleaningTodayFlag === false){ %>
+                    <!-- Sätt cleaningTodayFlag till true för att inte ta in planerad rengöring -->
+                    <% cleaningTodayFlag = true %>
+                    <td class="done"><%= dbRegisteredCleaning[i].CleaningType %></td>
+                  <% } %>
+                <% } %>
+                <% if (cleaningTodayFlag === true){ %>
+                <% } else if (dbObject.Cleaning2NextDate === moment().format('YYYY-MM-DD')){ %>
+                <td class="<%= dbObject.Cleaning2 %> active today" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active today" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td class="today"></td>
+                <% } %>
+                
+                <!-- IF imorgon -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(1, 'days').format('YYYY-MM-DD')){ %>
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(1, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td></td>
+                <% } %>
+              
+                <!-- IF idag + 2 -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(2, 'days').format('YYYY-MM-DD')){ %>
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(2, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td></td>
+                <% } %>
+      
+                <!-- IF idag + 3 -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(3, 'days').format('YYYY-MM-DD')){ %>
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(3, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td></td>
+                <% } %>
+      
+                <!-- IF idag + 4 -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(4, 'days').format('YYYY-MM-DD')){ %>
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(4, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td></td>
+                <% } %>
+      
+                <!-- IF idag + 5 -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(5, 'days').format('YYYY-MM-DD')){ %>
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(5, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td></td>
+                <% } %>
+      
+                <!-- IF idag + 6 -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(6, 'days').format('YYYY-MM-DD') && dbObject.Cleaning2.length > 0){ %>
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(6, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                  <!-- <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td> -->
+                <% } else {%>
+                  <td></td>
+                <% } %>
+                <!-- IF idag + 7 -->
+                <% if (dbObject.Cleaning2NextDate === moment().add(7, 'days').format('YYYY-MM-DD')){ %>
+                  <!-- <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td> -->
+                  <td class="<%= dbObject.Cleaning2 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning2 %></td>
+                <% } else if (dbObject.Cleaning1NextDate === moment().add(7, 'days').format('YYYY-MM-DD')){%>
+                  <td class="<%= dbObject.Cleaning1 %> active" data-key="<%= dbObject._id %>"><%= dbObject.Cleaning1 %></td>
+                <% } else {%>
+                  <td></td>
+                <% } %>
+              </tr>
+            <% } %>      
+          <% } %>      
+        <% }); %>  
+      <% } %>      
+
+    </tbody>
+  </table>
+</div>
+  
+
+
+  <!-- Modal för att registrera rengöring -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Rengöringsregistrering</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form action="/cleaning" method="post">
+            <div class="form-group">
+              <label for="recipient-name" class="col-form-label">Objekt: <span id="cleaning-object">Objekt</span></label>
+              <br>
+              <!-- <label for="recipient-name" class="col-form-label">Objekt-id: <span id="cleaning-object-id" name="cleaningName">nr...</span></label> -->
+            </div>
+            <hr>
+            <div class="form-group">
+              <p>Planerad rengöring: <span id="planned-cleaning"></span></p>
+              <hr>
+              <label for="cleaningChoice" class="col-form-label">Välj rengöringstyp:</label>
+              <select class="form-control" name ="cleaningChoice" id="cleaningChoice">
+              </select>
+            </div>
+            <hr>
+            <div class="form-group">
+              <label for="cleaningSign" class="col-form-label">Sign:</label>
+              <input class="form-control" type="text" name="cleaningSign" id="cleaning-signing" pattern=".{8,}" required title="8 bokstäver" value="se" required>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <!-- <label for="recipient-name" class="col-form-label">Objekt-id: <span id="cleaning-object-id" name="cleaningName">nr...</span></label> -->
+            <input type="text" id="objektId" name="objektId" style="display:none">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Avbryt</button>
+            <button type="submit" class="btn btn-success">Registrera</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script src="js/assets/jquery-3.3.1.min.js"></script>
+<script src="js/assets/bootstrap.bundle.min.js"></script>
+<script src="js/script.js"></script>
+
+</html>

@@ -1,0 +1,259 @@
+<%- include partials/header.ejs %>
+<%- include partials/navbar.ejs %>
+
+<div class="main-content">
+  <h2 class="area-type">Admin</h2>
+  <div class="btn btn-success" id="new-btn">Nytt Objekt</div>
+  <hr>
+  <div class="table-container" style="width: 100%">
+    <table id="myTable" class="display" style="width:100%;background: white;border: 1px black solid;border-radius: 5px">
+      <thead>
+        <tr>
+          <th scope="col" class="bg-info">Edit</th>
+          <% uniqueKeys.forEach(objectKey => { %>
+          <th scope="col" class="bg-info">
+            <%= objectKey %>
+          </th>
+          <% }) %>
+
+        </tr>
+      </thead>
+      <tfoot>
+        <tr>
+          <th scope="col" class="bg-info">Edit</th>
+          <% uniqueKeys.forEach(objectKey => { %>
+          <th scope="col" class="bg-info">
+            <%= objectKey %>
+          </th>
+          <% }) %>
+
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+
+<!-- Modal för att EDITERA rengöring -->
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Redigera objekt</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form action="admin/changeObject" method="post">
+
+          <div class="form-group">
+            <input type="text" id="objektId" name="objektId" style="display: none" value="">
+
+            <div class="form-group">
+              <label for="Objekt">Objekt-Namn*</label>
+              <input type="text" class="form-control" name="inputValues[Objekt]" id="Objekt-change"
+                placeholder="Objekt-Namn" pattern="[a-zA-Z0-9!@#$%^*_()äåöÄÅÖ |]{2,50}" required>
+              <small>Specialtecken är ej tillåtna som t.ex. &</small>
+            </div>
+
+
+            <div class="form-group">
+              <label for="Cleaning1">Cleaning1</label>
+              <select class="form-control" name="inputValues[Cleaning1]" id="Cleaning1-change"
+                placeholder="Inget värde">
+                <option></option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning1NextDate">Cleaning1NextDate</label>
+              <input type="date" class="form-control" name="inputValues[Cleaning1NextDate]"
+                id="Cleaning1NextDate-change" placeholder="YYYY-MM-DD">
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning1Frequency">Cleaning1Frequency</label>
+              <input type="number" class="form-control" name="inputValues[Cleaning1Frequency]"
+                id="Cleaning1Frequency-change" placeholder="Antal dagar emellan">
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning2">Cleaning2</label>
+              <select class="form-control" name="inputValues[Cleaning2]" id="Cleaning2-change"
+                placeholder="Inget värde">
+                <option></option>
+              </select>
+
+              <!--              <input type="text" class="form-control" name="inputValues[Cleaning2]" id="Cleaning2-change"
+                placeholder="Inget värde">
+              -->
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning2Frequency">Cleaning2Frequency</label>
+              <input type="number" class="form-control" name="inputValues[Cleaning2Frequency]"
+                id="Cleaning2Frequency-change" placeholder="Antal dagar emellan">
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning2NextDate">Cleaning2NextDate</label>
+              <input type="date" class="form-control" name="inputValues[Cleaning2NextDate]"
+                id="Cleaning2NextDate-change" placeholder="YYYY-MM-DD">
+            </div>
+
+            <div class="form-group">
+              <label for="Area">Area*</label>
+              <select class="form-control" name="inputValues[Area]" id="Area-change" placeholder="Inget värde"
+                required></select>
+            </div>
+
+            <div class="form-group">
+              <label for="Typ">Typ*</label>
+              <select class="form-control" name="inputValues[Typ]" id="Typ-change" placeholder="Inget värde"
+                required></select>
+            </div>
+
+            <div class="form-group">
+              <label for="MoveBothObjects">Flytta både Rengöring 1 och Rengöring 2, om Rengöring 2 görs*</label>
+              <select class="form-control" name="inputValues[MoveBothObjects]" required id="MoveBothObjects-change">
+                <option value="TRUE" selected>TRUE</option>
+                <option value="FALSE">FALSE</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="Kommentar">Kommentar</label>
+              <input type="text" class="form-control" name="inputValues[Kommentar]" id="Kommentar-change">
+            </div>
+
+            <div class="form-group">
+              <label for="Kommentar">Aktiv*</label>
+              <select class="form-control" name="inputValues[Active]" id="Active-change">
+                <option value="Ja" selected>Ja</option>
+                <option value="Nej">Nej</option>
+              </select>
+            </div>
+
+          </div>
+      </div>
+      <div class="modal-footer" style="flex-wrap:wrap">
+        <!-- <label for="recipient-name" class="col-form-label">Objekt-id: <span id="cleaning-object-id" name="cleaningName">nr...</span></label> -->
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Avbryt</button>
+        <button type="submit" class="btn btn-success">Ändra</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Modal för att lägga till nytt objekt -->
+<div class="modal fade" id="newModal" tabindex="-1" role="dialog" aria-labelledby="newModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="newModalLabel">Nytt Objekt</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form action="admin/newObject" method="post">
+          <div class="form-group">
+            <div class="form-group">
+              <label for="Objekt">Objekt-Namn*</label>
+              <input type="text" class="form-control" name="newValues[Objekt]" id="Objekt-new" placeholder="Objekt-Namn"
+                pattern="[a-zA-Z0-9!@#$%^*_()äåöÄÅÖ |]{2,50}" required>
+              <small>Specialtecken är ej tillåtna som t.ex. &</small>
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning1">Cleaning1*</label>
+              <select class="form-control" name="newValues[Cleaning1]" id="Cleaning1-new" placeholder="Inget värde"
+                required></select>
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning1Frequency">Cleaning1Frequency*</label>
+              <input type="number" class="form-control" name="newValues[Cleaning1Frequency]" id="Cleaning1Frequency-new"
+                placeholder="Inget värde" required>
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning1LastDate">Cleaning1LastDate*</label>
+              <input type="date" class="form-control" name="newValues[Cleaning1LastDate]" id="Cleaning1LastDate-new"
+                required value="<%= moment().format('YYYY-MM-DD') %>">
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning2">Cleaning2</label>
+              <select class="form-control" name="newValues[Cleaning2]" id="Cleaning2-new"
+                placeholder="Inget värde"></select>
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning2Frequency">Cleaning2Frequency</label>
+              <input type="number" class="form-control" name="newValues[Cleaning2Frequency]" id="Cleaning2Frequency-new"
+                placeholder="Inget värde">
+            </div>
+
+            <div class="form-group">
+              <label for="Cleaning2LastDate">Cleaning2LastDate</label>
+              <input type="date" class="form-control" name="newValues[Cleaning2LastDate]" id="Cleaning2LastDate-new">
+            </div>
+
+            <div class="form-group">
+              <label for="Area">Area*</label>
+              <select class="form-control" name="newValues[Area]" id="Area-new" placeholder="Inget värde"
+                required></select>
+            </div>
+
+            <div class="form-group">
+              <label for="Typ">Typ*</label>
+              <select class="form-control" name="newValues[Typ]" id="Typ-new" placeholder="Inget värde"
+                required></select>
+            </div>
+
+            <div class="form-group">
+              <label for="MoveBothObjects">Flytta både Rengöring 1 och Rengöring 2, om Rengöring 2 görs*</label>
+              <select class="form-control" name="newValues[MoveBothObjects]" id="MoveBothObjects-new" required>
+                <option selected>FALSE</option>
+                <option>TRUE</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="Kommentar">Kommentar</label>
+              <input type="text" class="form-control" name="newValues[Kommentar]" id="Kommentar-new">
+            </div>
+
+            <div class="form-group">
+              <label for="Kommentar">Aktiv*</label>
+              <select class="form-control" name="inputValues[Active]" id="Active-new" required>
+                <option value="Ja" selected>Ja</option>
+                <option value="Nej">Nej</option>
+              </select>
+            </div>
+
+          </div>
+      </div>
+      <div class="modal-footer">
+        <!-- <label for="recipient-name" class="col-form-label">Objekt-id: <span id="cleaning-object-id" name="cleaningName">nr...</span></label> -->
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Avbryt</button>
+        <button type="submit" class="btn btn-success">Lägg till</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+
+<script src="js/assets/jquery-3.3.1.min.js"></script>
+<script src="js/assets/bootstrap.bundle.min.js"></script>
+<!-- <script src="js/admin.js"></script> -->
+<link rel="stylesheet" href="assets/jquery.dataTables.min.css">
+<script src="assets/jquery.dataTables.min.js"></script>
+<script src="js/datatables_admin_init.js"></script>
+
+</html>

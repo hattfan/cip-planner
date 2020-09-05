@@ -1,0 +1,33 @@
+<%- include partials/header.ejs %>
+<%- include partials/navbar.ejs %>
+
+<div class="main-content">
+  <table class="table table-hover table-bordered">
+    <thead>
+      <tr>
+        <td scope="col">Datum</td>
+        <td scope="col">Rengöringstyp</td>
+        <td scope="col">Objekt</td>
+        <td scope="col">PUF-länk</td>
+      </tr>
+    </thead>
+
+    <tbody>
+      <% for(var i = 0; i < registerResult.length; i++) { %>
+      <tr>
+        <td class="<%= registerResult[i]['CleaningType'] %>"><%= registerResult[i]['Date'] %></td>
+        <td class="<%= registerResult[i]['CleaningType'] %>"><strong><%= registerResult[i]['CleaningType'] %></strong></td>
+        <td class="<%= registerResult[i]['CleaningType'] %>"><%= registerResult[i]['Objekt'] %></td>
+        <td class="<%= registerResult[i]['CleaningType'] %>"><a target="_blank" href="http://172.20.22.101/dup/dip/cip_exe_list.asp?<%= loggResult.filter(row => row['Objekt'] === registerResult[i]['Objekt'])[0]['PufNamn'] %>&T2=<%= registerResult[i]['Date'] %>&T3=<%= moment(registerResult[i]['Date']).add(2,'days').format('YYYY-MM-DD') %>">Länk</a></td>
+        
+      </tr>
+      <% } %>
+    </tbody>
+  </table>
+</div>
+</body>
+
+<script src="../js/assets/jquery-3.3.1.min.js"></script>
+<script src="../js/assets/bootstrap.bundle.min.js"></script>
+
+</html>

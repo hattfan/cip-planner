@@ -1,0 +1,132 @@
+Objekt,Cleaning1,Cleaning1Frequency,Cleaning1LastDate,Cleaning1NextDate,Cleaning2,Cleaning2Frequency,Cleaning2LastDate,Cleaning2NextDate,Area,Typ,MoveBothObjects,WillBeEmailed
+303 Vattentank,Syradisk,60,2019-05-16,2019-07-15,Lutdisk,60,2019-05-16,2019-07-15,Filtrering,Vanlig,false,true
+BBT 304,Syradisk,7,2019-05-10,2019-05-17,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+BBT 305,Syradisk,7,2019-05-10,2019-05-17,Lutdisk,21,2019-04-26,2019-05-17,Filtrering,Vanlig,true,false
+BBT 306,Syradisk,7,2019-05-10,2019-05-17,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+BBT 307,Syradisk,7,2019-05-21,2019-05-28,Lutdisk,21,2019-05-21,2019-06-11,Filtrering,Vanlig,true,false
+BBT 308,Syradisk,7,2019-05-08,2019-05-15,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+301 Vattentank,Syradisk,30,2019-03-10,2019-05-09,Lutdisk,60,2019-01-22,2019-03-23,Filtrering,Vanlig,false,true
+BBT 310,Syradisk,7,2019-05-09,2019-05-16,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+BBT 309,Syradisk,7,2019-05-08,2019-05-15,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+BBT 311,Syradisk,7,2019-05-08,2019-05-15,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+BBT 312,Syradisk,7,2019-05-15,2019-05-22,Lutdisk,21,2019-05-17,2019-06-07,Filtrering,Vanlig,true,false
+BBT 313,Syradisk,7,2019-03-15,2019-03-22,Lutdisk,21,2019-03-15,2019-04-05,Filtrering,Vanlig,true,false
+BBT 314,Syradisk,7,2019-05-08,2019-05-15,Lutdisk,21,2019-03-10,2019-03-31,Filtrering,Vanlig,true,false
+BBT 315,Syradisk,7,2019-05-09,2019-05-16,Lutdisk,21,2019-05-09,2019-05-30,Filtrering,Vanlig,true,false
+BBT 317,Syradisk,7,2019-05-08,2019-05-15,Lutdisk,21,2019-05-21,2019-06-11,Filtrering,Vanlig,true,false
+BBT 318,Syradisk,7,2019-03-11,2019-03-18,Lutdisk,21,2019-03-11,2019-04-01,Filtrering,Vanlig,true,false
+BBT 319,Syradisk,7,2019-05-10,2019-05-17,Lutdisk,21,2019-03-10,2019-03-31,Filtrering,Vanlig,true,false
+BBT 320,Syradisk,7,2019-05-08,2019-05-15,Lutdisk,21,2019-01-17,2019-02-07,Filtrering,Vanlig,true,false
+BBT 321,Syradisk,7,2019-05-15,2019-05-22,Lutdisk,21,2019-05-15,2019-06-05,Filtrering,Vanlig,true,false
+BBT 322,Syradisk,7,2019-05-17,2019-05-24,Lutdisk,21,2019-05-08,2019-05-29,Filtrering,Vanlig,true,false
+BBT 323,Syradisk,7,2019-03-10,2019-03-17,Lutdisk,21,2019-03-10,2019-03-31,Filtrering,Vanlig,true,false
+302 Vattentank,Syradisk,60,2019-03-10,2019-05-09,Lutdisk,60,2019-01-22,2019-03-23,Filtrering,Vanlig,false,true
+BBT 324,Syradisk,7,2019-03-10,2019-03-17,Lutdisk,21,2019-03-10,2019-03-31,Filtrering,Vanlig,true,false
+Filtret Sterilning,Genomförd,7,2019-05-10,2019-05-17,,,,,Filtrering,Vanlig,false,true
+BBT 325,Syradisk,7,2019-05-15,2019-05-22,Lutdisk,21,2019-05-15,2019-06-05,Filtrering,Vanlig,true,false
+T34,Syradisk,7,2019-03-10,2019-03-14,Lutdisk,21,2019-05-09,2019-05-30,Filtrering,Veckoavslut,false,true
+T45,Syradisk,7,2019-03-10,2019-03-14,Lutdisk,21,2019-05-15,2019-06-05,Filtrering,Veckoavslut,false,true
+Maltax,Rengjord,7,2019-05-08,2019-05-15,,,,,Filtrering,Veckoavslut,false,true
+Filtret-Veckoavslut,Lutsterilning,7,2019-05-17,2019-05-24,,,,,Filtrering,Veckoavslut,false,true
+Kontrollera BBT:er i Citect,Genomförd,7,2019-05-10,2019-05-17,,,,,Filtrering,Veckoavslut,false,true
+Gurtank T66,Syradisk,90,2019-03-10,2019-06-08,,,,,Filtrering,Sällan,false,true
+Aldox,Syradisk,7,2019-03-10,2019-03-14,,,,,Filtrering,Veckoavslut,false,true
+Gurtank T67,Syradisk,90,2019-03-10,2019-06-08,,,,,Filtrering,Sällan,false,true
+Gurtank T68,Syradisk,90,2019-03-10,2019-06-08,,,,,Filtrering,Sällan,false,true
+Rengör avloppsrännor jäskällaren,Rengjord,7,2017-01-27,2017-02-03,,,,,Jäskällaren,Sällan,false,true
+Vattenfilter,Genomförd,7,2019-03-10,2019-03-14,,,,,Filtrering,Veckoavslut,false,true
+Lilla balanssystemet (2),Lutdisk,90,2019-03-10,2019-06-08,,,,,Filtrering,Sällan,false,true
+Balanssystemet jäskällaren,Lutdisk,90,2019-05-21,2019-08-19,,,,,Jäskällaren,Sällan,false,true
+Kolsyraledning,Rengjord,90,2018-04-27,2018-07-26,,,,,Filtrering,Sällan,false,true
+Byt ut gula rengöringsverktyg (Filtrering),Genomförd,720,2019-01-31,2021-01-20,,,,,Filtrering,Sällan,false,true
+Stora balanssystemet (1),Lutdisk,90,2018-09-14,2018-12-13,,,,,Filtrering,Sällan,false,true
+BBT 316,Syradisk,7,2019-03-10,2019-03-17,Lutdisk,21,2019-03-10,2019-03-31,Filtrering,Vanlig,true,false
+Byt ut blåa rengöringsverktyg (Filtrering),Genomförd,1440,2017-01-27,2021-01-06,,,,,Filtrering,Sällan,false,true
+Byt ut blåa rengöringsverktyg (Brygghuset),Genomförd,1440,2017-01-27,2021-01-06,,,,,Brygghuset,Sällan,false,true
+Byt ut gula rengöringsverktyg (Brygghuset),Genomförd,720,2017-01-27,2019-01-17,,,,,Brygghuset,Sällan,false,true
+CIP av 321 och 45 Tillsammans,Lutdisk,30,2019-05-15,2019-06-14,,,,,Filtrering,Vanlig,false,true
+Byte av filterpatroner,Genomförd,180,2019-05-17,2019-11-13,,,,,Filtrering,Sällan,false,true
+LT 01,Syradisk,14,2019-05-15,2019-05-29,Lutdisk,180,2019-05-15,2019-11-11,Lagerkällaren,Vanlig,false,false
+LT 03,Syradisk,14,2018-10-11,2018-10-25,Lutdisk,180,2018-07-22,2019-01-18,Lagerkällaren,Vanlig,false,false
+LT 02,Lutdisk,90,2018-09-21,2018-12-20,,,,,Lagerkällaren,Vanlig,false,false
+LT 05,Syradisk,14,2019-05-10,2019-05-24,Lutdisk,180,2019-05-10,2019-11-06,Lagerkällaren,Vanlig,false,false
+LT 06,Syradisk,14,2018-10-28,2018-11-11,Lutdisk,180,2018-04-22,2018-10-19,Lagerkällaren,Vanlig,false,false
+LT 04,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-10-22,2019-04-20,Lagerkällaren,Vanlig,false,false
+LT 07,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-09-18,2019-03-17,Lagerkällaren,Vanlig,false,false
+Byt ut gula rengöringsverktyg (Jäskällaren),Genomförd,720,2017-01-27,2019-01-17,,,,,Jäskällaren,Sällan,false,true
+LT 09,Syradisk,14,2018-08-24,2018-09-07,Lutdisk,180,2018-08-24,2019-02-20,Lagerkällaren,Vanlig,false,false
+LT 08,Syradisk,14,2019-05-15,2019-05-29,Lutdisk,180,2018-10-01,2019-03-30,Lagerkällaren,Vanlig,false,false
+LT 10,Syradisk,14,2018-08-12,2018-08-26,Lutdisk,180,2018-08-12,2019-02-08,Lagerkällaren,Vanlig,false,false
+Byt ut blåa rengöringsverktyg (Jäskällaren),Genomförd,1440,2017-01-27,2021-01-06,,,,,Jäskällaren,Sällan,false,true
+LT 12,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-08-14,2019-02-10,Lagerkällaren,Vanlig,false,false
+LT 13,Syradisk,14,2018-10-09,2018-10-23,Lutdisk,180,2019-05-15,2019-11-11,Lagerkällaren,Vanlig,false,false
+LT 14,Syradisk,14,2017-07-10,2017-07-24,Lutdisk,180,2017-07-10,2018-01-06,Lagerkällaren,Vanlig,false,false
+LT 15,Lutdisk,90,2017-06-18,2017-09-16,,,,,Lagerkällaren,Vanlig,false,false
+LT 16,Syradisk,14,2017-06-18,2017-07-02,Lutdisk,180,2017-06-18,2017-12-15,Lagerkällaren,Vanlig,false,false
+LT 21,Syradisk,14,2018-10-23,2018-11-06,Lutdisk,180,2018-07-16,2019-01-12,Lagerkällaren,Vanlig,false,false
+LT 11,Syradisk,14,2018-08-30,2018-09-13,Lutdisk,180,2018-08-30,2019-02-26,Lagerkällaren,Vanlig,false,false
+LT 25,Syradisk,14,2018-05-19,2018-06-02,Lutdisk,180,2018-05-19,2018-11-15,Lagerkällaren,Vanlig,false,false
+LT 22,Syradisk,14,2018-09-29,2018-10-13,Lutdisk,180,2018-09-29,2019-03-28,Lagerkällaren,Vanlig,false,false
+LT 26,Syradisk,14,2018-10-28,2018-11-11,Lutdisk,180,2018-08-31,2019-02-27,Lagerkällaren,Vanlig,false,false
+LT 27,Syradisk,14,2018-10-14,2018-10-28,Lutdisk,180,2018-10-14,2019-04-12,Lagerkällaren,Vanlig,false,false
+LT 28,Syradisk,14,2018-10-22,2018-11-05,Lutdisk,180,2018-08-24,2019-02-20,Lagerkällaren,Vanlig,false,false
+LT 23,Syradisk,14,2018-10-16,2018-10-30,Lutdisk,180,2018-10-16,2019-04-14,Lagerkällaren,Vanlig,false,false
+LT 29,Syradisk,14,2018-10-23,2018-11-06,Lutdisk,180,2018-09-17,2019-03-16,Lagerkällaren,Vanlig,false,false
+LT 30,Syradisk,14,2018-11-01,2018-11-15,Lutdisk,180,2018-08-10,2019-02-06,Lagerkällaren,Vanlig,false,false
+LT 24,Syradisk,14,2018-08-21,2018-09-04,Lutdisk,180,2018-08-21,2019-02-17,Lagerkällaren,Vanlig,false,false
+LT 32,Syradisk,14,2018-10-23,2018-11-06,Lutdisk,180,2019-05-15,2019-11-11,Lagerkällaren,Vanlig,false,false
+LT 33,Syradisk,14,2018-10-10,2018-10-24,Lutdisk,180,2018-08-07,2019-02-03,Lagerkällaren,Vanlig,false,false
+LT 34,Syradisk,14,2018-10-07,2018-10-21,Lutdisk,180,2018-10-07,2019-04-05,Lagerkällaren,Vanlig,false,false
+Byt ut gula rengöringsverktyg (Jäskällaren),Genomförd,720,2017-05-07,2019-04-27,,,,,Jäskällaren,Sällan,false,true
+JT 51,Lutdisk,14,2019-05-09,2019-05-23,,,,,Jäskällaren,Vanlig,false,false
+Byt ut blåa rengöringsverktyg (Jäskällaren),Genomförd,1440,2017-05-07,2021-04-16,,,,,Jäskällaren,Sällan,false,true
+LT 31,Syradisk,14,2018-05-08,2018-05-22,Lutdisk,180,2018-05-08,2018-11-04,Lagerkällaren,Vanlig,false,false
+JT 53,Lutdisk,14,2019-05-10,2019-05-24,,,,,Jäskällaren,Vanlig,false,false
+JT 52,Lutdisk,14,2018-10-24,2018-11-07,,,,,Jäskällaren,Vanlig,false,false
+JT 57,Lutdisk,14,2019-05-10,2019-05-24,,,,,Jäskällaren,Vanlig,false,false
+JT 56,Lutdisk,14,2019-05-09,2019-05-23,,,,,Jäskällaren,Vanlig,false,false
+JT 58,Lutdisk,14,2018-08-20,2018-09-03,,,,,Jäskällaren,Vanlig,false,false
+JT 54,Lutdisk,14,2019-05-10,2019-05-24,,,,,Jäskällaren,Vanlig,false,false
+JT 59,Lutdisk,14,2019-05-15,2019-05-29,,,,,Jäskällaren,Vanlig,false,false
+JT 61,Lutdisk,14,2018-10-07,2018-10-21,,,,,Jäskällaren,Vanlig,false,false
+JT 60,Lutdisk,14,2018-09-21,2018-10-05,,,,,Jäskällaren,Vanlig,false,false
+JT 62,Lutdisk,14,2019-05-21,2019-06-04,,,,,Jäskällaren,Vanlig,false,false
+JT 63,Lutdisk,14,2018-08-29,2018-09-12,,,,,Jäskällaren,Vanlig,false,false
+JT 64,Lutdisk,14,2018-10-22,2018-11-05,,,,,Jäskällaren,Vanlig,false,false
+JT 55,Lutdisk,14,2018-08-29,2018-09-12,,,,,Jäskällaren,Vanlig,false,false
+JT 65,Lutdisk,14,2018-08-03,2018-08-17,,,,,Jäskällaren,Vanlig,false,false
+JT 67,Lutdisk,14,2018-10-09,2018-10-23,,,,,Jäskällaren,Vanlig,false,false
+JT 66,Lutdisk,14,2018-09-29,2018-10-13,,,,,Jäskällaren,Vanlig,false,false
+JT 68,Lutdisk,14,2018-11-02,2018-11-16,,,,,Jäskällaren,Vanlig,false,false
+JT 69,Lutdisk,14,2018-10-15,2018-10-29,,,,,Jäskällaren,Vanlig,false,false
+JT 70,Lutdisk,14,2018-09-24,2018-10-08,,,,,Jäskällaren,Vanlig,false,false
+JT 71,Lutdisk,14,2018-08-12,2018-08-26,,,,,Jäskällaren,Vanlig,false,false
+JT 73,Lutdisk,14,2018-10-22,2018-11-05,,,,,Jäskällaren,Vanlig,false,false
+JT 72,Lutdisk,14,2018-10-26,2018-11-09,,,,,Jäskällaren,Vanlig,false,false
+JT 74,Lutdisk,14,2018-10-08,2018-10-22,,,,,Jäskällaren,Vanlig,false,false
+JT 75,Lutdisk,14,2018-09-13,2018-09-27,,,,,Jäskällaren,Vanlig,false,false
+JT 76,Lutdisk,14,2018-06-27,2018-07-11,,,,,Jäskällaren,Vanlig,false,false
+JT 77,Lutdisk,14,2018-10-22,2018-11-05,,,,,Jäskällaren,Vanlig,false,false
+JT 79,Lutdisk,14,2018-07-30,2018-08-13,,,,,Jäskällaren,Vanlig,false,false
+JT 82,Lutdisk,14,2018-10-09,2018-10-23,,,,,Jäskällaren,Vanlig,false,false
+JT 84,Lutdisk,14,2018-08-24,2018-09-07,,,,,Jäskällaren,Vanlig,false,false
+Balanssystemet,Lutdisk,90,2018-09-02,2018-12-01,,,,,Jäskällaren,Sällan,false,true
+JT 78,Lutdisk,14,2018-08-22,2018-09-05,,,,,Jäskällaren,Vanlig,false,false
+Disk av sockermottagningen,Genomförd,31,2018-04-27,2018-05-28,,,,,Jäskällaren,Sällan,false,true
+JT 83,Lutdisk,14,2018-07-26,2018-08-09,,,,,Jäskällaren,Vanlig,false,false
+Nya rundkörningen,Genomförd,7,2018-11-02,2018-11-09,,,,,Jäskällaren,Veckoavslut,false,true
+Rundkörningen jästledning,Genomförd,31,2018-09-21,2018-10-22,,,,,Jäskällaren,Veckoavslut,false,true
+Rengöring av Lundin,Genomförd,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut,false,true
+Silar i sockermottagningen (2st),Genomförd,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut,false,true
+Nybered balja gång 2 & mellangång,Genomförd,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut,false,true
+Rensa gångar på pumpar & slangar,Genomförd,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut,false,true
+Rengör pumpar & slangar,Genomförd,7,2018-11-04,2018-11-11,,,,,Jäskällaren,Veckoavslut,false,true
+Kalibrera & Rengör Anton Paar,Veckorengöring,7,2018-11-04,2018-11-11,Månadsrengöring,28,2018-11-04,2018-12-02,Jäskällaren,Veckoavslut,false,true
+Byta luftfilter försörjningsluft JB,Genomförd,100,2017-11-05,2018-02-13,,,,,Jäskällaren,Sällan,false,true
+Byta luftfilter jästbehållare,Genomförd,100,2017-11-06,2018-02-14,,,,,Jäskällaren,Sällan,false,true
+Rengöring Maltgropen,Genomförd,200,2017-09-05,2018-03-24,,,,,Jäskällaren,Sällan,false,true
+Rengöring Maltsilo 1,Rengjord,390,2017-02-05,2018-03-02,,,,,Brygghuset,Sällan,false,true
+Rengöring Maltsilo 2,Rengjord,390,2018-03-08,2019-04-02,,,,,Brygghuset,Sällan,false,true
+Rengöring Maltsilo 3,Rengjord,390,2017-02-05,2018-03-02,,,,,Brygghuset,Sällan,false,true
+Gamla rundkörningen,Genomförd,7,2018-10-19,2018-10-26,,,,,Jäskällaren,Veckoavslut,false,true
+Rengöring Maltsilo 4,Rengjord,390,2017-02-05,2018-03-02,,,,,Brygghuset,Sällan,false,true

@@ -1,0 +1,62 @@
+<%- include ./partials/header.ejs %>
+<%- include ./partials/navbar.ejs %>
+
+<div class="main-content">
+  <% for (let i= 0; i < distinctAreas.length; i++){ %>
+    <h3 class="area-type"><%= distinctAreas[i] %></h3>
+    <% for (let j = 0; j < result.length; j++) { %>
+      <% if (result[j]['Area'] === distinctAreas[i]) { %>
+        <a href="historikspecific?objekt=<%= result[j]['Objekt'] %>" class="btn btn-primary" style="margin:2px"><%= result[j]["Objekt"] %></a>
+      <% } %>  
+    <% } %>  
+  <% } %>
+
+</div>
+  <!-- Modal för att registrera rengöring -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Rengöringsregistrering</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form action="/cleaning" method="post">
+            <div class="form-group">
+              <label for="recipient-name" class="col-form-label">Objekt: <span id="cleaning-object">Objekt</span></label>
+              <br>
+              <!-- <label for="recipient-name" class="col-form-label">Objekt-id: <span id="cleaning-object-id" name="cleaningName">nr...</span></label> -->
+            </div>
+            <hr>
+            <div class="form-group">
+              <p>Planerad rengöring: <span id="planned-cleaning"></span></p>
+              <hr>
+              <label for="cleaningChoice" class="col-form-label">Välj rengöringstyp:</label>
+              <select class="form-control" name ="cleaningChoice" id="cleaningChoice">
+              </select>
+            </div>
+            <hr>
+            <div class="form-group">
+              <label for="cleaningSign" class="col-form-label">Sign:</label>
+              <input class="form-control" type="text" name="cleaningSign" id="cleaning-signing" pattern=".{8,}" required title="8 bokstäver" value="se" required>
+              <small id="emailHelp" class="form-text text-muted">Ditt carlsbergs-login 8 bokstäver</small>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <!-- <label for="recipient-name" class="col-form-label">Objekt-id: <span id="cleaning-object-id" name="cleaningName">nr...</span></label> -->
+            <input type="text" id="objektId" name="objektId" style="display:none">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Avbryt</button>
+            <button type="submit" class="btn btn-success">Registrera</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script src="js/assets/jquery-3.3.1.min.js"></script>
+<script src="js/assets/bootstrap.bundle.min.js"></script>
+
+</html>
