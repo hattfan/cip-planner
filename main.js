@@ -10,16 +10,12 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/views'));
 app.set('view engine', 'ejs');
 
-MongoClient.connect('mongodb://localhost:27017', (err, client) => {
+  MongoClient.connect('mongodb://ola:Neroxrox5(@ds243897.mlab.com:43897/cip-planner', (err, client) => {
 
-  var db = client.db('carlsberg');
+    var db = client.db('cip-planner');
   var today = moment().format('YYYY-MM-DD').toString();
 
   app.get('/', function (req, res) {
-    res.render('index')
-  })
-
-  app.get('/filtrering', function (req, res) {
     var cleanedObject;
     req.query.cleanedobject ? cleanedObject = req.query.cleanedobject : cleanedObject = false;
 
@@ -55,37 +51,6 @@ MongoClient.connect('mongodb://localhost:27017', (err, client) => {
     });
   });
 
-  app.get('/cellar', function (req, res) {
-    var cleanedObject;
-    req.query.cleanedobject ? cleanedObject = req.query.cleanedobject : cleanedObject = false;
-
-    db.collection('cip_register').find('').sort({ 'Objekt': 1 }).toArray(function (err, dbObjects) {
-      if (err) throw err;
-      var today = moment().format('YYYY-MM-DD').toString();
-      if (cleanedObject.length > 0) {
-        db.collection('cip_logg').find({ 'Objekt': cleanedObject }).limit(1).sort({ 'DateTime': -1 }).toArray(function (err, lastRegisteredCleaning) {
-          if (err) throw err;
-
-          var now = new moment(moment().format())
-          var lastCleanedTime = new moment(lastRegisteredCleaning[0]['DateTime'])
-          var duration = moment.duration(now.diff(lastCleanedTime))
-          if (duration.asSeconds() > 10) cleanedObject = null;
-
-          db.collection('cip_logg').find({ 'Date': today }).toArray(function (err, dbRegisteredCleaning) {
-            if (err) throw err;
-            var uniqueVal = uniqueValuesInObject(dbObjects)
-            res.render('cellar', { moment: moment, dbObjects: dbObjects, uniqueVal: uniqueVal, dbRegisteredCleaning: dbRegisteredCleaning, cleanedObject: cleanedObject });
-          })
-        })
-      } else {
-        db.collection('cip_logg').find({ 'Date': today }).toArray(function (err, dbRegisteredCleaning) {
-          if (err) throw err;
-          var uniqueVal = uniqueValuesInObject(dbObjects)
-          res.render('cellar', { moment: moment, dbObjects: dbObjects, uniqueVal: uniqueVal, dbRegisteredCleaning: dbRegisteredCleaning, cleanedObject: cleanedObject });
-        })
-      }
-    });
-  });
 
 
   // Update cleaning
