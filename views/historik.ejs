@@ -2,7 +2,7 @@
 <%- include ./partials/navbar.ejs %>
 
 <div class="main-content">
-  <% for (let i= 0; i < distinctAreas.length; i++){ %>
+  <% for (let i= 0; i < 1; i++){ %>
     <h3 class="area-type"><%= distinctAreas[i] %></h3>
     <% for (let j = 0; j < result.length; j++) { %>
       <% if (result[j]['Area'] === distinctAreas[i]) { %>
