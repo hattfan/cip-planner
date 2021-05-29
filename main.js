@@ -15,6 +15,10 @@ MongoClient.connect("mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongod
   var db = client.db('cip-planner');
   var today = moment().format('YYYY-MM-DD').toString();
 
+  app.get('/alive', function (req, res) {
+    res.send('stayin alive');
+  })
+
   app.get('/', function (req, res) {
     var cleanedObject;
     req.query.cleanedobject ? cleanedObject = req.query.cleanedobject : cleanedObject = false;
