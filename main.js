@@ -10,9 +10,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/views'));
 app.set('view engine', 'ejs');
 
-  MongoClient.connect('mongodb://ola:Neroxrox5(@ds243897.mlab.com:43897/cip-planner', (err, client) => {
-
-    var db = client.db('cip-planner');
+MongoClient.connect("mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", (err, client) => {
+  console.log(err);
+  var db = client.db('cip-planner');
   var today = moment().format('YYYY-MM-DD').toString();
 
   app.get('/', function (req, res) {
@@ -117,14 +117,17 @@ app.set('view engine', 'ejs');
     var backURL = req.header('Referer') || '/';
     var changedURL = backURL.indexOf('?') > 0 ? backURL.substr(0, backURL.indexOf('?')) : backURL;
     var id = require('mongodb').ObjectID("5d1367eb7f0cb11e58a12abb");
-    db.collection('cip_register').updateOne({ "_id": id }, { $set: 
-      {"Cleaning1LastDate" : today,
-      "Cleaning1NextDate" : moment(today).add('days', 30).format('YYYY-MM-DD')
-      }}, function (err, result) {
-        
+    db.collection('cip_register').updateOne({ "_id": id }, {
+      $set:
+      {
+        "Cleaning1LastDate": today,
+        "Cleaning1NextDate": moment(today).add('days', 30).format('YYYY-MM-DD')
+      }
+    }, function (err, result) {
+
       if (err) throw err;
       var insertData = {
-        Sign : "seanyone",
+        Sign: "seanyone",
         DateTime: moment().format(),
         Date: moment().format('YYYY-MM-DD'),
         Objekt: "Skicka hur läget på bryggeriet är till Ola",
