@@ -1,7 +1,6 @@
 var express = require("express"),
   app = express(),
   bodyParser = require("body-parser"),
-  MongoClient = require('mongodb').MongoClient,
   mongo = require('mongodb'),
   moment = require('moment'),
   config = require('./database/db_config');
@@ -10,9 +9,13 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/views'));
 app.set('view engine', 'ejs');
 
-MongoClient.connect("mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", (err, client) => {
-  console.log(err);
-  var db = client.db('cip-planner');
+const { MongoClient } = require('mongodb');
+const uri = "mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongodb.net/cip-planner?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+client.connect(err => {
+  console.log(client);
+  const db = client.db("cip-planner")
+// MongoClient.connect("mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongodb.net/cip-planner?retryWrites=true&w=majority", (err, client) => {
   var today = moment().format('YYYY-MM-DD').toString();
 
   app.get('/alive', function (req, res) {
