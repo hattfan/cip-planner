@@ -1,0 +1,132 @@
+Objekt;Cleaning1;Cleaning1Frequency;Cleaning1LastDate;Cleaning1NextDate;Cleaning2;Cleaning2Frequency;Cleaning2LastDate;Cleaning2NextDate;Area;Typ;MoveBothObjects;WillBeEmailed;PufNamn
+303 Vattentank;Syradisk;60;2019-05-16;2019-07-15;Lutdisk;60;2019-05-16;2019-07-15;Filtrering;Vanlig;FALSE;TRUE;SUB_OBJECT=303
+BBT 304;Syradisk;7;2019-05-10;2019-05-17;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=304
+BBT 305;Syradisk;7;2019-05-10;2019-05-17;Lutdisk;21;2019-04-26;2019-05-17;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=305
+BBT 306;Syradisk;7;2019-05-10;2019-05-17;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=306
+BBT 307;Syradisk;7;2019-05-21;2019-05-28;Lutdisk;21;2019-05-21;2019-06-11;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=307
+BBT 308;Syradisk;7;2019-05-08;2019-05-15;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=308
+301 Vattentank;Syradisk;30;2019-03-10;2019-05-09;Lutdisk;60;2019-01-22;2019-03-23;Filtrering;Vanlig;FALSE;TRUE;SUB_OBJECT=301
+BBT 310;Syradisk;7;2019-05-09;2019-05-16;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=310
+BBT 309;Syradisk;7;2019-05-08;2019-05-15;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=309
+BBT 311;Syradisk;7;2019-05-08;2019-05-15;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=311
+BBT 312;Syradisk;7;2019-05-15;2019-05-22;Lutdisk;21;2019-05-17;2019-06-07;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=312
+BBT 313;Syradisk;7;2019-03-15;2019-03-22;Lutdisk;21;2019-03-15;2019-04-05;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=313
+BBT 314;Syradisk;7;2019-05-08;2019-05-15;Lutdisk;21;2019-03-10;2019-03-31;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=314
+BBT 315;Syradisk;7;2019-05-09;2019-05-16;Lutdisk;21;2019-05-09;2019-05-30;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=315
+BBT 317;Syradisk;7;2019-05-08;2019-05-15;Lutdisk;21;2019-05-21;2019-06-11;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=317
+BBT 318;Syradisk;7;2019-03-11;2019-03-18;Lutdisk;21;2019-03-11;2019-04-01;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=318
+BBT 319;Syradisk;7;2019-05-10;2019-05-17;Lutdisk;21;2019-03-10;2019-03-31;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=319
+BBT 320;Syradisk;7;2019-05-08;2019-05-15;Lutdisk;21;2019-01-17;2019-02-07;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=320
+BBT 321;Syradisk;7;2019-05-15;2019-05-22;Lutdisk;21;2019-05-15;2019-06-05;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=321
+BBT 322;Syradisk;7;2019-05-17;2019-05-24;Lutdisk;21;2019-05-08;2019-05-29;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=322
+BBT 323;Syradisk;7;2019-03-10;2019-03-17;Lutdisk;21;2019-03-10;2019-03-31;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=323
+302 Vattentank;Syradisk;60;2019-03-10;2019-05-09;Lutdisk;60;2019-01-22;2019-03-23;Filtrering;Vanlig;FALSE;TRUE;SUB_OBJECT=
+BBT 324;Syradisk;7;2019-03-10;2019-03-17;Lutdisk;21;2019-03-10;2019-03-31;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=324
+Filtret Sterilning;Genomförd;7;2019-05-10;2019-05-17;;;;;Filtrering;Vanlig;FALSE;TRUE;OBJECT=LK%20Filterlinje
+BBT 325;Syradisk;7;2019-05-15;2019-05-22;Lutdisk;21;2019-05-15;2019-06-05;Filtrering;Vanlig;TRUE;FALSE;SUB_OBJECT=325
+T34;Syradisk;7;2019-03-10;2019-03-14;Lutdisk;21;2019-05-09;2019-05-30;Filtrering;Veckoavslut;FALSE;TRUE;OBJECT=LK%20Tank%2034
+T45;Syradisk;7;2019-03-10;2019-03-14;Lutdisk;21;2019-05-15;2019-06-05;Filtrering;Veckoavslut;FALSE;TRUE;OBJECT=LK%20Tank%2045
+Maltax;Rengjord;7;2019-05-08;2019-05-15;;;;;Filtrering;Veckoavslut;FALSE;TRUE;
+Filtret-Veckoavslut;Lutsterilning;7;2019-05-17;2019-05-24;;;;;Filtrering;Veckoavslut;FALSE;TRUE;
+Kontrollera BBT:er i Citect;Genomförd;7;2019-05-10;2019-05-17;;;;;Filtrering;Veckoavslut;FALSE;TRUE;
+Gurtank T66;Syradisk;90;2019-03-10;2019-06-08;;;;;Filtrering;Sällan;FALSE;TRUE;
+Aldox;Syradisk;7;2019-03-10;2019-03-14;;;;;Filtrering;Veckoavslut;FALSE;TRUE;
+Gurtank T67;Syradisk;90;2019-03-10;2019-06-08;;;;;Filtrering;Sällan;FALSE;TRUE;
+Gurtank T68;Syradisk;90;2019-03-10;2019-06-08;;;;;Filtrering;Sällan;FALSE;TRUE;
+Rengör avloppsrännor jäskällaren;Rengjord;7;2017-01-27;2017-02-03;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+Vattenfilter;Genomförd;7;2019-03-10;2019-03-14;;;;;Filtrering;Veckoavslut;FALSE;TRUE;
+Lilla balanssystemet (2);Lutdisk;90;2019-03-10;2019-06-08;;;;;Filtrering;Sällan;FALSE;TRUE;
+Balanssystemet jäskällaren;Lutdisk;90;2019-05-21;2019-08-19;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+Kolsyraledning;Rengjord;90;2018-04-27;2018-07-26;;;;;Filtrering;Sällan;FALSE;TRUE;
+Byt ut gula rengöringsverktyg (Filtrering);Genomförd;720;2019-01-31;2021-01-20;;;;;Filtrering;Sällan;FALSE;TRUE;
+Stora balanssystemet (1);Lutdisk;90;2018-09-14;2018-12-13;;;;;Filtrering;Sällan;FALSE;TRUE;
+BBT 316;Syradisk;7;2019-03-10;2019-03-17;Lutdisk;21;2019-03-10;2019-03-31;Filtrering;Vanlig;TRUE;FALSE;
+Byt ut blåa rengöringsverktyg (Filtrering);Genomförd;1440;2017-01-27;2021-01-06;;;;;Filtrering;Sällan;FALSE;TRUE;
+Byt ut blåa rengöringsverktyg (Brygghuset);Genomförd;1440;2017-01-27;2021-01-06;;;;;Brygghuset;Sällan;FALSE;TRUE;
+Byt ut gula rengöringsverktyg (Brygghuset);Genomförd;720;2017-01-27;2019-01-17;;;;;Brygghuset;Sällan;FALSE;TRUE;
+CIP av 321 och 45 Tillsammans;Lutdisk;30;2019-05-15;2019-06-14;;;;;Filtrering;Vanlig;FALSE;TRUE;
+Byte av filterpatroner;Genomförd;180;2019-05-17;2019-11-13;;;;;Filtrering;Sällan;FALSE;TRUE;
+LT 01;Syradisk;14;2019-05-15;2019-05-29;Lutdisk;180;2019-05-15;2019-11-11;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=01
+LT 03;Syradisk;14;2018-10-11;2018-10-25;Lutdisk;180;2018-07-22;2019-01-18;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=03
+LT 02;Lutdisk;90;2018-09-21;2018-12-20;;;;;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=02
+LT 05;Syradisk;14;2019-05-10;2019-05-24;Lutdisk;180;2019-05-10;2019-11-06;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=05
+LT 06;Syradisk;14;2018-10-28;2018-11-11;Lutdisk;180;2018-04-22;2018-10-19;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=06
+LT 04;Syradisk;14;2018-10-22;2018-11-05;Lutdisk;180;2018-10-22;2019-04-20;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=04
+LT 07;Syradisk;14;2018-10-22;2018-11-05;Lutdisk;180;2018-09-18;2019-03-17;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=07
+Byt ut gula rengöringsverktyg (Jäskällaren);Genomförd;720;2017-01-27;2019-01-17;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+LT 09;Syradisk;14;2018-08-24;2018-09-07;Lutdisk;180;2018-08-24;2019-02-20;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=09
+LT 08;Syradisk;14;2019-05-15;2019-05-29;Lutdisk;180;2018-10-01;2019-03-30;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=08
+LT 10;Syradisk;14;2018-08-12;2018-08-26;Lutdisk;180;2018-08-12;2019-02-08;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=10
+Byt ut blåa rengöringsverktyg (Jäskällaren);Genomförd;1440;2017-01-27;2021-01-06;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+LT 12;Syradisk;14;2018-10-22;2018-11-05;Lutdisk;180;2018-08-14;2019-02-10;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=12
+LT 13;Syradisk;14;2018-10-09;2018-10-23;Lutdisk;180;2019-05-15;2019-11-11;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=13
+LT 14;Syradisk;14;2017-07-10;2017-07-24;Lutdisk;180;2017-07-10;2018-01-06;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=14
+LT 15;Lutdisk;90;2017-06-18;2017-09-16;;;;;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=15
+LT 16;Syradisk;14;2017-06-18;2017-07-02;Lutdisk;180;2017-06-18;2017-12-15;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=16
+LT 21;Syradisk;14;2018-10-23;2018-11-06;Lutdisk;180;2018-07-16;2019-01-12;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=21
+LT 11;Syradisk;14;2018-08-30;2018-09-13;Lutdisk;180;2018-08-30;2019-02-26;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=11
+LT 25;Syradisk;14;2018-05-19;2018-06-02;Lutdisk;180;2018-05-19;2018-11-15;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=25
+LT 22;Syradisk;14;2018-09-29;2018-10-13;Lutdisk;180;2018-09-29;2019-03-28;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=22
+LT 26;Syradisk;14;2018-10-28;2018-11-11;Lutdisk;180;2018-08-31;2019-02-27;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=26
+LT 27;Syradisk;14;2018-10-14;2018-10-28;Lutdisk;180;2018-10-14;2019-04-12;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=27
+LT 28;Syradisk;14;2018-10-22;2018-11-05;Lutdisk;180;2018-08-24;2019-02-20;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=28
+LT 23;Syradisk;14;2018-10-16;2018-10-30;Lutdisk;180;2018-10-16;2019-04-14;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=23
+LT 29;Syradisk;14;2018-10-23;2018-11-06;Lutdisk;180;2018-09-17;2019-03-16;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=29
+LT 30;Syradisk;14;2018-11-01;2018-11-15;Lutdisk;180;2018-08-10;2019-02-06;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=30
+LT 24;Syradisk;14;2018-08-21;2018-09-04;Lutdisk;180;2018-08-21;2019-02-17;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=24
+LT 32;Syradisk;14;2018-10-23;2018-11-06;Lutdisk;180;2019-05-15;2019-11-11;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=32
+LT 33;Syradisk;14;2018-10-10;2018-10-24;Lutdisk;180;2018-08-07;2019-02-03;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=33
+LT 34;Syradisk;14;2018-10-07;2018-10-21;Lutdisk;180;2018-10-07;2019-04-05;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=34
+Byt ut gula rengöringsverktyg (Jäskällaren);Genomförd;720;2017-05-07;2019-04-27;;;;;Jäskällaren;Sällan;FALSE;TRUE;SUB_OBJECT=
+JT 51;Lutdisk;14;2019-05-09;2019-05-23;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=51
+Byt ut blåa rengöringsverktyg (Jäskällaren);Genomförd;1440;2017-05-07;2021-04-16;;;;;Jäskällaren;Sällan;FALSE;TRUE;SUB_OBJECT=
+LT 31;Syradisk;14;2018-05-08;2018-05-22;Lutdisk;180;2018-05-08;2018-11-04;Lagerkällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=31
+JT 53;Lutdisk;14;2019-05-10;2019-05-24;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=53
+JT 52;Lutdisk;14;2018-10-24;2018-11-07;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=52
+JT 57;Lutdisk;14;2019-05-10;2019-05-24;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=57
+JT 56;Lutdisk;14;2019-05-09;2019-05-23;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=56
+JT 58;Lutdisk;14;2018-08-20;2018-09-03;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=58
+JT 54;Lutdisk;14;2019-05-10;2019-05-24;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=54
+JT 59;Lutdisk;14;2019-05-15;2019-05-29;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=59
+JT 61;Lutdisk;14;2018-10-07;2018-10-21;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=61
+JT 60;Lutdisk;14;2018-09-21;2018-10-05;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=60
+JT 62;Lutdisk;14;2019-05-21;2019-06-04;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=62
+JT 63;Lutdisk;14;2018-08-29;2018-09-12;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=63
+JT 64;Lutdisk;14;2018-10-22;2018-11-05;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=64
+JT 55;Lutdisk;14;2018-08-29;2018-09-12;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=55
+JT 65;Lutdisk;14;2018-08-03;2018-08-17;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=65
+JT 67;Lutdisk;14;2018-10-09;2018-10-23;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=67
+JT 66;Lutdisk;14;2018-09-29;2018-10-13;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=66
+JT 68;Lutdisk;14;2018-11-02;2018-11-16;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=68
+JT 69;Lutdisk;14;2018-10-15;2018-10-29;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=69
+JT 70;Lutdisk;14;2018-09-24;2018-10-08;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=70
+JT 71;Lutdisk;14;2018-08-12;2018-08-26;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=71
+JT 73;Lutdisk;14;2018-10-22;2018-11-05;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=73
+JT 72;Lutdisk;14;2018-10-26;2018-11-09;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=72
+JT 74;Lutdisk;14;2018-10-08;2018-10-22;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=74
+JT 75;Lutdisk;14;2018-09-13;2018-09-27;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=75
+JT 76;Lutdisk;14;2018-06-27;2018-07-11;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=76
+JT 77;Lutdisk;14;2018-10-22;2018-11-05;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=77
+JT 79;Lutdisk;14;2018-07-30;2018-08-13;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=79
+JT 82;Lutdisk;14;2018-10-09;2018-10-23;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=82
+JT 84;Lutdisk;14;2018-08-24;2018-09-07;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=84
+Balanssystemet;Lutdisk;90;2018-09-02;2018-12-01;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+JT 78;Lutdisk;14;2018-08-22;2018-09-05;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=78
+Disk av sockermottagningen;Genomförd;31;2018-04-27;2018-05-28;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+JT 83;Lutdisk;14;2018-07-26;2018-08-09;;;;;Jäskällaren;Vanlig;FALSE;FALSE;SUB_OBJECT=83
+Nya rundkörningen;Genomförd;7;2018-11-02;2018-11-09;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Rundkörningen jästledning;Genomförd;31;2018-09-21;2018-10-22;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Rengöring av Lundin;Genomförd;7;2018-11-04;2018-11-11;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Silar i sockermottagningen (2st);Genomförd;7;2018-11-04;2018-11-11;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Nybered balja gång 2 & mellangång;Genomförd;7;2018-11-04;2018-11-11;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Rensa gångar på pumpar & slangar;Genomförd;7;2018-11-04;2018-11-11;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Rengör pumpar & slangar;Genomförd;7;2018-11-04;2018-11-11;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Kalibrera & Rengör Anton Paar;Veckorengöring;7;2018-11-04;2018-11-11;Månadsrengöring;28;2018-11-04;2018-12-02;Jäskällaren;Veckoavslut;TRUE;TRUE;
+Byta luftfilter försörjningsluft JB;Genomförd;100;2017-11-05;2018-02-13;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+Byta luftfilter jästbehållare;Genomförd;100;2017-11-06;2018-02-14;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+Rengöring Maltgropen;Genomförd;200;2017-09-05;2018-03-24;;;;;Jäskällaren;Sällan;FALSE;TRUE;
+Rengöring Maltsilo 1;Rengjord;390;2017-02-05;2018-03-02;;;;;Brygghuset;Sällan;FALSE;TRUE;
+Rengöring Maltsilo 2;Rengjord;390;2018-03-08;2019-04-02;;;;;Brygghuset;Sällan;FALSE;TRUE;
+Rengöring Maltsilo 3;Rengjord;390;2017-02-05;2018-03-02;;;;;Brygghuset;Sällan;FALSE;TRUE;
+Gamla rundkörningen;Genomförd;7;2018-10-19;2018-10-26;;;;;Jäskällaren;Veckoavslut;FALSE;TRUE;
+Rengöring Maltsilo 4;Rengjord;390;2017-02-05;2018-03-02;;;;;Brygghuset;Sällan;FALSE;TRUE;

@@ -5,17 +5,16 @@ var express = require("express"),
   moment = require('moment'),
   config = require('./database/db_config');
 
+require('dotenv').config()
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/views'));
 app.set('view engine', 'ejs');
 
 const { MongoClient } = require('mongodb');
-const uri = "mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongodb.net/cip-planner?retryWrites=true&w=majority";
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
-client.connect(err => {
-  console.log(client);
-  const db = client.db("cip-planner")
-// MongoClient.connect("mongodb+srv://ola:CWecg3gVyDnsFVWo@cip-planner.p4lhb.mongodb.net/cip-planner?retryWrites=true&w=majority", (err, client) => {
+
+MongoClient.connect(process.env.MONGODB_URI, { poolSize: 100 }, (err, client) => {  
+  console.log(err);
+  const db = client.db("cip")
   var today = moment().format('YYYY-MM-DD').toString();
 
   app.get('/alive', function (req, res) {
@@ -373,7 +372,6 @@ function cleaningUpdate(cleaningObjekt, cleaningChoice) {
   }
   // Om objektet har MoveBothObject och disken är en lutdisk skall syradisk även flyttas fram med Frequency
   if (cleaningObjekt[0].MoveBothObjects === true || cleaningObjekt[0].MoveBothObjects === 'TRUE') {
-    console.log('FLYTTAR BÄGGE');
     if (cleaningChoice === "Lutdisk") {
       update[cleaningDates[0]] = moment().format('YYYY-MM-DD');
       // Adderar frequency till dagens datum, för att definiera nästa rengöringsdatum
