@@ -12,7 +12,7 @@ app.set('view engine', 'ejs');
 
 const { MongoClient } = require('mongodb');
 
-MongoClient.connect(process.env.MONGODB_URI, { poolSize: 100 }, (err, client) => {  
+MongoClient.connect("mongodb+srv://ola:CL5QYRBR7qITFsVQ@cluster0.vsoyuhh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", { poolSize: 100 }, (err, client) => {  
   console.log(err);
   const db = client.db("cip")
   var today = moment().format('YYYY-MM-DD').toString();
